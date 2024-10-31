@@ -1,0 +1,286 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: wdps\n"
+"POT-Creation-Date: 2016-08-17 11:06+0500\n"
+"PO-Revision-Date: 2016-10-20 12:22+0400\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.11\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: frontend\n"
+"X-Poedit-SearchPath-1: sliders-notices.php\n"
+
+#: frontend/views/WDPSViewSlider.php:30
+#, fuzzy
+msgid "There is no slider selected or the slider was deleted."
+msgstr "No hay galería seleccionada o la galería se ha eliminado."
+
+#: frontend/views/WDPSViewSlider.php:47
+msgid "There are no posts  in this slider."
+msgstr "No hay mensajes en este deslizador."
+
+#: frontend/views/WDPSViewSlider.php:1829
+#: frontend/views/WDPSViewSlider.php:1894
+msgid "Pause"
+msgstr "Pausa"
+
+#: frontend/views/WDPSViewSlider.php:1862
+msgid "Play"
+msgstr "Juega"
+
+#: sliders-notices.php:188
+msgid "Leave A Review?"
+msgstr "Deje un comentario?"
+
+#: sliders-notices.php:189
+#, php-format
+msgid ""
+"We hope you've enjoyed using WordPress %s! Would you consider leaving us a "
+"review on WordPress.org?"
+msgstr ""
+"Esperamos que hayas disfrutado de usar WordPress %s! ¿Consideraría usted que "
+"nos deja un comentario para WordPress.org?"
+
+#: sliders-notices.php:190
+msgid "Sure! I'd love to!"
+msgstr "¡Por supuesto! ¡Me encantaría!"
+
+#: sliders-notices.php:191
+msgid "I've already left a review"
+msgstr "Yo ya he dejado una reseña"
+
+#: sliders-notices.php:192
+msgid "Maybe Later"
+msgstr "Quizas despues"
+
+#: sliders-notices.php:193 sliders-notices.php:203
+msgid "Never show again"
+msgstr "Nunca mostrar de nuevo"
+
+#: sliders-notices.php:199
+msgid "Hey! How's It Going?"
+msgstr "¡Oye! ¿Cómo va?"
+
+#: sliders-notices.php:200
+#, php-format
+msgid ""
+"Thank you for using WordPress %s! We hope that you've found everything you "
+"need, but if you have any questions:"
+msgstr ""
+"Gracias por usar WordPress %s! Esperamos que usted haya encontrado todo lo "
+"que necesita, pero si usted tiene alguna pregunta:  "
+
+#: sliders-notices.php:201
+msgid "Check out User Guide"
+msgstr "Echa un vistazo a la Guía del Usuario"
+
+#: sliders-notices.php:202
+msgid "Get Some Help"
+msgstr "Conseguir un poco de ayuda"
+
+#~ msgid "There are no posts in this slider."
+#~ msgstr "No hay mensajes en este control deslizante."
+
+#~ msgid "Share on Facebook"
+#~ msgstr "Comparte en Facebook."
+
+#~ msgid "Share on Twitter"
+#~ msgstr "Comparte en Twitter."
+
+#~ msgid "Share on Google+"
+#~ msgstr "Comparte en Google+."
+
+#~ msgid "Share on Pinterest"
+#~ msgstr "Compartir en Pinterest"
+
+#~ msgid "Share on Tumblr"
+#~ msgstr "Compartir en Tumblr"
+
+#~ msgid ""
+#~ "Post Slider by 10Web is a responsive plugin, which allows adding sliders to "
+#~ "your posts/pages and to custom location."
+#~ msgstr ""
+#~ "Post Slider by 10Web es un plugin de respuesta, lo que permite la adición de "
+#~ "diapositivas de tus posts / páginas y ubicación personalizada."
+
+#~ msgid "Updates"
+#~ msgstr "Actualizaciones"
+
+#~ msgid ""
+#~ "You can download the latest version of your plugins from your %s "
+#~ "account.\n"
+#~ "            After deactivate and delete the current version.\n"
+#~ "            Install the downloaded latest version of the plugin."
+#~ msgstr ""
+#~ "Puede descargar la última versión de los plugins de su %s cuenta.\n"
+#~ "Después de desactivar y eliminar la versión actual.\n"
+#~ "Instale la última versión descargada del plugin."
+
+#~ msgid "Current version %s"
+#~ msgstr "Versión actual %s"
+
+#~ msgid "There is a new %s version"
+#~ msgstr "Hay un nuevo %s versión"
+
+#~ msgid "%s is up to date."
+#~ msgstr "%s está actualizado."
+
+#, fuzzy
+#~ msgid "There are no slides in this slider."
+#~ msgstr "No hay imágenes en esta galería."
+
+#~ msgid "field is required."
+#~ msgstr "Se requiere campo. "
+
+#~ msgid "This is not a valid email address."
+#~ msgstr "Esto no es una dirección de correo electrónico válida. "
+
+#~ msgid "There are no images matching your search."
+#~ msgstr "No hay imágenes que coinciden con su búsqueda."
+
+#~ msgid " item(s)"
+#~ msgstr "artículo(s)"
+
+#~ msgid "First"
+#~ msgstr "En primer lugar"
+
+#~ msgid "Previous"
+#~ msgstr "Anterior"
+
+#~ msgid "Next"
+#~ msgstr "Siguiente"
+
+#~ msgid "Last"
+#~ msgstr "Pasado"
+
+#~ msgid "Go to the first page"
+#~ msgstr "Ir a la primera página"
+
+#~ msgid "Go to the previous page"
+#~ msgstr "Ir a la página anterior"
+
+#~ msgid "of"
+#~ msgstr "de"
+
+#~ msgid "Go to the next page"
+#~ msgstr "Ir a la página siguiente"
+
+#~ msgid "Go to the last page"
+#~ msgstr "Ir a la última página"
+
+#~ msgid "Reset"
+#~ msgstr "Restablecer"
+
+#~ msgid "Search"
+#~ msgstr "Búsqueda"
+
+#~ msgid "There is no theme selected or the theme was deleted."
+#~ msgstr "No hay tema seleccionado o se ha eliminado el tema."
+
+#~ msgid "There is no album selected or the album was deleted."
+#~ msgstr " No hay ningún álbum seleccionado o se eliminó el álbum."
+
+#~ msgid "Back"
+#~ msgstr "Back"
+
+#~ msgid "Album is empty."
+#~ msgstr "Álbum está vacío."
+
+#~ msgid "Gallery is empty."
+#~ msgstr "Galería está vacía."
+
+#~ msgid "More"
+#~ msgstr "Más"
+
+#~ msgid "Hide"
+#~ msgstr "Ocultar"
+
+#~ msgid "Show comments"
+#~ msgstr "Mostrar comentarios."
+
+#~ msgid "The image has been deleted."
+#~ msgstr "La imagen ha sido borrada. "
+
+#~ msgid "Maximize"
+#~ msgstr "Maximizar"
+
+#~ msgid "Fullscreen"
+#~ msgstr "Pantalla completa"
+
+#~ msgid "Show info"
+#~ msgstr "Mostrar info"
+
+#~ msgid "Show rating"
+#~ msgstr "Mostrar clasificación"
+
+#~ msgid "Open image in original size."
+#~ msgstr "Abrir imagen en tamaño original."
+
+#~ msgid "Download original image"
+#~ msgstr "Descargar la imagen original"
+
+#~ msgid "Hits: "
+#~ msgstr "Hits: "
+
+#~ msgid "Rated."
+#~ msgstr "Puntuación."
+
+#~ msgid "Not rated yet."
+#~ msgstr "No se ha clasificado. "
+
+#~ msgid "Votes: "
+#~ msgstr "Votos: "
+
+#~ msgid "Cancel your rating."
+#~ msgstr "Cancelar su calificación. "
+
+#~ msgid "You have already rated."
+#~ msgstr "Ya has valorado. "
+
+#~ msgid "Error. Incorrect Verification Code."
+#~ msgstr "Error. Incorrecta del código de verificación. "
+
+#~ msgid "Hide Comments"
+#~ msgstr "Ocultar comentarios"
+
+#~ msgid "Name"
+#~ msgstr "Nombre"
+
+#~ msgid "Email"
+#~ msgstr "Email"
+
+#~ msgid "Comment"
+#~ msgstr "Comentario"
+
+#~ msgid "Verification Code"
+#~ msgstr "Código de Verificación"
+
+#~ msgid "Submit"
+#~ msgstr "Enviar"
+
+#~ msgid "Your comment is awaiting moderation"
+#~ msgstr "Tu comentario está pendiente de moderación "
+
+#~ msgid "Delete Comment"
+#~ msgstr "Eliminar comentario"
+
+#~ msgid "Show Comments"
+#~ msgstr " Mostrar comentarios"
+
+#~ msgid "Hide info"
+#~ msgstr "Anterior información"
+
+#~ msgid "Hide rating"
+#~ msgstr "Ocultar calificación."
+
+#~ msgid "Restore"
+#~ msgstr "Restaurar"
+
+#~ msgid "Exit Fullscreen"
+#~ msgstr "Salir de pantalla completa"

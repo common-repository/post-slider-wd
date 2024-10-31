@@ -1,0 +1,297 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: wdps\n"
+"POT-Creation-Date: 2016-01-27 17:02+0400\n"
+"PO-Revision-Date: 2016-12-05 14:42+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: sv_SE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.11\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: frontend\n"
+"X-Poedit-SearchPath-1: sliders-notices.php\n"
+"X-Poedit-SearchPath-2: update/update.php\n"
+
+#: frontend/views/WDPSViewSlider.php:32
+msgid "There is no slider selected or the slider was deleted."
+msgstr "Du har inte valt något bildspel eller så har bildspelet raderats."
+
+#: frontend/views/WDPSViewSlider.php:49
+msgid "There are no posts in this slider."
+msgstr "Det finns inga inlägg i det här bildspelet."
+
+#: frontend/views/WDPSViewSlider.php:1194
+msgid "Share on Facebook"
+msgstr "Dela med dig på Facebook."
+
+#: frontend/views/WDPSViewSlider.php:1200
+msgid "Share on Twitter"
+msgstr "Dela på Twitter."
+
+#: frontend/views/WDPSViewSlider.php:1206
+msgid "Share on Google+"
+msgstr "Dela med dig på Google+."
+
+#: frontend/views/WDPSViewSlider.php:1212
+msgid "Share on Pinterest"
+msgstr "Dela på Pinterest"
+
+#: frontend/views/WDPSViewSlider.php:1218
+msgid "Share on Tumblr"
+msgstr "Dela på Tumblr"
+
+#: frontend/views/WDPSViewSlider.php:2876
+#: frontend/views/WDPSViewSlider.php:2949
+msgid "Pause"
+msgstr "Paus"
+
+#: frontend/views/WDPSViewSlider.php:2913
+msgid "Play"
+msgstr "Spela"
+
+#: sliders-notices.php:188
+msgid "Leave A Review?"
+msgstr "Lämna en recension?"
+
+#: sliders-notices.php:189
+#, php-format
+msgid ""
+"We hope you've enjoyed using WordPress %s! Would you consider leaving us a "
+"review on WordPress.org?"
+msgstr ""
+"Vi hoppas att du har haft hjälp av Wordpress %s! Kan du tänka dig att lämna "
+"oss en recension på WordPress.org?"
+
+#: sliders-notices.php:190
+msgid "Sure! I'd love to!"
+msgstr "Absolut, det vill jag gärna!"
+
+#: sliders-notices.php:191
+msgid "I've already left a review"
+msgstr "Jag har redan lämnat en recension"
+
+#: sliders-notices.php:192
+msgid "Maybe Later"
+msgstr "Kanske senare"
+
+#: sliders-notices.php:193 sliders-notices.php:203
+msgid "Never show again"
+msgstr "Visa inte igen"
+
+#: sliders-notices.php:199
+msgid "Hey! How's It Going?"
+msgstr "Hallå, hur är läget?"
+
+#: sliders-notices.php:200
+#, php-format
+msgid ""
+"Thank you for using WordPress %s! We hope that you've found everything you "
+"need, but if you have any questions:"
+msgstr ""
+"Tack för att du använder Wordpress %s! Vi hoppas att du har hittat allt du "
+"behöver, men om du har några frågor:"
+
+#: sliders-notices.php:201
+msgid "Check out User Guide"
+msgstr "Titta i användarhandboken"
+
+#: sliders-notices.php:202
+msgid "Get Some Help"
+msgstr "Få lite hjälp"
+
+#: update/update.php:20
+msgid ""
+"Post Slider by 10Web is a responsive plugin, which allows adding sliders to your "
+"posts/pages and to custom location."
+msgstr ""
+"Post Slider by 10Web är en responsiv plugin, som gör det möjligt att lägga till "
+"bilder till dina inlägg / sidor och på angiven plats."
+
+#: update/update.php:67
+msgid "Updates"
+msgstr "Uppdateringar"
+
+#: update/update.php:105
+#, php-format
+msgid ""
+"You can download the latest version of your plugins from your %s account.\n"
+"            After deactivate and delete the current version.\n"
+"            Install the downloaded latest version of the plugin."
+msgstr ""
+"Du kan ladda ner den senaste versionen av dina plugins från %s konto.\n"
+"Efter att du avaktivera och tagit bort den aktuella versionen.\n"
+"Ladda ned och installera den senaste versionen."
+
+#: update/update.php:141
+#, php-format
+msgid "Current version %s"
+msgstr "Aktuell version %s"
+
+#: update/update.php:147 update/update.php:219
+#, php-format
+msgid "There is a new %s version"
+msgstr "Det finns en ny %s  version."
+
+#: update/update.php:171 update/update.php:206
+#, php-format
+msgid "%s is up to date."
+msgstr "%s är den senaste versionen."
+
+#, fuzzy
+#~ msgid "There are no slides in this slider."
+#~ msgstr "Det finns inga bilder i detta galleri."
+
+#~ msgid "field is required."
+#~ msgstr "fält krävs."
+
+#~ msgid "This is not a valid email address."
+#~ msgstr "Detta är inte en giltig e-postadress."
+
+#~ msgid "There are no images matching your search."
+#~ msgstr "Det finns inga bilder som matchar din sökning."
+
+#~ msgid " item(s)"
+#~ msgstr "produkten"
+
+#~ msgid "First"
+#~ msgstr "Först"
+
+#~ msgid "Previous"
+#~ msgstr "Föregående"
+
+#~ msgid "Next"
+#~ msgstr "Nästa"
+
+#~ msgid "Last"
+#~ msgstr "Last"
+
+#~ msgid "Go to the first page"
+#~ msgstr "Gå till den första sidan"
+
+#~ msgid "Go to the previous page"
+#~ msgstr "Gå till föregående sida"
+
+#~ msgid "of"
+#~ msgstr "av"
+
+#~ msgid "Go to the next page"
+#~ msgstr "Gå till nästa sida"
+
+#~ msgid "Go to the last page"
+#~ msgstr "Gå till sista sida"
+
+#~ msgid "Reset"
+#~ msgstr "Återställ"
+
+#~ msgid "Search"
+#~ msgstr "Sök"
+
+#~ msgid "There is no theme selected or the theme was deleted."
+#~ msgstr "Det finns inget tema som valts eller temat tagits bort."
+
+#~ msgid "There is no album selected or the album was deleted."
+#~ msgstr "Det finns inga album valts eller albumet bort."
+
+#~ msgid "Back"
+#~ msgstr "Back"
+
+#~ msgid "Album is empty."
+#~ msgstr "Album är tom."
+
+#~ msgid "Gallery is empty."
+#~ msgstr "Galleri är tomt."
+
+#~ msgid "More"
+#~ msgstr "Mer"
+
+#~ msgid "Hide"
+#~ msgstr "Hide"
+
+#~ msgid "Show comments"
+#~ msgstr "Visa kommentarer."
+
+#~ msgid "The image has been deleted."
+#~ msgstr "Bilden har tagits bort."
+
+#~ msgid "Maximize"
+#~ msgstr "Maximera"
+
+#~ msgid "Fullscreen"
+#~ msgstr "Fullscreen"
+
+#~ msgid "Show info"
+#~ msgstr "Visa info"
+
+#~ msgid "Show rating"
+#~ msgstr "Visa betyg"
+
+#~ msgid "Open image in original size."
+#~ msgstr "Öppna bilden i originalstorlek. "
+
+#~ msgid "Download original image"
+#~ msgstr "Ladda ner ursprungsbild"
+
+#~ msgid "Hits: "
+#~ msgstr "Träffar: "
+
+#~ msgid "Rated."
+#~ msgstr "Märk."
+
+#~ msgid "Not rated yet."
+#~ msgstr "Inte betygsatt än. "
+
+#~ msgid "Votes: "
+#~ msgstr "Röster: "
+
+#~ msgid "Cancel your rating."
+#~ msgstr "Avboka din rating. "
+
+#~ msgid "You have already rated."
+#~ msgstr "Du har redan betygsatt. "
+
+#~ msgid "Error. Incorrect Verification Code."
+#~ msgstr "Fel. Felaktig verifikationskod. "
+
+#~ msgid "Hide Comments"
+#~ msgstr "Göm kommentarer"
+
+#~ msgid "Name"
+#~ msgstr "Namn"
+
+#~ msgid "Email"
+#~ msgstr "Email"
+
+#~ msgid "Comment"
+#~ msgstr "Kommentar"
+
+#~ msgid "Verification Code"
+#~ msgstr "Verifieringskod"
+
+#~ msgid "Submit"
+#~ msgstr "Skicka"
+
+#~ msgid "Your comment is awaiting moderation"
+#~ msgstr "Din kommentar väntar på moderering "
+
+#~ msgid "Delete Comment"
+#~ msgstr "Ta bort kommentar"
+
+#~ msgid "Show Comments"
+#~ msgstr "Visa kommentarer"
+
+#~ msgid "Hide info"
+#~ msgstr "Dölj"
+
+#~ msgid "Hide rating"
+#~ msgstr "Göm betyg"
+
+#~ msgid "Restore"
+#~ msgstr "Återställ"
+
+#~ msgid "Exit Fullscreen"
+#~ msgstr "Avsluta fullskärm"

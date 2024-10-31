@@ -1,0 +1,2898 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: post-slider-wd\n"
+"POT-Creation-Date: 2017-04-19 17:47+0400\n"
+"PO-Revision-Date: 2017-04-20 11:42+0400\n"
+"Last-Translator: admin < vahram@gmail.com >\n"
+"Language-Team: \n"
+"Language: hi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 2.0.1\n"
+"X-Poedit-Basepath: ../..\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: admin/controllers/WDPSControllerSliders_wdps.php:90 admin/views/WDPSViewSliders_wdps.php:2719
+msgid "All"
+msgstr "सब"
+
+#: admin/controllers/WDPSControllerSliders_wdps.php:629 framework/WDW_PS_Library.php:141
+msgid "Changes must be saved."
+msgstr "परिवर्तन बचाया जाना चाहिए।"
+
+#: admin/controllers/WDPSControllerSliders_wdps.php:648 admin/controllers/WDPSControllerSliders_wdps.php:922
+#: admin/controllers/WDPSControllerSliders_wdps.php:964 admin/controllers/WDPSControllerSliders_wdps.php:1006
+#: framework/WDW_PS_Library.php:75 post-slider-wd.php:394
+msgid "You must select at least one item."
+msgstr "आपको कम से कम एक आइटम का चयन करना होगा।"
+
+#: admin/controllers/WDPSControllerSliders_wdps.php:652
+msgid "Items Succesfully Duplicated."
+msgstr "आइटम सफलतापूर्वक दोहराया।"
+
+#: admin/controllers/WDPSControllerSliders_wdps.php:893 framework/WDW_PS_Library.php:57
+msgid "Item Succesfully Deleted."
+msgstr "आइटम सफलतापूर्वक नष्ट कर दिया।"
+
+#: admin/controllers/WDPSControllerSliders_wdps.php:896 admin/controllers/WDPSControllerSliders_wdps.php:935
+#: admin/controllers/WDPSControllerSliders_wdps.php:977 framework/WDW_PS_Library.php:51
+msgid "Error. Please install plugin again."
+msgstr "त्रुटि। फिर प्लगइन स्थापित करें।"
+
+#: admin/controllers/WDPSControllerSliders_wdps.php:918 framework/WDW_PS_Library.php:69
+msgid "Items Succesfully Deleted."
+msgstr "आइटम सफलतापूर्वक नष्ट कर दिया।"
+
+#: admin/controllers/WDPSControllerSliders_wdps.php:932 framework/WDW_PS_Library.php:93
+msgid "Item Succesfully Published."
+msgstr "आइटम सफलतापूर्वक प्रकाशित।"
+
+#: admin/controllers/WDPSControllerSliders_wdps.php:960 framework/WDW_PS_Library.php:99
+msgid "Items Succesfully Published."
+msgstr "आइटम सफलतापूर्वक प्रकाशित।"
+
+#: admin/controllers/WDPSControllerSliders_wdps.php:974 framework/WDW_PS_Library.php:105
+msgid "Item Succesfully Unpublished."
+msgstr "आइटम सफलतापूर्वक अप्रकाशित।"
+
+#: admin/controllers/WDPSControllerSliders_wdps.php:1002 framework/WDW_PS_Library.php:111
+msgid "Items Succesfully Unpublished."
+msgstr "आइटम सफलतापूर्वक अप्रकाशित।"
+
+#: admin/views/WDPSViewGoptions_wdps.php:37 post-slider-wd.php:32
+msgid "Global Options"
+msgstr "ग्लोबल विकल्प"
+
+#: admin/views/WDPSViewGoptions_wdps.php:42 admin/views/WDPSViewSliders_wdps.php:545
+msgid "Save"
+msgstr "सहेजें"
+
+#: admin/views/WDPSViewGoptions_wdps.php:49
+msgid "Include scripts/styles only on necessary pages"
+msgstr "शामिल केवल आवश्यक पृष्ठों पर लिपियों / शैलियों"
+
+#: admin/views/WDPSViewGoptions_wdps.php:51 admin/views/WDPSViewSliders_wdps.php:637
+#: admin/views/WDPSViewSliders_wdps.php:661 admin/views/WDPSViewSliders_wdps.php:705
+#: admin/views/WDPSViewSliders_wdps.php:752 admin/views/WDPSViewSliders_wdps.php:760
+#: admin/views/WDPSViewSliders_wdps.php:768 admin/views/WDPSViewSliders_wdps.php:776
+#: admin/views/WDPSViewSliders_wdps.php:791 admin/views/WDPSViewSliders_wdps.php:799
+#: admin/views/WDPSViewSliders_wdps.php:814 admin/views/WDPSViewSliders_wdps.php:832
+#: admin/views/WDPSViewSliders_wdps.php:888 admin/views/WDPSViewSliders_wdps.php:898
+#: admin/views/WDPSViewSliders_wdps.php:913 admin/views/WDPSViewSliders_wdps.php:932
+#: admin/views/WDPSViewSliders_wdps.php:955 admin/views/WDPSViewSliders_wdps.php:999
+#: admin/views/WDPSViewSliders_wdps.php:1009 admin/views/WDPSViewSliders_wdps.php:1019
+#: admin/views/WDPSViewSliders_wdps.php:1029 admin/views/WDPSViewSliders_wdps.php:1039
+#: admin/views/WDPSViewSliders_wdps.php:1253 admin/views/WDPSViewSliders_wdps.php:1492
+#: admin/views/WDPSViewSliders_wdps.php:1510 admin/views/WDPSViewSliders_wdps.php:1773
+#: admin/views/WDPSViewSliders_wdps.php:1845 admin/views/WDPSViewSliders_wdps.php:2117
+#: admin/views/WDPSViewSliders_wdps.php:2352 admin/views/WDPSViewSliders_wdps.php:2498
+#: admin/views/WDPSViewSliders_wdps.php:2896 admin/views/WDPSViewSliders_wdps.php:3119
+#: admin/views/WDPSViewSliders_wdps.php:3266 admin/views/WDPSViewUninstall_wdps.php:71 post-slider-wd.php:350
+#: wd/includes/overview.php:233 wd/includes/overview.php:240 wd/includes/overview.php:247
+#: wd/includes/overview.php:257
+msgid "Yes"
+msgstr "हाँ"
+
+#: admin/views/WDPSViewGoptions_wdps.php:52 admin/views/WDPSViewSliders_wdps.php:638
+#: admin/views/WDPSViewSliders_wdps.php:662 admin/views/WDPSViewSliders_wdps.php:706
+#: admin/views/WDPSViewSliders_wdps.php:753 admin/views/WDPSViewSliders_wdps.php:761
+#: admin/views/WDPSViewSliders_wdps.php:769 admin/views/WDPSViewSliders_wdps.php:777
+#: admin/views/WDPSViewSliders_wdps.php:792 admin/views/WDPSViewSliders_wdps.php:800
+#: admin/views/WDPSViewSliders_wdps.php:815 admin/views/WDPSViewSliders_wdps.php:833
+#: admin/views/WDPSViewSliders_wdps.php:889 admin/views/WDPSViewSliders_wdps.php:899
+#: admin/views/WDPSViewSliders_wdps.php:914 admin/views/WDPSViewSliders_wdps.php:933
+#: admin/views/WDPSViewSliders_wdps.php:956 admin/views/WDPSViewSliders_wdps.php:1000
+#: admin/views/WDPSViewSliders_wdps.php:1010 admin/views/WDPSViewSliders_wdps.php:1020
+#: admin/views/WDPSViewSliders_wdps.php:1030 admin/views/WDPSViewSliders_wdps.php:1040
+#: admin/views/WDPSViewSliders_wdps.php:1254 admin/views/WDPSViewSliders_wdps.php:1493
+#: admin/views/WDPSViewSliders_wdps.php:1511 admin/views/WDPSViewSliders_wdps.php:1774
+#: admin/views/WDPSViewSliders_wdps.php:1846 admin/views/WDPSViewSliders_wdps.php:2118
+#: admin/views/WDPSViewSliders_wdps.php:2354 admin/views/WDPSViewSliders_wdps.php:2500
+#: admin/views/WDPSViewSliders_wdps.php:2897 admin/views/WDPSViewSliders_wdps.php:3121
+#: admin/views/WDPSViewSliders_wdps.php:3268 post-slider-wd.php:351 wd/includes/overview.php:235
+#: wd/includes/overview.php:242 wd/includes/overview.php:249 wd/includes/overview.php:252
+#: wd/includes/overview.php:257
+msgid "No"
+msgstr "नहीं"
+
+#: admin/views/WDPSViewGoptions_wdps.php:53
+msgid "Helps to decrease page load time. Might not function with some custom themes."
+msgstr "पृष्ठ लोड समय को कम करने में मदद करता है। कुछ कस्टम विषयों के साथ कार्य नहीं हो सकता"
+
+#: admin/views/WDPSViewGoptions_wdps.php:57
+msgid "Add font-family:"
+msgstr "फ़ॉन्ट परिवार जोड़ें:"
+
+#: admin/views/WDPSViewGoptions_wdps.php:62
+msgid "Add to Google fonts"
+msgstr "गूगल फोंट में जोड़े"
+
+#: admin/views/WDPSViewGoptions_wdps.php:63
+msgid "Add font-family"
+msgstr "font-family जोड़े"
+
+#: admin/views/WDPSViewGoptions_wdps.php:64
+msgid "The added font family will appear in the drop-down list of fonts."
+msgstr "जोड़ा फ़ॉन्ट परिवार फोंट की ड्रॉप-डाउन सूची में दिखाई देगा।"
+
+#: admin/views/WDPSViewSliders_wdps.php:34
+msgid "Post Sliders"
+msgstr "पोस्ट स्लाइडर"
+
+#: admin/views/WDPSViewSliders_wdps.php:36
+msgid "Publish"
+msgstr "प्रकाशित करना"
+
+#: admin/views/WDPSViewSliders_wdps.php:37
+msgid "Unpublish"
+msgstr "अप्रकाशित"
+
+#: admin/views/WDPSViewSliders_wdps.php:38 admin/views/WDPSViewSliders_wdps.php:177
+#: admin/views/WDPSViewSliders_wdps.php:2043 post-slider-wd.php:382
+msgid "Delete"
+msgstr "हटाना"
+
+#: admin/views/WDPSViewSliders_wdps.php:39
+msgid "Duplicate"
+msgstr "नक़ल"
+
+#: admin/views/WDPSViewSliders_wdps.php:74
+msgid "Add new"
+msgstr "नया जोड़ो"
+
+#: admin/views/WDPSViewSliders_wdps.php:76 admin/views/WDPSViewSliders_wdps.php:112 post-slider-wd.php:403
+msgid "Name"
+msgstr "नाम"
+
+#: admin/views/WDPSViewSliders_wdps.php:80
+msgid "Select All"
+msgstr "सबका चयन करें"
+
+#: admin/views/WDPSViewSliders_wdps.php:83
+msgid "Bulk Actions"
+msgstr "थोक कार्रवाई"
+
+#: admin/views/WDPSViewSliders_wdps.php:92 admin/views/WDPSViewSliders_wdps.php:548
+msgid "Apply"
+msgstr "लागू करें"
+
+#: admin/views/WDPSViewSliders_wdps.php:106
+msgid "Slider"
+msgstr "स्लाइडर"
+
+#: admin/views/WDPSViewSliders_wdps.php:115 admin/views/WDPSViewSliders_wdps.php:578
+#: admin/views/WDPSViewSliders_wdps.php:1910 admin/views/WDPSViewSliders_wdps.php:1939
+msgid "Slides"
+msgstr "स्लाइड्स"
+
+#: admin/views/WDPSViewSliders_wdps.php:116
+msgid "Shortcode"
+msgstr "छोटे संकेत"
+
+#: admin/views/WDPSViewSliders_wdps.php:117
+msgid "PHP function"
+msgstr "PHP समारोह"
+
+#: admin/views/WDPSViewSliders_wdps.php:123
+msgid "Published"
+msgstr "प्रकाशित"
+
+#: admin/views/WDPSViewSliders_wdps.php:126
+msgid "Action"
+msgstr "कार्य"
+
+#: admin/views/WDPSViewSliders_wdps.php:153 admin/views/WDPSViewSliders_wdps.php:167
+msgid "Edit"
+msgstr "संपादित"
+
+#: admin/views/WDPSViewSliders_wdps.php:177 post-slider-wd.php:389
+msgid "Do you want to delete selected items?"
+msgstr "आप चयनित आइटम को मिटाना चाहते हैं?"
+
+#: admin/views/WDPSViewSliders_wdps.php:210
+msgid "Edit post slider "
+msgstr "संपादित पोस्ट स्लाइडर "
+
+#: admin/views/WDPSViewSliders_wdps.php:210
+msgid "Create new post slider"
+msgstr "नई पोस्ट स्लाइडर बनाएँ"
+
+#: admin/views/WDPSViewSliders_wdps.php:233
+msgid "Publishing Date"
+msgstr "प्रकाशन की तिथि"
+
+#: admin/views/WDPSViewSliders_wdps.php:234
+msgid "Modification Date"
+msgstr "सुधार की तारीख"
+
+#: admin/views/WDPSViewSliders_wdps.php:235
+msgid "Number of Comments"
+msgstr "टिप्पणियों की संख्या"
+
+#: admin/views/WDPSViewSliders_wdps.php:236
+msgid "Post Title"
+msgstr "शीर्षक पोस्ट करें"
+
+#: admin/views/WDPSViewSliders_wdps.php:237
+msgid "Menu Order"
+msgstr "मेनू आदेश"
+
+#: admin/views/WDPSViewSliders_wdps.php:238 admin/views/WDPSViewWDPSPosts.php:173
+msgid "Author"
+msgstr "लेखक"
+
+#: admin/views/WDPSViewSliders_wdps.php:239 admin/views/WDPSViewSliders_wdps.php:327
+msgid "Random"
+msgstr "बिना सोचे समझे"
+
+#: admin/views/WDPSViewSliders_wdps.php:251 admin/views/WDPSViewSliders_wdps.php:2647
+#: admin/views/WDPSViewWDPSPosts.php:131
+msgid "Select"
+msgstr "चुनते हैं"
+
+#: admin/views/WDPSViewSliders_wdps.php:252
+msgid "Hour"
+msgstr "समय"
+
+#: admin/views/WDPSViewSliders_wdps.php:253
+msgid "Day"
+msgstr "दिन"
+
+#: admin/views/WDPSViewSliders_wdps.php:254
+msgid "Week"
+msgstr "सप्ताह"
+
+#: admin/views/WDPSViewSliders_wdps.php:255
+msgid "Month"
+msgstr "माह"
+
+#: admin/views/WDPSViewSliders_wdps.php:258 admin/views/WDPSViewSliders_wdps.php:427
+#: admin/views/WDPSViewSliders_wdps.php:455 admin/views/WDPSViewSliders_wdps.php:1785 post-slider-wd.php:330
+#: post-slider-wd.php:399
+msgid "Left"
+msgstr "बाएं"
+
+#: admin/views/WDPSViewSliders_wdps.php:259 admin/views/WDPSViewSliders_wdps.php:456 post-slider-wd.php:398
+msgid "Center"
+msgstr "केंद्र"
+
+#: admin/views/WDPSViewSliders_wdps.php:260 admin/views/WDPSViewSliders_wdps.php:429
+#: admin/views/WDPSViewSliders_wdps.php:457 admin/views/WDPSViewSliders_wdps.php:1783 post-slider-wd.php:331
+#: post-slider-wd.php:400
+msgid "Right"
+msgstr "सही"
+
+#: admin/views/WDPSViewSliders_wdps.php:263 admin/views/WDPSViewSliders_wdps.php:301
+#: admin/views/WDPSViewSliders_wdps.php:332 admin/views/WDPSViewSliders_wdps.php:379 post-slider-wd.php:273
+msgid "None"
+msgstr "कोई नहीं"
+
+#: admin/views/WDPSViewSliders_wdps.php:264 post-slider-wd.php:315
+msgid "Solid"
+msgstr "ठोस"
+
+#: admin/views/WDPSViewSliders_wdps.php:265 post-slider-wd.php:316
+msgid "Dotted"
+msgstr "छितराया हुआ"
+
+#: admin/views/WDPSViewSliders_wdps.php:266 post-slider-wd.php:317
+msgid "Dashed"
+msgstr "धराशायी"
+
+#: admin/views/WDPSViewSliders_wdps.php:267 admin/views/WDPSViewSliders_wdps.php:276 post-slider-wd.php:318
+msgid "Double"
+msgstr "दोगुना"
+
+#: admin/views/WDPSViewSliders_wdps.php:268 post-slider-wd.php:319
+msgid "Groove"
+msgstr "नाली"
+
+#: admin/views/WDPSViewSliders_wdps.php:269 post-slider-wd.php:320
+msgid "Ridge"
+msgstr "टीला"
+
+#: admin/views/WDPSViewSliders_wdps.php:270 post-slider-wd.php:321
+msgid "Inset"
+msgstr "इनसेट"
+
+#: admin/views/WDPSViewSliders_wdps.php:271 post-slider-wd.php:322
+msgid "Outset"
+msgstr "शुरू"
+
+#: admin/views/WDPSViewSliders_wdps.php:274
+msgid "Chevron"
+msgstr "शहतीर"
+
+#: admin/views/WDPSViewSliders_wdps.php:275
+msgid "Angle"
+msgstr "कोण"
+
+#: admin/views/WDPSViewSliders_wdps.php:279
+msgid "Circle O"
+msgstr "सर्किल हे"
+
+#: admin/views/WDPSViewSliders_wdps.php:280
+msgid "Circle"
+msgstr "वृत्त"
+
+#: admin/views/WDPSViewSliders_wdps.php:281
+msgid "Minus"
+msgstr "ऋणात्मक"
+
+#: admin/views/WDPSViewSliders_wdps.php:282
+msgid "Square O"
+msgstr "स्क्वायर हे"
+
+#: admin/views/WDPSViewSliders_wdps.php:283
+msgid "Square"
+msgstr "वर्ग"
+
+#: admin/views/WDPSViewSliders_wdps.php:288 post-slider-wd.php:312
+msgid "Lighter"
+msgstr "लाइटर"
+
+#: admin/views/WDPSViewSliders_wdps.php:289 post-slider-wd.php:313
+msgid "Normal"
+msgstr "साधारण"
+
+#: admin/views/WDPSViewSliders_wdps.php:290 post-slider-wd.php:314
+msgid "Bold"
+msgstr "बोल्ड"
+
+#: admin/views/WDPSViewSliders_wdps.php:293 post-slider-wd.php:323
+msgid "Facebook"
+msgstr "फेसबुक"
+
+#: admin/views/WDPSViewSliders_wdps.php:294 post-slider-wd.php:324
+msgid "Google+"
+msgstr "गूगल +"
+
+#: admin/views/WDPSViewSliders_wdps.php:295 post-slider-wd.php:325
+msgid "Twitter"
+msgstr "चहचहाना"
+
+#: admin/views/WDPSViewSliders_wdps.php:296 post-slider-wd.php:326
+msgid "Pinterest"
+msgstr "Pinterest"
+
+#: admin/views/WDPSViewSliders_wdps.php:297 post-slider-wd.php:327
+msgid "Tumblr"
+msgstr "पी"
+
+#: admin/views/WDPSViewSliders_wdps.php:302
+msgid "Fade"
+msgstr "मुरझाना"
+
+#: admin/views/WDPSViewSliders_wdps.php:303
+msgid "Slice Horizontal"
+msgstr "स्लाइस क्षैतिज"
+
+#: admin/views/WDPSViewSliders_wdps.php:304
+msgid "Fan"
+msgstr "प्रशंसक"
+
+#: admin/views/WDPSViewSliders_wdps.php:305
+msgid "Scale In"
+msgstr "में स्केल"
+
+#: admin/views/WDPSViewSliders_wdps.php:306
+msgid "Zoom Fade"
+msgstr "ज़ूम फीका"
+
+#: admin/views/WDPSViewSliders_wdps.php:307
+msgid "Parallel Slide Horizontal"
+msgstr "समानांतर स्लाइड क्षैतिज"
+
+#: admin/views/WDPSViewSliders_wdps.php:308
+msgid "Parallel Slide Vertical"
+msgstr "समानांतर स्लाइड कार्यक्षेत्र"
+
+#: admin/views/WDPSViewSliders_wdps.php:309
+msgid "Slice 3D Horizontal"
+msgstr "स्लाइस 3 डी क्षैतिज"
+
+#: admin/views/WDPSViewSliders_wdps.php:310
+msgid "Slice 3D Vertical"
+msgstr "स्लाइस 3 डी कार्यक्षेत्र"
+
+#: admin/views/WDPSViewSliders_wdps.php:311
+msgid "Slice 3D Horizontal Random"
+msgstr "स्लाइस 3 डी क्षैतिज रैंडम"
+
+#: admin/views/WDPSViewSliders_wdps.php:312
+msgid "Slice 3D Vertical Random"
+msgstr "स्लाइस 3 डी कार्यक्षेत्र रैंडम"
+
+#: admin/views/WDPSViewSliders_wdps.php:313
+msgid "Blind"
+msgstr "अंधा"
+
+#: admin/views/WDPSViewSliders_wdps.php:314
+msgid "Tiles"
+msgstr "टाइलें"
+
+#: admin/views/WDPSViewSliders_wdps.php:315
+msgid "Block Scale Random"
+msgstr "ब्लॉक स्केल रैंडम"
+
+#: admin/views/WDPSViewSliders_wdps.php:316
+msgid "Cube Horizontal"
+msgstr "घन क्षैतिज"
+
+#: admin/views/WDPSViewSliders_wdps.php:317
+msgid "Cube Vertical"
+msgstr "घन कार्यक्षेत्र"
+
+#: admin/views/WDPSViewSliders_wdps.php:318
+msgid "Cube Random"
+msgstr "घन रैंडम"
+
+#: admin/views/WDPSViewSliders_wdps.php:319
+msgid "Slice Vertical"
+msgstr "स्लाइस कार्यक्षेत्र"
+
+#: admin/views/WDPSViewSliders_wdps.php:320
+msgid "Slide Horizontal"
+msgstr "क्षैतिज स्लाइड"
+
+#: admin/views/WDPSViewSliders_wdps.php:321
+msgid "Slide Vertical"
+msgstr "खड़ी स्लाइड"
+
+#: admin/views/WDPSViewSliders_wdps.php:322
+msgid "Scale Out"
+msgstr "नापें"
+
+#: admin/views/WDPSViewSliders_wdps.php:323
+msgid "Block Scale"
+msgstr "ब्लॉक स्केल"
+
+#: admin/views/WDPSViewSliders_wdps.php:324
+msgid "Kaleidoscope"
+msgstr "बहुरूपदर्शक"
+
+#: admin/views/WDPSViewSliders_wdps.php:325
+msgid "Blind Horizontal"
+msgstr "ब्लाइंड क्षैतिज"
+
+#: admin/views/WDPSViewSliders_wdps.php:326
+msgid "Blind Vertical"
+msgstr "ब्लाइंड कार्यक्षेत्र"
+
+#: admin/views/WDPSViewSliders_wdps.php:328
+msgid "3D Random"
+msgstr "3 डी रैंडम"
+
+#: admin/views/WDPSViewSliders_wdps.php:333 admin/views/WDPSViewSliders_wdps.php:380 post-slider-wd.php:274
+msgid "Bounce"
+msgstr "उछाल"
+
+#: admin/views/WDPSViewSliders_wdps.php:334 admin/views/WDPSViewSliders_wdps.php:381 post-slider-wd.php:280
+#: post-slider-wd.php:434
+msgid "Tada"
+msgstr "टाडा"
+
+#: admin/views/WDPSViewSliders_wdps.php:335 post-slider-wd.php:286
+msgid "BounceInDown"
+msgstr "BounceInDown"
+
+#: admin/views/WDPSViewSliders_wdps.php:336 post-slider-wd.php:293
+msgid "FadeInLeft"
+msgstr "FadeInLeft"
+
+#: admin/views/WDPSViewSliders_wdps.php:337 admin/views/WDPSViewSliders_wdps.php:384 post-slider-wd.php:275
+msgid "Flash"
+msgstr "फ़्लैश"
+
+#: admin/views/WDPSViewSliders_wdps.php:338 admin/views/WDPSViewSliders_wdps.php:385 post-slider-wd.php:276
+msgid "Pulse"
+msgstr "नाड़ी"
+
+#: admin/views/WDPSViewSliders_wdps.php:339 admin/views/WDPSViewSliders_wdps.php:386 post-slider-wd.php:277
+msgid "RubberBand"
+msgstr "रबर बैंड"
+
+#: admin/views/WDPSViewSliders_wdps.php:340 admin/views/WDPSViewSliders_wdps.php:387 post-slider-wd.php:278
+msgid "Shake"
+msgstr "शेक"
+
+#: admin/views/WDPSViewSliders_wdps.php:341 admin/views/WDPSViewSliders_wdps.php:388 post-slider-wd.php:279
+msgid "Swing"
+msgstr "झूला"
+
+#: admin/views/WDPSViewSliders_wdps.php:342 admin/views/WDPSViewSliders_wdps.php:389 post-slider-wd.php:281
+msgid "Wobble"
+msgstr "लड़खड़ा"
+
+#: admin/views/WDPSViewSliders_wdps.php:343 admin/views/WDPSViewSliders_wdps.php:390 post-slider-wd.php:282
+msgid "Hinge"
+msgstr "काज"
+
+#: admin/views/WDPSViewSliders_wdps.php:345 post-slider-wd.php:283
+msgid "LightSpeedIn"
+msgstr "LightSpeedIn"
+
+#: admin/views/WDPSViewSliders_wdps.php:346 post-slider-wd.php:284
+msgid "RollIn"
+msgstr "Rollin"
+
+#: admin/views/WDPSViewSliders_wdps.php:348 post-slider-wd.php:285
+msgid "BounceIn"
+msgstr "BounceIn"
+
+#: admin/views/WDPSViewSliders_wdps.php:349 post-slider-wd.php:287
+msgid "BounceInLeft"
+msgstr "BounceInLeft"
+
+#: admin/views/WDPSViewSliders_wdps.php:350 post-slider-wd.php:288
+msgid "BounceInRight"
+msgstr "BounceInRight"
+
+#: admin/views/WDPSViewSliders_wdps.php:351 post-slider-wd.php:289
+msgid "BounceInUp"
+msgstr "BounceInUp"
+
+#: admin/views/WDPSViewSliders_wdps.php:353 post-slider-wd.php:290
+msgid "FadeIn"
+msgstr "फीका होना"
+
+#: admin/views/WDPSViewSliders_wdps.php:354 post-slider-wd.php:291
+msgid "FadeInDown"
+msgstr "FadeInDown"
+
+#: admin/views/WDPSViewSliders_wdps.php:355 post-slider-wd.php:292
+msgid "FadeInDownBig"
+msgstr "FadeInDownBig"
+
+#: admin/views/WDPSViewSliders_wdps.php:356 post-slider-wd.php:294
+msgid "FadeInLeftBig"
+msgstr "FadeInLeftBig"
+
+#: admin/views/WDPSViewSliders_wdps.php:357 post-slider-wd.php:295
+msgid "FadeInRight"
+msgstr "FadeInRight"
+
+#: admin/views/WDPSViewSliders_wdps.php:358 post-slider-wd.php:296
+msgid "FadeInRightBig"
+msgstr "FadeInRightBig"
+
+#: admin/views/WDPSViewSliders_wdps.php:359 post-slider-wd.php:297
+msgid "FadeInUp"
+msgstr "FadeInUp"
+
+#: admin/views/WDPSViewSliders_wdps.php:360 post-slider-wd.php:298
+msgid "FadeInUpBig"
+msgstr "FadeInUpBig"
+
+#: admin/views/WDPSViewSliders_wdps.php:362 admin/views/WDPSViewSliders_wdps.php:409 post-slider-wd.php:299
+msgid "Flip"
+msgstr "फ्लिप"
+
+#: admin/views/WDPSViewSliders_wdps.php:363 post-slider-wd.php:300
+msgid "FlipInX"
+msgstr "FlipInX"
+
+#: admin/views/WDPSViewSliders_wdps.php:364 post-slider-wd.php:301
+msgid "FlipInY"
+msgstr "FlipInY"
+
+#: admin/views/WDPSViewSliders_wdps.php:366 post-slider-wd.php:302
+msgid "RotateIn"
+msgstr "RotateIn"
+
+#: admin/views/WDPSViewSliders_wdps.php:367 post-slider-wd.php:303
+msgid "RotateInDownLeft"
+msgstr "RotateInDownLeft"
+
+#: admin/views/WDPSViewSliders_wdps.php:368 post-slider-wd.php:304
+msgid "RotateInDownRight"
+msgstr "RotateInDownRight"
+
+#: admin/views/WDPSViewSliders_wdps.php:369 post-slider-wd.php:305
+msgid "RotateInUpLeft"
+msgstr "RotateInUpLeft"
+
+#: admin/views/WDPSViewSliders_wdps.php:370 post-slider-wd.php:306
+msgid "RotateInUpRight"
+msgstr "RotateInUpRight"
+
+#: admin/views/WDPSViewSliders_wdps.php:372 post-slider-wd.php:307
+msgid "ZoomIn"
+msgstr "ज़ूम इन"
+
+#: admin/views/WDPSViewSliders_wdps.php:373 post-slider-wd.php:308
+msgid "ZoomInDown"
+msgstr "ZoomInDown"
+
+#: admin/views/WDPSViewSliders_wdps.php:374 post-slider-wd.php:309
+msgid "ZoomInLeft"
+msgstr "ZoomInLeft"
+
+#: admin/views/WDPSViewSliders_wdps.php:375 post-slider-wd.php:310
+msgid "ZoomInRight"
+msgstr "ZoomInRight"
+
+#: admin/views/WDPSViewSliders_wdps.php:376 post-slider-wd.php:311
+msgid "ZoomInUp"
+msgstr "ZoomInUp"
+
+#: admin/views/WDPSViewSliders_wdps.php:382 post-slider-wd.php:412
+msgid "BounceOutUp"
+msgstr "BounceOutUp"
+
+#: admin/views/WDPSViewSliders_wdps.php:383 post-slider-wd.php:418
+msgid "FadeOutRight"
+msgstr "FadeOutRight"
+
+#: admin/views/WDPSViewSliders_wdps.php:392 post-slider-wd.php:406
+msgid "LightSpeedOut"
+msgstr "LightSpeedOut"
+
+#: admin/views/WDPSViewSliders_wdps.php:393 post-slider-wd.php:407
+msgid "RollOut"
+msgstr "रोल आउट"
+
+#: admin/views/WDPSViewSliders_wdps.php:395 post-slider-wd.php:408
+msgid "BounceOut"
+msgstr "BounceOut"
+
+#: admin/views/WDPSViewSliders_wdps.php:396 post-slider-wd.php:410
+msgid "BounceOutLeft"
+msgstr "BounceOutLeft"
+
+#: admin/views/WDPSViewSliders_wdps.php:397 post-slider-wd.php:411
+msgid "BounceOutRight"
+msgstr "BounceOutRight"
+
+#: admin/views/WDPSViewSliders_wdps.php:398 post-slider-wd.php:409 post-slider-wd.php:435
+msgid "BounceOutDown"
+msgstr "BounceOutDown"
+
+#: admin/views/WDPSViewSliders_wdps.php:400 post-slider-wd.php:413
+msgid "FadeOut"
+msgstr "फेड आउट"
+
+#: admin/views/WDPSViewSliders_wdps.php:401 post-slider-wd.php:414
+msgid "FadeOutDown"
+msgstr "FadeOutDown"
+
+#: admin/views/WDPSViewSliders_wdps.php:402 post-slider-wd.php:415
+msgid "FadeOutDownBig"
+msgstr "FadeOutDownBig"
+
+#: admin/views/WDPSViewSliders_wdps.php:403 post-slider-wd.php:417
+msgid "FadeOutLeftBig"
+msgstr "FadeOutLeftBig"
+
+#: admin/views/WDPSViewSliders_wdps.php:404 post-slider-wd.php:416 post-slider-wd.php:436
+msgid "FadeOutLeft"
+msgstr "FadeOutLeft"
+
+#: admin/views/WDPSViewSliders_wdps.php:405 post-slider-wd.php:419
+msgid "FadeOutRightBig"
+msgstr "FadeOutRightBig"
+
+#: admin/views/WDPSViewSliders_wdps.php:406 post-slider-wd.php:420
+msgid "FadeOutUp"
+msgstr "FadeOutUp"
+
+#: admin/views/WDPSViewSliders_wdps.php:407 post-slider-wd.php:421
+msgid "FadeOutUpBig"
+msgstr "FadeOutUpBig"
+
+#: admin/views/WDPSViewSliders_wdps.php:410 post-slider-wd.php:422
+msgid "FlipOutX"
+msgstr "FlipOutX"
+
+#: admin/views/WDPSViewSliders_wdps.php:411 post-slider-wd.php:423
+msgid "FlipOutY"
+msgstr "FlipOutY"
+
+#: admin/views/WDPSViewSliders_wdps.php:413 post-slider-wd.php:424
+msgid "RotateOut"
+msgstr "RotateOut"
+
+#: admin/views/WDPSViewSliders_wdps.php:414 post-slider-wd.php:425
+msgid "RotateOutDownLeft"
+msgstr "RotateOutDownLeft"
+
+#: admin/views/WDPSViewSliders_wdps.php:415 post-slider-wd.php:426
+msgid "RotateOutDownRight"
+msgstr "RotateOutDownRight"
+
+#: admin/views/WDPSViewSliders_wdps.php:416 post-slider-wd.php:427
+msgid "RotateOutUpLeft"
+msgstr "RotateOutUpLeft"
+
+#: admin/views/WDPSViewSliders_wdps.php:417 post-slider-wd.php:428
+msgid "RotateOutUpRight"
+msgstr "RotateOutUpRight"
+
+#: admin/views/WDPSViewSliders_wdps.php:419 post-slider-wd.php:429
+msgid "ZoomOut"
+msgstr "ज़ूम आउट"
+
+#: admin/views/WDPSViewSliders_wdps.php:420 post-slider-wd.php:430
+msgid "ZoomOutDown"
+msgstr "ZoomOutDown"
+
+#: admin/views/WDPSViewSliders_wdps.php:421 post-slider-wd.php:431
+msgid "ZoomOutLeft"
+msgstr "ZoomOutLeft"
+
+#: admin/views/WDPSViewSliders_wdps.php:422 post-slider-wd.php:432
+msgid "ZoomOutRight"
+msgstr "ZoomOutRight"
+
+#: admin/views/WDPSViewSliders_wdps.php:423 post-slider-wd.php:433
+msgid "ZoomOutUp"
+msgstr "ZoomOutUp"
+
+#: admin/views/WDPSViewSliders_wdps.php:426 admin/views/WDPSViewSliders_wdps.php:1528
+#: admin/views/WDPSViewSliders_wdps.php:1782 post-slider-wd.php:328
+msgid "Top"
+msgstr "चोटी"
+
+#: admin/views/WDPSViewSliders_wdps.php:428 admin/views/WDPSViewSliders_wdps.php:1529
+#: admin/views/WDPSViewSliders_wdps.php:1784 post-slider-wd.php:329
+msgid "Bottom"
+msgstr "तल"
+
+#: admin/views/WDPSViewSliders_wdps.php:435 admin/views/WDPSViewSliders_wdps.php:445
+msgid "Some options are disabled in free version."
+msgstr "कुछ विकल्प नि: शुल्क संस्करण में अक्षम हैं।"
+
+#: admin/views/WDPSViewSliders_wdps.php:437
+msgid "You can't edit the layer in free version."
+msgstr "आप नि: शुल्क संस्करण में परत को संपादित नहीं कर सकते हैं।"
+
+#: admin/views/WDPSViewSliders_wdps.php:438
+msgid "This option is disabled in free version."
+msgstr "इस विकल्प को नि: शुल्क संस्करण में अक्षम है।"
+
+#: admin/views/WDPSViewSliders_wdps.php:540
+msgid "Slider Title:"
+msgstr "स्लाइडर शीर्षक:"
+
+#: admin/views/WDPSViewSliders_wdps.php:541
+msgid "Slider title"
+msgstr "स्लाइडर खिताब"
+
+#: admin/views/WDPSViewSliders_wdps.php:555
+msgid "Save as Copy"
+msgstr "कॉपी के रूप में सहेजें"
+
+#: admin/views/WDPSViewSliders_wdps.php:559 wd/templates/display_deactivation_popup.php:23
+msgid "Cancel"
+msgstr "रद्द करना"
+
+#: admin/views/WDPSViewSliders_wdps.php:573 admin/views/WDPSViewSliders_wdps.php:1905
+msgid "Settings"
+msgstr "सेटिंग्स"
+
+#: admin/views/WDPSViewSliders_wdps.php:590
+msgid "Global"
+msgstr "नेटवर्किंग"
+
+#: admin/views/WDPSViewSliders_wdps.php:593 post-slider-wd.php:595
+msgid "Carousel"
+msgstr "हिंडोला"
+
+#: admin/views/WDPSViewSliders_wdps.php:596 post-slider-wd.php:599
+msgid "Navigation"
+msgstr "नेविगेशन"
+
+#: admin/views/WDPSViewSliders_wdps.php:599 post-slider-wd.php:603
+msgid "Bullets"
+msgstr "बुलेट"
+
+#: admin/views/WDPSViewSliders_wdps.php:602 post-slider-wd.php:607
+msgid "Filmstrip"
+msgstr "फिल्मस्ट्रिप"
+
+#: admin/views/WDPSViewSliders_wdps.php:605
+msgid "Timer bar"
+msgstr "टाइमर बार"
+
+#: admin/views/WDPSViewSliders_wdps.php:608 post-slider-wd.php:615
+msgid "CSS"
+msgstr "सीएसएस"
+
+#: admin/views/WDPSViewSliders_wdps.php:611
+msgid "Reset settings"
+msgstr "सेटिंग्स को दुबारा करें"
+
+#: admin/views/WDPSViewSliders_wdps.php:620 admin/views/WDPSViewSliders_wdps.php:2231
+#: admin/views/WDPSViewSliders_wdps.php:3007 post-slider-wd.php:339
+msgid "Dimensions:"
+msgstr "आयाम:"
+
+#: admin/views/WDPSViewSliders_wdps.php:624
+msgid "Maximum width and height for slider."
+msgstr "अधिकतम चौड़ाई और स्लाइडर के लिए ऊंचाई।"
+
+#: admin/views/WDPSViewSliders_wdps.php:628
+msgid "Hide on small screens: "
+msgstr "छोटे परदे पर छिपाएं:"
+
+#: admin/views/WDPSViewSliders_wdps.php:631
+msgid "Hide slider when resolution is smaller than"
+msgstr "स्लाइडर छिपा है जब संकल्प से छोटा होता है"
+
+#: admin/views/WDPSViewSliders_wdps.php:635
+msgid "Full width:"
+msgstr "पूरी चौड़ाई:"
+
+#: admin/views/WDPSViewSliders_wdps.php:639
+msgid "Ratio"
+msgstr "अनुपात"
+
+#: admin/views/WDPSViewSliders_wdps.php:640
+msgid "The image will stretch to the page width, taking the height based on dimensions ratio."
+msgstr "छवि आयाम अनुपात के आधार पर ऊंचाई ले रही है, पृष्ठ चौड़ाई के लिए खिंचाव जाएगा।"
+
+#: admin/views/WDPSViewSliders_wdps.php:644
+msgid "Full width on small screens:"
+msgstr "छोटे परदे पर पूर्ण चौड़ाई:"
+
+#: admin/views/WDPSViewSliders_wdps.php:647
+msgid "Full width slider when resolution is smaller than."
+msgstr "पूर्ण चौड़ाई स्लाइडर जब संकल्प से छोटी है।"
+
+#: admin/views/WDPSViewSliders_wdps.php:651
+msgid "Background fit:"
+msgstr "पृष्ठभूमि फिट:"
+
+#: admin/views/WDPSViewSliders_wdps.php:653
+msgid "Cover"
+msgstr "आवरण"
+
+#: admin/views/WDPSViewSliders_wdps.php:654
+msgid "Fill"
+msgstr "भरना"
+
+#: admin/views/WDPSViewSliders_wdps.php:655
+msgid "Contain"
+msgstr "होते हैं"
+
+#: admin/views/WDPSViewSliders_wdps.php:659
+msgid "Smart Crop:"
+msgstr "स्मार्ट फसल:"
+
+#: admin/views/WDPSViewSliders_wdps.php:668
+msgid "Crop Image Position:"
+msgstr "फसल छवि की स्थिति:"
+
+#: admin/views/WDPSViewSliders_wdps.php:693
+msgid "Static slides order direction:"
+msgstr "स्टेटिक स्लाइड आदेश दिशा:"
+
+#: admin/views/WDPSViewSliders_wdps.php:695 admin/views/WDPSViewSliders_wdps.php:2685
+msgid "Ascending"
+msgstr "आरोही"
+
+#: admin/views/WDPSViewSliders_wdps.php:696 admin/views/WDPSViewSliders_wdps.php:2686
+msgid "Descending"
+msgstr "अवरोही"
+
+#: admin/views/WDPSViewSliders_wdps.php:702
+msgid "Featured image"
+msgstr "फीचर्ड चित्र"
+
+#: admin/views/WDPSViewSliders_wdps.php:707
+msgid "Allow adding only posts containing featured image."
+msgstr "केवल विशेष रुप से छवि वाले पदों को जोड़ने की अनुमति दें।"
+
+#: admin/views/WDPSViewSliders_wdps.php:711
+msgid "Align:"
+msgstr "संरेखित:"
+
+#: admin/views/WDPSViewSliders_wdps.php:722
+msgid "Set the alignment of the slider."
+msgstr "स्लाइडर के संरेखण सेट करें।"
+
+#: admin/views/WDPSViewSliders_wdps.php:727
+msgid "Effect:"
+msgstr "प्रभाव:"
+
+#: admin/views/WDPSViewSliders_wdps.php:739 admin/views/WDPSViewSliders_wdps.php:3170 post-slider-wd.php:372
+msgid "Some effects are disabled in free version."
+msgstr "कुछ प्रभाव नि: शुल्क संस्करण में अक्षम हैं।"
+
+#: admin/views/WDPSViewSliders_wdps.php:743
+msgid "Effect duration:"
+msgstr "प्रभाव अवधि:"
+
+#: admin/views/WDPSViewSliders_wdps.php:746
+msgid "Define the time for the effect."
+msgstr "प्रभाव के लिए समय को परिभाषित करें।"
+
+#: admin/views/WDPSViewSliders_wdps.php:750
+msgid "Parallax Effect:"
+msgstr "लंबन प्रभाव:"
+
+#: admin/views/WDPSViewSliders_wdps.php:754
+msgid "The direction of the movement, as well as the layer moving pace depend on the z-index value."
+msgstr "आंदोलन की दिशा, साथ ही परत गति बढ़ रहा z- सूचकांक मूल्य पर निर्भर करते हैं।"
+
+#: admin/views/WDPSViewSliders_wdps.php:758
+msgid "Autoplay:"
+msgstr "स्वत: प्ले:"
+
+#: admin/views/WDPSViewSliders_wdps.php:762
+msgid "Choose whether to autoplay the sliders or not."
+msgstr "स्लाइडर्स ऑटोप्ले या नहीं करने का विकल्प।"
+
+#: admin/views/WDPSViewSliders_wdps.php:766
+msgid "Two way slideshow: "
+msgstr "दो तरह स्लाइड शो:"
+
+#: admin/views/WDPSViewSliders_wdps.php:770
+msgid "Slideshow can go backwards if someone switch to a previous slide."
+msgstr "स्लाइड शो पीछे की ओर जा सकते हैं अगर कोई एक पिछली स्लाइड पर स्विच।"
+
+#: admin/views/WDPSViewSliders_wdps.php:774
+msgid "Enable loop:"
+msgstr "Enable loop:"
+
+#: admin/views/WDPSViewSliders_wdps.php:782
+msgid "Time Interval:"
+msgstr "समय अंतराल:"
+
+#: admin/views/WDPSViewSliders_wdps.php:784
+msgid "sec."
+msgstr "सेकंड।"
+
+#: admin/views/WDPSViewSliders_wdps.php:785
+msgid "Set the time interval for the change of the sliders when autoplay is on."
+msgstr "ऑटोप्ले पर है जब sliders के बदलाव के लिए समय अंतराल सेट करें।"
+
+#: admin/views/WDPSViewSliders_wdps.php:789
+msgid "Stop on hover:"
+msgstr "मंडराना पर रोक:"
+
+#: admin/views/WDPSViewSliders_wdps.php:793
+msgid "The option works when autoplay is on."
+msgstr "ऑटोप्ले पर है जब विकल्प काम करता है।"
+
+#: admin/views/WDPSViewSliders_wdps.php:797
+msgid "Shuffle:"
+msgstr "साधा:"
+
+#: admin/views/WDPSViewSliders_wdps.php:801
+msgid "Choose whether to have the slides change in a random manner or to keep the original sequence."
+msgstr "स्लाइड एक बेतरतीब तरीके में बदलने के लिए या मूल अनुक्रम रखने के लिए क्या चुनें।"
+
+#: admin/views/WDPSViewSliders_wdps.php:805
+msgid "Start with slide:"
+msgstr "स्लाइड के साथ शुरू:"
+
+#: admin/views/WDPSViewSliders_wdps.php:808
+msgid "The slider will start with the specified slide. You can use the value 0 for random."
+msgstr "स्लाइडर निर्दिष्ट स्लाइड के साथ शुरू होगा। आप यादृच्छिक के लिए मान 0 का उपयोग कर सकते हैं।"
+
+#: admin/views/WDPSViewSliders_wdps.php:812
+msgid "Music:"
+msgstr "संगीत:"
+
+#: admin/views/WDPSViewSliders_wdps.php:816
+msgid "Choose whether to have music/audio track playback with the slider or not."
+msgstr "स्लाइडर या नहीं के साथ संगीत / ऑडियो ट्रैक प्लेबैक जाएं या नहीं।"
+
+#: admin/views/WDPSViewSliders_wdps.php:821
+msgid "Music url:"
+msgstr "संगीत यूआरएल:"
+
+#: admin/views/WDPSViewSliders_wdps.php:826
+msgid "Only .aac,.m4a,.f4a,.mp3,.ogg,.oga formats are supported."
+msgstr "केवल .aac, .m4a, .f4a, एमपी 3, .ogg, .oga स्वरूपों का समर्थन कर रहे हैं।"
+
+#: admin/views/WDPSViewSliders_wdps.php:830
+msgid "Smart Load:"
+msgstr "स्मार्ट लोड:"
+
+#: admin/views/WDPSViewSliders_wdps.php:834
+msgid "Choose to have faster load for the first few images and process the rest meanwhile."
+msgstr "पहले कुछ छवियों के लिए तेजी से लोड है और इस बीच बाकी पर कार्रवाई करने के लिए चुनें।"
+
+#: admin/views/WDPSViewSliders_wdps.php:838 admin/views/WDPSViewSliders_wdps.php:1476
+#: admin/views/WDPSViewSliders_wdps.php:1739 admin/views/WDPSViewSliders_wdps.php:1799
+msgid "Background color:"
+msgstr "पीछे का रंग:"
+
+#: admin/views/WDPSViewSliders_wdps.php:842 admin/views/WDPSViewSliders_wdps.php:1480
+#: admin/views/WDPSViewSliders_wdps.php:1876
+msgid "Transparency value must be between 0 to 100."
+msgstr "पारदर्शिता मान 0 के बीच 100 के लिए होना चाहिए।"
+
+#: admin/views/WDPSViewSliders_wdps.php:846 admin/views/WDPSViewSliders_wdps.php:1452
+#: admin/views/WDPSViewSliders_wdps.php:2451 admin/views/WDPSViewSliders_wdps.php:3219 post-slider-wd.php:383
+msgid "Border:"
+msgstr "सीमा:"
+
+#: admin/views/WDPSViewSliders_wdps.php:859
+msgid "Set the border width, type and the color."
+msgstr "सीमा चौड़ाई, प्रकार और रंग सेट करें।"
+
+#: admin/views/WDPSViewSliders_wdps.php:863 admin/views/WDPSViewSliders_wdps.php:1469
+#: admin/views/WDPSViewSliders_wdps.php:1746
+msgid "Border radius:"
+msgstr "सीमा त्रिज्या:"
+
+#: admin/views/WDPSViewSliders_wdps.php:866 admin/views/WDPSViewSliders_wdps.php:1472
+#: admin/views/WDPSViewSliders_wdps.php:1749 admin/views/WDPSViewSliders_wdps.php:2425
+#: admin/views/WDPSViewSliders_wdps.php:2469 admin/views/WDPSViewSliders_wdps.php:3193
+#: admin/views/WDPSViewSliders_wdps.php:3237 post-slider-wd.php:357
+msgid "Use CSS type values."
+msgstr "सीएसएस प्रकार मूल्यों का प्रयोग करें।"
+
+#: admin/views/WDPSViewSliders_wdps.php:870 admin/views/WDPSViewSliders_wdps.php:1753
+msgid "Margin:"
+msgstr "मार्जिन:"
+
+#: admin/views/WDPSViewSliders_wdps.php:873
+msgid "Set a margin for the slider."
+msgstr "स्लाइडर के लिए एक मार्जिन सेट करें।"
+
+#: admin/views/WDPSViewSliders_wdps.php:877 admin/views/WDPSViewSliders_wdps.php:2478
+#: admin/views/WDPSViewSliders_wdps.php:3246 post-slider-wd.php:363
+msgid "Shadow:"
+msgstr "छाया:"
+
+#: admin/views/WDPSViewSliders_wdps.php:880 admin/views/WDPSViewSliders_wdps.php:2477
+#: admin/views/WDPSViewSliders_wdps.php:3245
+msgid "Use CSS type values (e.g. 10px 10px 5px #888888)."
+msgstr "सीएसएस का उपयोग प्रकार के मूल्यों (जैसे 10px 10px 5px # 888888)।"
+
+#: admin/views/WDPSViewSliders_wdps.php:885
+msgid "Right click protection:"
+msgstr "राइट क्लिक करें संरक्षण:"
+
+#: admin/views/WDPSViewSliders_wdps.php:890
+msgid "Disable image right click possibility."
+msgstr "अक्षम छवि सही संभावना क्लिक करें।"
+
+#: admin/views/WDPSViewSliders_wdps.php:895
+msgid "Layer out on next:"
+msgstr "अगले पर बाहर परत:"
+
+#: admin/views/WDPSViewSliders_wdps.php:900
+msgid ""
+"Choose whether to have the layer effect out regardless of the timing between the hit to the next slider or "
+"skip the effect out and get to the next image."
+msgstr ""
+"बाहर की परवाह किए बिना अगले स्लाइडर को हिट के बीच समय की परत प्रभाव है कि क्या चुनें या प्रभाव से बाहर छोड़ सकते हैं और अगली "
+"छवि के लिए मिलता है।"
+
+#: admin/views/WDPSViewSliders_wdps.php:904 admin/views/WDPSViewSliders_wdps.php:2486
+#: admin/views/WDPSViewSliders_wdps.php:3254 post-slider-wd.php:364
+msgid "Text layer character limit:"
+msgstr "पाठ परत चरित्र सीमा:"
+
+#: admin/views/WDPSViewSliders_wdps.php:907 admin/views/WDPSViewSliders_wdps.php:2485
+#: admin/views/WDPSViewSliders_wdps.php:3253 post-slider-wd.php:358
+msgid "This will limit the number of characters for post content displayed as a text layer."
+msgstr "यह एक पाठ परत के रूप में प्रदर्शित पोस्ट सामग्री के लिए वर्णों की संख्या सीमित कर देगा।"
+
+#: admin/views/WDPSViewSliders_wdps.php:911 admin/views/WDPSViewSliders_wdps.php:2115
+#: admin/views/WDPSViewSliders_wdps.php:2348 admin/views/WDPSViewSliders_wdps.php:3115 post-slider-wd.php:268
+#: post-slider-wd.php:349
+msgid "Published:"
+msgstr "प्रकाशित:"
+
+#: admin/views/WDPSViewSliders_wdps.php:915
+msgid "Choose whether to publish the mentioned slider or not."
+msgstr "उल्लेख स्लाइडर प्रकाशित करने या नहीं करने का विकल्प।"
+
+#: admin/views/WDPSViewSliders_wdps.php:926
+msgid "Carousel is disabled in free version."
+msgstr "हिंडोला नि: शुल्क संस्करण में अक्षम है।"
+
+#: admin/views/WDPSViewSliders_wdps.php:930
+msgid "Carousel:"
+msgstr "हिंडोला:"
+
+#: admin/views/WDPSViewSliders_wdps.php:934
+msgid ""
+"If you activate this feature the effects you had chosen in Global settings for your slider will not play."
+msgstr "आप इस सुविधा का प्रभाव को सक्रिय करता है, तो अपने स्लाइडर नहीं खेलेंगे के लिए आप वैश्विक सेटिंग्स में चुना था।"
+
+#: admin/views/WDPSViewSliders_wdps.php:939
+msgid "Number of images for carousel:"
+msgstr "हिंडोला के लिए छवियों की संख्या:"
+
+#: admin/views/WDPSViewSliders_wdps.php:946
+msgid "Carousel image ratio:"
+msgstr "हिंडोला छवि अनुपात:"
+
+#: admin/views/WDPSViewSliders_wdps.php:949
+msgid "The value must be between 0 and 1."
+msgstr "मान 0 और 1 के बीच होना चाहिए।"
+
+#: admin/views/WDPSViewSliders_wdps.php:953
+msgid "Container fit:"
+msgstr "कंटेनर फिट:"
+
+#: admin/views/WDPSViewSliders_wdps.php:961
+msgid "Fixed width:"
+msgstr "निश्चित चौड़ाई:"
+
+#: admin/views/WDPSViewSliders_wdps.php:968
+msgid "Background image angle:"
+msgstr "पृष्ठभूमि छवि कोण:"
+
+#: admin/views/WDPSViewSliders_wdps.php:975
+msgid "Background image grayscale:"
+msgstr "पृष्ठभूमि छवि स्केल:"
+
+#: admin/views/WDPSViewSliders_wdps.php:978
+msgid "You can change the color scheme for background images to grayscale. Values must be between 0 to 100."
+msgstr "आप पृष्ठभूमि छवियों स्केल के लिए रंग योजना बदल सकते हैं। मान 0 के बीच 100 के लिए होना चाहिए।"
+
+#: admin/views/WDPSViewSliders_wdps.php:982
+msgid "Background image transparency:"
+msgstr "पृष्ठभूमि छवि पारदर्शिता:"
+
+#: admin/views/WDPSViewSliders_wdps.php:985
+msgid "You can set transparency level for background images. Values should be between 0 to 100."
+msgstr "आप पृष्ठभूमि छवियों के लिए पारदर्शिता स्तर सेट कर सकते हैं। मान 0 के बीच 100 होना चाहिए।"
+
+#: admin/views/WDPSViewSliders_wdps.php:996
+msgid "Next / Previous buttons:"
+msgstr "अगले / पिछले बटन:"
+
+#: admin/views/WDPSViewSliders_wdps.php:1001
+msgid "Choose whether to display Previous and Next buttons or not."
+msgstr "पिछले और अगले बटन प्रदर्शित करने या नहीं करने का विकल्प।"
+
+#: admin/views/WDPSViewSliders_wdps.php:1006
+msgid "Mouse swipe navigation: "
+msgstr "माउस कड़ी चोट नेविगेशन:"
+
+#: admin/views/WDPSViewSliders_wdps.php:1016
+msgid "Touch swipe navigation: "
+msgstr "कड़ी चोट नेविगेशन टच:"
+
+#: admin/views/WDPSViewSliders_wdps.php:1026
+msgid "Mouse wheel navigation: "
+msgstr "माउस पहिया नेविगेशन:"
+
+#: admin/views/WDPSViewSliders_wdps.php:1036
+msgid "Keyboard navigation: "
+msgstr "कीबोर्ड नेविगेशन:"
+
+#: admin/views/WDPSViewSliders_wdps.php:1046
+msgid "Show Navigation buttons:"
+msgstr "नेवीगेशन बटन दिखाएँ:"
+
+#: admin/views/WDPSViewSliders_wdps.php:1049 admin/views/WDPSViewSliders_wdps.php:1502
+msgid "On hover"
+msgstr "हॉवर पर"
+
+#: admin/views/WDPSViewSliders_wdps.php:1050 admin/views/WDPSViewSliders_wdps.php:1503
+msgid "Always"
+msgstr "सदैव"
+
+#: admin/views/WDPSViewSliders_wdps.php:1051
+msgid "Select between the option of always displaying the navigation buttons or only when hovered."
+msgstr "हमेशा नेविगेशन बटन प्रदर्शित करने या केवल hovered जब के विकल्प के बीच का चयन करें।"
+
+#: admin/views/WDPSViewSliders_wdps.php:1056
+msgid "Image for Next / Previous buttons:"
+msgstr "अगले / पिछले बटन के लिए छवि:"
+
+#: admin/views/WDPSViewSliders_wdps.php:1059 admin/views/WDPSViewSliders_wdps.php:1265
+#: admin/views/WDPSViewSliders_wdps.php:1539 admin/views/WDPSViewSliders_wdps.php:2299
+#: admin/views/WDPSViewSliders_wdps.php:3075 post-slider-wd.php:386
+msgid "Default"
+msgstr "चूक"
+
+#: admin/views/WDPSViewSliders_wdps.php:1060 admin/views/WDPSViewSliders_wdps.php:1210
+#: admin/views/WDPSViewSliders_wdps.php:1266 admin/views/WDPSViewSliders_wdps.php:1400
+#: admin/views/WDPSViewSliders_wdps.php:1540 admin/views/WDPSViewSliders_wdps.php:1682
+msgid "Custom"
+msgstr "रिवाज"
+
+#: admin/views/WDPSViewSliders_wdps.php:1061 admin/views/WDPSViewSliders_wdps.php:1267
+#: admin/views/WDPSViewSliders_wdps.php:1541
+msgid "Styled"
+msgstr "स्टाइल"
+
+#: admin/views/WDPSViewSliders_wdps.php:1066
+msgid "Choose whether to use default navigation buttons or to upload custom ones."
+msgstr "डिफ़ॉल्ट नेविगेशन बटन का उपयोग करने के लिए या कस्टम वालों अपलोड करने के लिए कि क्या चुनें।"
+
+#: admin/views/WDPSViewSliders_wdps.php:1073
+msgid "Next / Previous buttons style:"
+msgstr "अगले / पिछले बटन शैली:"
+
+#: admin/views/WDPSViewSliders_wdps.php:1092
+msgid "Choose the style of the button you prefer to have as navigation buttons."
+msgstr "आप नेविगेशन बटन के रूप में है पसंद बटन की शैली चुनें।"
+
+#: admin/views/WDPSViewSliders_wdps.php:1097 admin/views/WDPSViewSliders_wdps.php:1288
+#: admin/views/WDPSViewSliders_wdps.php:1632
+msgid "Upload buttons images:"
+msgstr "बटन छवियों को अपलोड करें:"
+
+#: admin/views/WDPSViewSliders_wdps.php:1102 admin/views/WDPSViewSliders_wdps.php:1103
+#: admin/views/WDPSViewSliders_wdps.php:1106 admin/views/WDPSViewSliders_wdps.php:1107
+#: admin/views/WDPSViewSliders_wdps.php:1186 admin/views/WDPSViewSliders_wdps.php:1219
+#: admin/views/WDPSViewSliders_wdps.php:1293 admin/views/WDPSViewSliders_wdps.php:1294
+#: admin/views/WDPSViewSliders_wdps.php:1297 admin/views/WDPSViewSliders_wdps.php:1298
+#: admin/views/WDPSViewSliders_wdps.php:1409 admin/views/WDPSViewSliders_wdps.php:1637
+#: admin/views/WDPSViewSliders_wdps.php:1640 admin/views/WDPSViewSliders_wdps.php:1691
+#: admin/views/WDPSViewSliders_wdps.php:2154 admin/views/WDPSViewSliders_wdps.php:2157
+#: admin/views/WDPSViewSliders_wdps.php:2160 admin/views/WDPSViewSliders_wdps.php:2163
+#: admin/views/WDPSViewSliders_wdps.php:2185 admin/views/WDPSViewSliders_wdps.php:2186
+#: admin/views/WDPSViewSliders_wdps.php:2922 admin/views/WDPSViewSliders_wdps.php:2925
+#: admin/views/WDPSViewSliders_wdps.php:2928 admin/views/WDPSViewSliders_wdps.php:2931
+#: admin/views/WDPSViewSliders_wdps.php:2953 admin/views/WDPSViewSliders_wdps.php:2954 post-slider-wd.php:390
+msgid "This functionality is disabled in free version."
+msgstr "इस कार्यशीलता नि: शुल्क संस्करण में अक्षम है।"
+
+#: admin/views/WDPSViewSliders_wdps.php:1116 admin/views/WDPSViewSliders_wdps.php:1235
+#: admin/views/WDPSViewSliders_wdps.php:1307 admin/views/WDPSViewSliders_wdps.php:1424
+#: admin/views/WDPSViewSliders_wdps.php:1647 admin/views/WDPSViewSliders_wdps.php:1704
+msgid "Reverse"
+msgstr "रिवर्स"
+
+#: admin/views/WDPSViewSliders_wdps.php:1171 admin/views/WDPSViewSliders_wdps.php:1362
+#: admin/views/WDPSViewSliders_wdps.php:1624
+msgid " is not a directory."
+msgstr "एक निर्देशिका नहीं है।"
+
+#: admin/views/WDPSViewSliders_wdps.php:1180 admin/views/WDPSViewSliders_wdps.php:1370
+msgid "Choose buttons:"
+msgstr "बटन चुनें:"
+
+#: admin/views/WDPSViewSliders_wdps.php:1187 admin/views/WDPSViewSliders_wdps.php:1377
+#: admin/views/WDPSViewSliders_wdps.php:1661
+msgid "Choose group"
+msgstr "समूह चुनें"
+
+#: admin/views/WDPSViewSliders_wdps.php:1220 admin/views/WDPSViewSliders_wdps.php:1410
+#: admin/views/WDPSViewSliders_wdps.php:1692
+msgid "Choose color"
+msgstr "रंग पसंद करो"
+
+#: admin/views/WDPSViewSliders_wdps.php:1238 admin/views/WDPSViewSliders_wdps.php:1427
+msgid ""
+"Choose the type and color for navigation button images. The option is designed for limited preview (colors "
+"not included) purposes and can't be saved."
+msgstr ""
+"नेविगेशन बटन छवियों के लिए प्रकार और रंग चुनें। विकल्प सीमित पूर्वावलोकन के लिए डिज़ाइन किया गया है (रंग) शामिल नहीं उद्देश्यों और "
+"सहेजा नहीं जा सकता।"
+
+#: admin/views/WDPSViewSliders_wdps.php:1242
+msgid "Next / Previous buttons size:"
+msgstr "अगले / पिछले बटन का आकार:"
+
+#: admin/views/WDPSViewSliders_wdps.php:1245
+msgid "Set the size for the next / previous buttons."
+msgstr "अगले / पिछले बटन के लिए आकार सेट करें।"
+
+#: admin/views/WDPSViewSliders_wdps.php:1250
+msgid "Play / Pause button:"
+msgstr "/ रोकें बटन खेलने के लिए:"
+
+#: admin/views/WDPSViewSliders_wdps.php:1255
+msgid "Choose whether to display Play and Pause buttons or not."
+msgstr "प्ले प्रदर्शित करने और बटन रोकें या नहीं करने का विकल्प।"
+
+#: admin/views/WDPSViewSliders_wdps.php:1262
+msgid "Image for Play / Pause buttons:"
+msgstr "प्ले / रोकें बटन के लिए छवि:"
+
+#: admin/views/WDPSViewSliders_wdps.php:1272
+msgid "Choose whether to use default play/pause buttons or to upload custom ones."
+msgstr "/ डिफ़ॉल्ट खेलने का उपयोग करें बटन रोक सकते हैं या कस्टम वालों को अपलोड करने के लिए कि क्या चुनें।"
+
+#: admin/views/WDPSViewSliders_wdps.php:1278
+msgid "Play / Pause buttons style:"
+msgstr "बटन शैली रोकें / खेलने:"
+
+#: admin/views/WDPSViewSliders_wdps.php:1431
+msgid "Play / Pause button size:"
+msgstr "/ रोकें बटन आकार:"
+
+#: admin/views/WDPSViewSliders_wdps.php:1434
+msgid "Set the size for the play / pause buttons."
+msgstr "खेल / ठहराव बटन के लिए आकार सेट करें।"
+
+#: admin/views/WDPSViewSliders_wdps.php:1438
+msgid "Buttons color:"
+msgstr "बटन का रंग:"
+
+#: admin/views/WDPSViewSliders_wdps.php:1441
+msgid "Select a color for the navigation buttons."
+msgstr "नेविगेशन बटन के लिए एक रंग का चयन करें।"
+
+#: admin/views/WDPSViewSliders_wdps.php:1445 post-slider-wd.php:385
+msgid "Hover color:"
+msgstr "रंग होवर:"
+
+#: admin/views/WDPSViewSliders_wdps.php:1448
+msgid "Select a hover color for the navigation buttons."
+msgstr "नेविगेशन बटन के लिए एक हॉवर रंग का चयन करें।"
+
+#: admin/views/WDPSViewSliders_wdps.php:1465
+msgid "Select the type, size and the color of border for the navigation buttons."
+msgstr "प्रकार, आकार और नेविगेशन बटन के लिए सीमा के रंग का चयन करें।"
+
+#: admin/views/WDPSViewSliders_wdps.php:1490
+msgid "Enable bullets:"
+msgstr "गोलियों सक्षम करें:"
+
+#: admin/views/WDPSViewSliders_wdps.php:1494
+msgid "Choose whether to have navigation bullets or not."
+msgstr "नेविगेशन गोलियों है या नहीं करने का विकल्प।"
+
+#: admin/views/WDPSViewSliders_wdps.php:1499
+msgid "Show bullets:"
+msgstr "शो गोलियों:"
+
+#: admin/views/WDPSViewSliders_wdps.php:1504
+msgid "Select between the option of always displaying the bullets or only when hovered."
+msgstr "हमेशा गोलियों प्रदर्शित करने या केवल जब hovered के विकल्प के बीच का चयन करें।"
+
+#: admin/views/WDPSViewSliders_wdps.php:1508
+msgid "Show thumbnail on bullet hover:"
+msgstr "गोली मंडराना पर थंबनेल दिखाएँ:"
+
+#: admin/views/WDPSViewSliders_wdps.php:1517
+msgid "Thumbnail Size:"
+msgstr "थंबनेल का आकार:"
+
+#: admin/views/WDPSViewSliders_wdps.php:1521
+msgid "Value must be between 0 to 1."
+msgstr "मूल्य 0 के बीच 1 करने के लिए होना चाहिए।"
+
+#: admin/views/WDPSViewSliders_wdps.php:1525 admin/views/WDPSViewSliders_wdps.php:1779
+#: admin/views/WDPSViewSliders_wdps.php:2241 admin/views/WDPSViewSliders_wdps.php:3017 post-slider-wd.php:347
+msgid "Position:"
+msgstr "स्थान:"
+
+#: admin/views/WDPSViewSliders_wdps.php:1531
+msgid "Select the position for the navigation bullets."
+msgstr "नेविगेशन गोलियों के लिए स्थान का चयन करें।"
+
+#: admin/views/WDPSViewSliders_wdps.php:1536
+msgid "Image for bullets:"
+msgstr "गोलियों के लिए छवि:"
+
+#: admin/views/WDPSViewSliders_wdps.php:1542
+msgid "Text"
+msgstr "टेक्स्ट"
+
+#: admin/views/WDPSViewSliders_wdps.php:1545
+msgid "Choose whether to use default or styled bullets."
+msgstr "डिफ़ॉल्ट या स्टाइल गोलियों का उपयोग करने के लिए कि क्या चुनें।"
+
+#: admin/views/WDPSViewSliders_wdps.php:1552
+msgid "Bullet style:"
+msgstr "बुलेट शैली:"
+
+#: admin/views/WDPSViewSliders_wdps.php:1571
+msgid "Choose the style for the bullets."
+msgstr "गोलियों के लिए शैली चुनें।"
+
+#: admin/views/WDPSViewSliders_wdps.php:1654
+msgid "Chooes buttons:"
+msgstr "Chooes बटन:"
+
+#: admin/views/WDPSViewSliders_wdps.php:1707
+msgid ""
+"Choose the type and color for the bullets. The option is designed for limited preview (colors not included) "
+"purposes and can't be saved."
+msgstr ""
+"गोलियों के लिए प्रकार और रंग चुनें। विकल्प सीमित पूर्वावलोकन के लिए डिज़ाइन किया गया है (रंग) शामिल नहीं उद्देश्यों और सहेजा नहीं "
+"जा सकता।"
+
+#: admin/views/WDPSViewSliders_wdps.php:1711 admin/views/WDPSViewSliders_wdps.php:1865
+#: admin/views/WDPSViewSliders_wdps.php:2251 admin/views/WDPSViewSliders_wdps.php:3027 post-slider-wd.php:353
+msgid "Size:"
+msgstr "आकार:"
+
+#: admin/views/WDPSViewSliders_wdps.php:1714
+msgid "Define the size of the navigation bullets."
+msgstr "नेविगेशन गोलियों के आकार को परिभाषित करें।"
+
+#: admin/views/WDPSViewSliders_wdps.php:1718 admin/views/WDPSViewSliders_wdps.php:1872
+#: admin/views/WDPSViewSliders_wdps.php:2265 admin/views/WDPSViewSliders_wdps.php:3041 post-slider-wd.php:352
+msgid "Color:"
+msgstr "रंग:"
+
+#: admin/views/WDPSViewSliders_wdps.php:1721
+msgid "Select the color for the navigation bullets."
+msgstr "नेविगेशन गोलियों के लिए रंग का चयन करें।"
+
+#: admin/views/WDPSViewSliders_wdps.php:1725
+msgid "Active color:"
+msgstr "सक्रिय रंग:"
+
+#: admin/views/WDPSViewSliders_wdps.php:1728
+msgid "Select the color for the bullet, which is currently displaying a corresponding image."
+msgstr "वर्तमान में एक इसी छवि प्रदर्शित कर रहा है जो गोली, के लिए रंग का चयन करें।"
+
+#: admin/views/WDPSViewSliders_wdps.php:1732
+msgid "Active Background color:"
+msgstr "सक्रिय पृष्ठभूमि का रंग:"
+
+#: admin/views/WDPSViewSliders_wdps.php:1735
+msgid "Select the background color for the bullet, which is currently displaying a corresponding image."
+msgstr "गोली है, जो वर्तमान में एक इसी छवि प्रदर्शित कर रहा है के लिए पृष्ठभूमि रंग का चयन करें।"
+
+#: admin/views/WDPSViewSliders_wdps.php:1742
+msgid "Select the background color for the bullet."
+msgstr "गोली के लिए पृष्ठभूमि रंग का चयन करें।"
+
+#: admin/views/WDPSViewSliders_wdps.php:1756
+msgid "Set the margin for the navigation bullets in pixels."
+msgstr "पिक्सल में नेविगेशन गोलियों के लिए मार्जिन सेट करें।"
+
+#: admin/views/WDPSViewSliders_wdps.php:1767
+msgid "Filmstrip is disabled in free version."
+msgstr "फिल्मस्ट्रिप नि: शुल्क संस्करण में अक्षम है।"
+
+#: admin/views/WDPSViewSliders_wdps.php:1771
+msgid "Enable filmstrip:"
+msgstr "फ़िल्मस्ट्रिप सक्षम करें:"
+
+#: admin/views/WDPSViewSliders_wdps.php:1775
+msgid "Choose whether to have thumbnails of the slides displayed as a filmstrip or not."
+msgstr "एक filmstrip के रूप में है या नहीं प्रदर्शित की स्लाइड की थंबनेल जाएं या नहीं।"
+
+#: admin/views/WDPSViewSliders_wdps.php:1787
+msgid "Set the position of the filmstrip."
+msgstr "Filmstrip की स्थिति को सेट करें।"
+
+#: admin/views/WDPSViewSliders_wdps.php:1791
+msgid "Thumbnail dimensions:"
+msgstr "थंबनेल आयाम:"
+
+#: admin/views/WDPSViewSliders_wdps.php:1795
+msgid "Define the maximum width and heigth of the filmstrip thumbnails."
+msgstr "फ़िल्मस्ट्रिप थंबनेल की अधिकतम चौड़ाई और ऊँचाइ परिभाषित करें।"
+
+#: admin/views/WDPSViewSliders_wdps.php:1802
+msgid "Select the background color for the filmstrip."
+msgstr "फ़िल्मस्ट्रिप के लिए पृष्ठभूमि रंग का चयन करें।"
+
+#: admin/views/WDPSViewSliders_wdps.php:1806
+msgid "Thumbnail separator:"
+msgstr "थंबनेल विभाजक:"
+
+#: admin/views/WDPSViewSliders_wdps.php:1809
+msgid "Set the separator for the thumbnails."
+msgstr "थंबनेल के लिए विभाजक सेट करें।"
+
+#: admin/views/WDPSViewSliders_wdps.php:1813
+msgid "Active border:"
+msgstr "सक्रिय सीमा:"
+
+#: admin/views/WDPSViewSliders_wdps.php:1826
+msgid ""
+"The thumbnail for the currently displayed image will have a border. You can set its size, type and color."
+msgstr "वर्तमान में प्रदर्शित छवि के लिए थंबनेल एक सीमा के लिए होगा। आप इसके आकार, प्रकार और रंग सेट कर सकते हैं।"
+
+#: admin/views/WDPSViewSliders_wdps.php:1830
+msgid "Deactive transparency:"
+msgstr "अक्रिय पारदर्शिता:"
+
+#: admin/views/WDPSViewSliders_wdps.php:1833
+msgid "You can set a transparency level for the inactive filmstrip items which must be between 0 to 100.."
+msgstr "आप 0-100 के बीच होना चाहिए जो निष्क्रिय फ़िल्मस्ट्रिप मदों के लिए एक पारदर्शिता स्तर सेट कर सकते हैं .."
+
+#: admin/views/WDPSViewSliders_wdps.php:1843
+msgid "Enable timer bar:"
+msgstr "टाइमर बार सक्षम करें:"
+
+#: admin/views/WDPSViewSliders_wdps.php:1847
+msgid "You can add a bar displaying the timing left to switching to the next slide on autoplay."
+msgstr "आप ऑटोप्ले पर अगली स्लाइड करने के लिए स्विचन के लिए छोड़ दिया समय प्रदर्शित करने के लिए एक बार में जोड़ सकते हैं।"
+
+#: admin/views/WDPSViewSliders_wdps.php:1851 admin/views/WDPSViewWDPSPosts.php:95
+msgid "Type:"
+msgstr "प्रकार:"
+
+#: admin/views/WDPSViewSliders_wdps.php:1854
+msgid "Line top"
+msgstr "रेखा शीर्ष"
+
+#: admin/views/WDPSViewSliders_wdps.php:1855
+msgid "Line Bottom"
+msgstr "पंक्ति नीचे"
+
+#: admin/views/WDPSViewSliders_wdps.php:1856
+msgid "Circle top left"
+msgstr "सर्किल ऊपर छोड़ दिया"
+
+#: admin/views/WDPSViewSliders_wdps.php:1857
+msgid "Circle top right"
+msgstr "सर्किल शीर्ष सही"
+
+#: admin/views/WDPSViewSliders_wdps.php:1858
+msgid "Circle bottom left"
+msgstr "सर्किल नीचे छोड़ दिया"
+
+#: admin/views/WDPSViewSliders_wdps.php:1859
+msgid "Circle bottom right"
+msgstr "सर्किल नीचे सही"
+
+#: admin/views/WDPSViewSliders_wdps.php:1861
+msgid "Choose the type of the timer bar to be used within the slider."
+msgstr "टाइमर बार के प्रकार स्लाइडर के भीतर इस्तेमाल किया जा करने के लिए चुनें।"
+
+#: admin/views/WDPSViewSliders_wdps.php:1868
+msgid "Define the height of the timer bar."
+msgstr "टाइमर बार की ऊंचाई को परिभाषित करें।"
+
+#: admin/views/WDPSViewSliders_wdps.php:1886
+msgid "Css:"
+msgstr "सीएसएस:"
+
+#: admin/views/WDPSViewSliders_wdps.php:1890
+msgid "Add custom CSS to apply custom changes to the slider."
+msgstr "स्लाइडर के लिए कस्टम परिवर्तनों को लागू करने के लिए कस्टम सीएसएस जोड़ें।"
+
+#: admin/views/WDPSViewSliders_wdps.php:1921
+msgid "Post slider type:"
+msgstr "पोस्ट स्लाइडर के प्रकार:"
+
+#: admin/views/WDPSViewSliders_wdps.php:1922
+msgid "Static posts slides"
+msgstr "स्टेटिक पदों स्लाइड्स"
+
+#: admin/views/WDPSViewSliders_wdps.php:1923
+msgid "Dynamic posts slides"
+msgstr "गतिशील पदों स्लाइड्स"
+
+#: admin/views/WDPSViewSliders_wdps.php:1964 admin/views/WDPSViewSliders_wdps.php:2181
+#: admin/views/WDPSViewSliders_wdps.php:2760 admin/views/WDPSViewSliders_wdps.php:2949 post-slider-wd.php:332
+msgid "Drag to re-order"
+msgstr "पुन: व्यवस्थित करने के लिए खींचें"
+
+#: admin/views/WDPSViewSliders_wdps.php:1974
+msgid "Edit Slide"
+msgstr "संपादित स्लाइड"
+
+#: admin/views/WDPSViewSliders_wdps.php:1974 post-slider-wd.php:341
+msgid "Edit Image"
+msgstr "संपादित छवि"
+
+#: admin/views/WDPSViewSliders_wdps.php:1976 post-slider-wd.php:270
+msgid "Edit Post"
+msgstr "संपादित स्लाइड"
+
+#: admin/views/WDPSViewSliders_wdps.php:1980 post-slider-wd.php:380
+msgid "Duplicate slide"
+msgstr "डुप्लिकेट स्लाइड"
+
+#: admin/views/WDPSViewSliders_wdps.php:1981
+msgid "Remove Slide"
+msgstr "स्लाइड निकालें"
+
+#: admin/views/WDPSViewSliders_wdps.php:1981 post-slider-wd.php:381
+msgid "Delete slide"
+msgstr "स्लाइड मिटायें"
+
+#: admin/views/WDPSViewSliders_wdps.php:1995 admin/views/WDPSViewSliders_wdps.php:1996
+msgid "Add Posts"
+msgstr "पोस्ट जोड़ें"
+
+#: admin/views/WDPSViewSliders_wdps.php:2028
+msgid "Edit Slides"
+msgstr "संपादित स्लाइड्स"
+
+#: admin/views/WDPSViewSliders_wdps.php:2037
+msgid "Add/Edit Post"
+msgstr "/ संपादित पोस्ट जोड़ें"
+
+#: admin/views/WDPSViewSliders_wdps.php:2039 admin/views/WDPSViewWDPSPosts.php:84 post-slider-wd.php:269
+msgid "Add Post"
+msgstr "पोस्ट जोड़ें"
+
+#: admin/views/WDPSViewSliders_wdps.php:2125 post-slider-wd.php:266
+msgid ""
+"You can set a redirection link, so that the user will get to the mentioned location upon hitting the slide. "
+"Use http:// and https:// for external links."
+msgstr ""
+"आप एक रीडायरेक्शन लिंक सेट कर सकते हैं, जिससे कि उपयोगकर्ता स्लाइड को टचाने पर निर्दिष्ट स्थान पर पहुंच सके।बाहरी लिंक के लिए "
+"http: // और https: // का उपयोग करें।"
+
+#: admin/views/WDPSViewSliders_wdps.php:2126 post-slider-wd.php:267
+msgid "Link the slide to:"
+msgstr "स्लाइड के लिए लिंक:"
+
+#: admin/views/WDPSViewSliders_wdps.php:2130 admin/views/WDPSViewSliders_wdps.php:2326
+#: admin/views/WDPSViewSliders_wdps.php:2900 post-slider-wd.php:345
+msgid "Open in a new window"
+msgstr "एक नए विंडो में खोलें"
+
+#: admin/views/WDPSViewSliders_wdps.php:2151 admin/views/WDPSViewSliders_wdps.php:2919
+msgid "Layers"
+msgstr "परतें"
+
+#: admin/views/WDPSViewSliders_wdps.php:2154 admin/views/WDPSViewSliders_wdps.php:2922 post-slider-wd.php:265
+msgid "Add Text Layer"
+msgstr "पाठ परत जोड़ने"
+
+#: admin/views/WDPSViewSliders_wdps.php:2157 admin/views/WDPSViewSliders_wdps.php:2925 post-slider-wd.php:379
+msgid "Add Image Layer"
+msgstr "छवि परत जोड़ें"
+
+#: admin/views/WDPSViewSliders_wdps.php:2160 admin/views/WDPSViewSliders_wdps.php:2928 post-slider-wd.php:577
+msgid "Social Button Layer"
+msgstr "सामाजिक बटन परत"
+
+#: admin/views/WDPSViewSliders_wdps.php:2163 admin/views/WDPSViewSliders_wdps.php:2931 post-slider-wd.php:271
+msgid "Add Hotspot Layer"
+msgstr "हॉटस्पॉट लेयर जोड़ें"
+
+#: admin/views/WDPSViewSliders_wdps.php:2182 admin/views/WDPSViewSliders_wdps.php:2950 post-slider-wd.php:333
+msgid "Layer title"
+msgstr "लेयर खिताब"
+
+#: admin/views/WDPSViewSliders_wdps.php:2185 admin/views/WDPSViewSliders_wdps.php:2953
+msgid "Delete layer"
+msgstr "परत को नष्ट"
+
+#: admin/views/WDPSViewSliders_wdps.php:2186 admin/views/WDPSViewSliders_wdps.php:2954 post-slider-wd.php:335
+msgid "Duplicate layer"
+msgstr "नकली परत"
+
+#: admin/views/WDPSViewSliders_wdps.php:2203 admin/views/WDPSViewSliders_wdps.php:2971 post-slider-wd.php:337
+msgid "Text:"
+msgstr "पाठ:"
+
+#: admin/views/WDPSViewSliders_wdps.php:2230 admin/views/WDPSViewSliders_wdps.php:3006 post-slider-wd.php:340
+msgid "Leave blank to keep the initial width and height."
+msgstr "प्रारंभिक चौड़ाई और ऊंचाई रखने के लिए खाली छोड़ दें।"
+
+#: admin/views/WDPSViewSliders_wdps.php:2236 admin/views/WDPSViewSliders_wdps.php:3012
+msgid "Break-word"
+msgstr "तोड़-शब्द"
+
+#: admin/views/WDPSViewSliders_wdps.php:2240 admin/views/WDPSViewSliders_wdps.php:3016 post-slider-wd.php:348
+msgid "In addition you can drag and drop the layer to a desired position."
+msgstr "इसके अलावा आप खींच सकते हैं और एक इच्छित स्थान के लिए परत छोड़ देते हैं।"
+
+#: admin/views/WDPSViewSliders_wdps.php:2246 admin/views/WDPSViewSliders_wdps.php:3022 post-slider-wd.php:396
+msgid "Fixed step (left, center, right)"
+msgstr "फिक्स्ड कदम (बाएँ, केंद्र, दाएं)"
+
+#: admin/views/WDPSViewSliders_wdps.php:2259 admin/views/WDPSViewSliders_wdps.php:3035 post-slider-wd.php:437
+msgid "Minimal size must be less than the actual size."
+msgstr "न्यूनतम आकार वास्तविक आकार से कम होना चाहिए।"
+
+#: admin/views/WDPSViewSliders_wdps.php:2274 admin/views/WDPSViewSliders_wdps.php:3050
+msgid "Hover Color:"
+msgstr "हॉवर रंग:"
+
+#: admin/views/WDPSViewSliders_wdps.php:2283 admin/views/WDPSViewSliders_wdps.php:3059 post-slider-wd.php:354
+msgid "Font family:"
+msgstr "फ़ॉन्ट परिवार:"
+
+#: admin/views/WDPSViewSliders_wdps.php:2297 admin/views/WDPSViewSliders_wdps.php:3073 post-slider-wd.php:387
+msgid "Google fonts"
+msgstr "गूगल फोंट"
+
+#: admin/views/WDPSViewSliders_wdps.php:2305 admin/views/WDPSViewSliders_wdps.php:3081 post-slider-wd.php:355
+msgid "Font weight:"
+msgstr "फ़ॉन्ट वजन:"
+
+#: admin/views/WDPSViewSliders_wdps.php:2321 post-slider-wd.php:346
+msgid "Use http:// and https:// for external links."
+msgstr "HTTP का उपयोग करें: // और https: // बाहरी लिंक के लिए।"
+
+#: admin/views/WDPSViewSliders_wdps.php:2322 post-slider-wd.php:344
+msgid "Link:"
+msgstr "लिंक:"
+
+#: admin/views/WDPSViewSliders_wdps.php:2331 admin/views/WDPSViewSliders_wdps.php:3098 post-slider-wd.php:397
+msgid "Text alignment:"
+msgstr "पाठ्य संरेखण:"
+
+#: admin/views/WDPSViewSliders_wdps.php:2362 admin/views/WDPSViewSliders_wdps.php:3129
+msgid "Effect In:"
+msgstr "प्रभाव में:"
+
+#: admin/views/WDPSViewSliders_wdps.php:2367 admin/views/WDPSViewSliders_wdps.php:2399
+#: admin/views/WDPSViewSliders_wdps.php:3134 admin/views/WDPSViewSliders_wdps.php:3166 post-slider-wd.php:369
+msgid "Start"
+msgstr "प्रारंभ"
+
+#: admin/views/WDPSViewSliders_wdps.php:2379 admin/views/WDPSViewSliders_wdps.php:2411
+#: admin/views/WDPSViewSliders_wdps.php:3146 admin/views/WDPSViewSliders_wdps.php:3179 post-slider-wd.php:370
+msgid "Effect"
+msgstr "प्रभाव"
+
+#: admin/views/WDPSViewSliders_wdps.php:2383 admin/views/WDPSViewSliders_wdps.php:2415
+#: admin/views/WDPSViewSliders_wdps.php:3150 admin/views/WDPSViewSliders_wdps.php:3183 post-slider-wd.php:371
+msgid "Duration"
+msgstr "अवधि"
+
+#: admin/views/WDPSViewSliders_wdps.php:2386 admin/views/WDPSViewSliders_wdps.php:2418
+#: admin/views/WDPSViewSliders_wdps.php:3153 admin/views/WDPSViewSliders_wdps.php:3186 post-slider-wd.php:405
+msgid "0 for play infinte times"
+msgstr "खेलने के लिए 0 अनंत गुना"
+
+#: admin/views/WDPSViewSliders_wdps.php:2387 admin/views/WDPSViewSliders_wdps.php:2419
+#: admin/views/WDPSViewSliders_wdps.php:3154 admin/views/WDPSViewSliders_wdps.php:3187 post-slider-wd.php:404
+msgid "Iteration"
+msgstr "चलना"
+
+#: admin/views/WDPSViewSliders_wdps.php:2394 admin/views/WDPSViewSliders_wdps.php:3161
+msgid "Effect Out:"
+msgstr "बाहर प्रभाव:"
+
+#: admin/views/WDPSViewSliders_wdps.php:2426 admin/views/WDPSViewSliders_wdps.php:3194 post-slider-wd.php:356
+msgid "Padding:"
+msgstr "गद्दी:"
+
+#: admin/views/WDPSViewSliders_wdps.php:2434 admin/views/WDPSViewSliders_wdps.php:3202 post-slider-wd.php:359
+msgid "Background Color:"
+msgstr "पीछे का रंग:"
+
+#: admin/views/WDPSViewSliders_wdps.php:2442 admin/views/WDPSViewSliders_wdps.php:3210 post-slider-wd.php:361
+msgid "Value must be between 0 to 100."
+msgstr "मूल्य 0 के बीच 100 के लिए होना चाहिए।"
+
+#: admin/views/WDPSViewSliders_wdps.php:2443 admin/views/WDPSViewSliders_wdps.php:3211 post-slider-wd.php:360
+msgid "Transparent:"
+msgstr "पारदर्शी:"
+
+#: admin/views/WDPSViewSliders_wdps.php:2470 admin/views/WDPSViewSliders_wdps.php:3238 post-slider-wd.php:362
+msgid "Radius:"
+msgstr "त्रिज्या:"
+
+#: admin/views/WDPSViewSliders_wdps.php:2494 admin/views/WDPSViewSliders_wdps.php:3262
+msgid "Remove shortcode: "
+msgstr "शोर्ट निकालें:"
+
+#: admin/views/WDPSViewSliders_wdps.php:2589
+msgid "Period of posts to display:"
+msgstr "प्रदर्शन के लिए पदों की अवधि:"
+
+#: admin/views/WDPSViewSliders_wdps.php:2603
+msgid ""
+"Set the time for the posts, e.g. if set it to 24 hours it will display the posts added within the last 24 "
+"hours."
+msgstr ""
+"उदाहरण के लिए, पदों के लिए समय निर्धारित करें 24 घंटे के लिए यह निर्धारित करता है, तो यह पिछले 24 घंटों के भीतर जोड़ पदों को "
+"प्रदर्शित करेगा।"
+
+#: admin/views/WDPSViewSliders_wdps.php:2607
+msgid "Number of posts:"
+msgstr "पदों की संख्या:"
+
+#: admin/views/WDPSViewSliders_wdps.php:2610
+msgid ""
+"Set the number of posts which will be displayed as slides. If set to 0 or left empty it will display all "
+"posts."
+msgstr ""
+"स्लाइड के रूप में प्रदर्शित किया जाएगा, जो पदों की संख्या निर्धारित करें। 0 पर सेट या खाली छोड़ दिया है, तो यह सभी पदों को "
+"प्रदर्शित करेगा।"
+
+#: admin/views/WDPSViewSliders_wdps.php:2615
+msgid "Choose post type:"
+msgstr "पद प्रकार चुनें:"
+
+#: admin/views/WDPSViewSliders_wdps.php:2631
+msgid "Select the type for the dynamic posts, e.g. standard or custom post types."
+msgstr "उदाहरण के लिए, गतिशील पदों के लिए प्रकार का चयन करें मानक या कस्टम पोस्ट प्रकार के।"
+
+#: admin/views/WDPSViewSliders_wdps.php:2641
+msgid "Author:"
+msgstr "लेखक:"
+
+#: admin/views/WDPSViewSliders_wdps.php:2660
+msgid "Select the author whose posts will be displayed within the slider."
+msgstr "जिसका पदों स्लाइडर के भीतर प्रदर्शित किया जाएगा लेखक का चयन करें।"
+
+#: admin/views/WDPSViewSliders_wdps.php:2665
+msgid "Sort posts by:"
+msgstr "क्रमबद्ध पोस्ट द्वारा:"
+
+#: admin/views/WDPSViewSliders_wdps.php:2679
+msgid "Select the option which will be used as a sorting basis while displaying posts."
+msgstr "पदों प्रदर्शित करते हुए एक छँटाई आधार के रूप में इस्तेमाल किया जाएगा जो विकल्प का चयन करें।"
+
+#: admin/views/WDPSViewSliders_wdps.php:2683
+msgid "Order posts by:"
+msgstr "पोस्ट द्वारा आदेश:"
+
+#: admin/views/WDPSViewSliders_wdps.php:2687
+msgid "Set the ordering sequence for the posts- ascending or descending."
+msgstr "Posts- बढ़ते या घटते के लिए आदेश देने के अनुक्रम सेट करें।"
+
+#: admin/views/WDPSViewSliders_wdps.php:2699
+msgid "Post taxonomies:"
+msgstr "पोस्ट taxonomies:"
+
+#: admin/views/WDPSViewSliders_wdps.php:2750
+msgid "Slide"
+msgstr "स्लाइड"
+
+#: admin/views/WDPSViewSliders_wdps.php:2829
+msgid ""
+"The post content will not be displayed on back end. You will see a sample background, where you can add "
+"standard and dynamic-post layers, which will be displayed over the posts on front end."
+msgstr ""
+"पोस्ट सामग्री वापस अंत पर प्रदर्शित नहीं किया जाएगा। आप सामने के छोर पर पदों पर प्रदर्शित किया जाएगा, जो मानक और गतिशील-"
+"पोस्ट परतों में जोड़ सकते हैं, जहां एक नमूना पृष्ठभूमि, देखेंगे।"
+
+#: admin/views/WDPSViewSliders_wdps.php:2894
+msgid "Link the slide to post:"
+msgstr "पोस्ट करने के लिए स्लाइड लिंक करें:"
+
+#: admin/views/WDPSViewSliders_wdps.php:3395
+msgid "Enter absolute url of the image."
+msgstr "छवि का पूर्ण URL दर्ज करें।"
+
+#: admin/views/WDPSViewUninstall_wdps.php:33 admin/views/WDPSViewUninstall_wdps.php:106
+msgid "Uninstall Post Slider by 10Web"
+msgstr "स्थापना रद्द पोस्ट स्लाइडर WD"
+
+#: admin/views/WDPSViewUninstall_wdps.php:36
+msgid "support team"
+msgstr "टीम का समर्थन"
+
+#: admin/views/WDPSViewUninstall_wdps.php:37 wd/templates/display_overview_support.php:41
+msgid "Contact us"
+msgstr "हमसे संपर्क करें"
+
+#: admin/views/WDPSViewUninstall_wdps.php:38
+#, php-format
+msgid ""
+"Before uninstalling the plugin, please Contact our %s. We'll do our best to help you out with your issue. We "
+"value each and every user and value what's right for our users in everything we do.<br />\n"
+"          However, if anyway you have made a decision to uninstall the plugin, please take a minute to %s and "
+"tell what you didn't like for our plugins further improvement and development. Thank you !!!"
+msgstr ""
+"प्लगइन की स्थापना रद्द करने से पहले, कृपया हमसे संपर्क करें %s.हम आपकी समस्या के साथ आपकी सहायता करने के लिए अपनी पूरी कोशिश "
+"करेंगे। हम हर उपयोगकर्ता और मूल्य का महत्व देते हैं जो हमारे प्रयोक्ताओं के लिए जो कुछ हम करते हैं वह सही है।<br />हालांकि, अगर वैसे "
+"भी आपने प्लग-इन को अनइंस्टॉल करने का फैसला किया है, तो कृपया एक मिनट का समय लें %s और बताएं कि हमारे प्लगइन्स के लिए आपको जो "
+"सुधार नहीं आया, वह आगे सुधार और विकास। धन्यवाद !!!"
+
+#: admin/views/WDPSViewUninstall_wdps.php:42
+msgid ""
+"Deactivating Post Slider by 10Web plugin does not remove any data that may have been created. To completely remove "
+"this plugin, you can uninstall it here."
+msgstr ""
+"पोस्ट स्लाइडर WD प्लगइन निष्क्रिय बना दिया गया हो सकता है कि किसी भी डेटा को दूर नहीं करता। पूरी तरह से इस प्लगइन को दूर "
+"करने के लिए, आप इसे यहाँ की स्थापना रद्द कर सकते हैं।"
+
+#: admin/views/WDPSViewUninstall_wdps.php:45
+msgid "WARNING:"
+msgstr "चेतावनी:"
+
+#: admin/views/WDPSViewUninstall_wdps.php:46
+msgid ""
+"Once uninstalled, this can't be undone. You should use a Database Backup plugin of WordPress to back up all "
+"the data first."
+msgstr ""
+"की स्थापना रद्द करने के बाद, यह पूर्ववत नहीं किया जा सकता है। आप पहली बार सभी डेटा को वापस करने के लिए वर्डप्रेस का एक "
+"डेटाबेस बैकअप प्लगइन का उपयोग करना चाहिए।"
+
+#: admin/views/WDPSViewUninstall_wdps.php:49
+msgid "The following Database Tables will be deleted:"
+msgstr "निम्नलिखित डेटाबेस तालिकाओं को हटा दिया जाएगा:"
+
+#: admin/views/WDPSViewUninstall_wdps.php:54
+msgid "Database Tables"
+msgstr "डेटाबेस तालिकाओं"
+
+#: admin/views/WDPSViewUninstall_wdps.php:68
+msgid "Do you really want to uninstall Post Slider by 10Web plugin?"
+msgstr "आप वास्तव में पोस्ट स्लाइडर WP प्लगइन की स्थापना रद्द करना चाहते हैं?"
+
+#: admin/views/WDPSViewUninstall_wdps.php:74
+msgid "UNINSTALL"
+msgstr "स्थापना रद्द"
+
+#: admin/views/WDPSViewUninstall_wdps.php:75
+msgid "You are About to Uninstall Post Slider by 10Web plugin from WordPress.This Action Is Not Reversible."
+msgstr "You are About to Uninstall Post Slider by 10Web plugin from WordPress.This Action Is Not Reversible."
+
+#: admin/views/WDPSViewUninstall_wdps.php:100
+msgid "The following Database Tables successfully deleted:"
+msgstr "निम्नलिखित डेटाबेस तालिकाओं सफलतापूर्वक नष्ट कर दिया:"
+
+#: admin/views/WDPSViewUninstall_wdps.php:107
+msgid "Click Here"
+msgstr "यहां क्लिक करे"
+
+#: admin/views/WDPSViewUninstall_wdps.php:107
+msgid "To Finish the Uninstallation and Post Slider by 10Web will be Deactivated Automatically."
+msgstr "To Finish the Uninstallation and Post Slider by 10Web will be Deactivated Automatically."
+
+#: admin/views/WDPSViewWDPSPosts.php:58
+msgid "Posts"
+msgstr "पोस्ट"
+
+#: admin/views/WDPSViewWDPSPosts.php:85
+msgid "Add to slider"
+msgstr "स्लाइडर को जोड़ें"
+
+#: admin/views/WDPSViewWDPSPosts.php:89
+msgid ""
+"You can include only published posts with featured image. If you want to include posts without featured image "
+"into the list, disable Featured image option in Settings->Global Options."
+msgstr ""
+"आप विशेष रुप से छवि के साथ ही प्रकाशित पदों में शामिल कर सकते हैं। आप सूची में विशेष रुप से छवि के बिना पदों शामिल करना चाहते हैं, "
+"तो सेटिंग्स> नेटवर्किंग विकल्प में विशेष रुप से प्रदर्शित छवि विकल्प को अक्षम करें।"
+
+#: admin/views/WDPSViewWDPSPosts.php:124
+msgid "Taxonomies"
+msgstr "Taxonomies"
+
+#: admin/views/WDPSViewWDPSPosts.php:128
+msgid "-all-"
+msgstr "-all-"
+
+#: admin/views/WDPSViewWDPSPosts.php:154 admin/views/WDPSViewWDPSPosts.php:166
+msgid "Title"
+msgstr "शीर्षक"
+
+#: admin/views/WDPSViewWDPSPosts.php:161
+msgid "Image"
+msgstr "छवि"
+
+#: admin/views/WDPSViewWDPSPosts.php:176
+msgid "Type"
+msgstr "टाइप"
+
+#: admin/views/WDPSViewWDPSPosts.php:181
+msgid "Date created"
+msgstr "निर्माण की तिथि"
+
+#: admin/views/WDPSViewWDPSPosts.php:188
+msgid "Date modified"
+msgstr "डेटा संशोधित"
+
+#: admin/views/WDPSViewWDPSShortcode.php:34
+msgid "Post Slider by 10Web"
+msgstr "Post Slider by 10Web"
+
+#: admin/views/WDPSViewWDPSShortcode.php:43
+msgid "Select a Slider"
+msgstr "एक स्लाइडर का चयन करें"
+
+#: admin/views/WDPSViewWDPSShortcode.php:46
+msgid "- Select a Slider -"
+msgstr "- एक स्लाइडर का चयन करें -"
+
+#: admin/views/WDPSViewWidgetSlideshow.php:60
+msgid "Title:"
+msgstr "शीर्षक:"
+
+#: admin/views/WDPSViewWidgetSlideshow.php:65
+msgid "Select Slider"
+msgstr "स्लाइडर का चयन करें"
+
+#: framework/WDW_PS_Library.php:45
+msgid "Item Succesfully Saved."
+msgstr "आइटम सफलतापूर्वक बचाया।"
+
+#: framework/WDW_PS_Library.php:63
+msgid "You can't delete default theme"
+msgstr "आप डिफ़ॉल्ट विषय को नष्ट नहीं कर सकते"
+
+#: framework/WDW_PS_Library.php:81
+msgid "The item is successfully set as default."
+msgstr "आइटम सफलतापूर्वक डिफ़ॉल्ट के रूप में सेट किया गया है।"
+
+#: framework/WDW_PS_Library.php:87
+msgid "Options Succesfully Saved."
+msgstr "विकल्प सफलतापूर्वक बचाया।"
+
+#: framework/WDW_PS_Library.php:117
+msgid "Ordering Succesfully Saved."
+msgstr "सफलतापूर्वक गयी आदेश दे।"
+
+#: framework/WDW_PS_Library.php:123
+msgid "A term with the name provided already exists."
+msgstr "पहले से ही प्रदान नाम के साथ एक शब्द मौजूद है।"
+
+#: framework/WDW_PS_Library.php:129
+msgid "Name field is required."
+msgstr "नाम फ़ील्ड आवश्यक है।"
+
+#: framework/WDW_PS_Library.php:135
+msgid "The slug must be unique."
+msgstr "काउंटर अद्वितीय होना चाहिए।"
+
+#: framework/WDW_PS_Library.php:147
+msgid "You must set watermark type."
+msgstr "आप वॉटरमार्क प्रकार सेट करना होगा।"
+
+#: framework/WDW_PS_Library.php:154
+msgid "Settings Succesfully Reset."
+msgstr "सेटिंग्स सफलतापूर्वक रीसेट।"
+
+#: framework/WDW_PS_Library.php:210
+msgid "Search"
+msgstr "खोज"
+
+#: framework/WDW_PS_Library.php:211
+msgid "Reset"
+msgstr "रीसेट"
+
+#: framework/WDW_PS_Library.php:444
+msgid "item"
+msgstr "मद"
+
+#: framework/WDW_PS_Library.php:543
+#, php-format
+msgid "No %s found."
+msgstr "नहीं  %s मिल गया।"
+
+#: frontend/views/WDPSViewSlider.php:42
+msgid "There is no slider selected or the slider was deleted."
+msgstr "वहाँ चयनित कोई स्लाइडर है या स्लाइडर नष्ट कर दिया गया।"
+
+#: frontend/views/WDPSViewSlider.php:62
+msgid "There are no posts in this slider."
+msgstr "इस स्लाइडर में कोई पोस्ट कर रहे हैं।"
+
+#: frontend/views/WDPSViewSlider.php:2001 frontend/views/WDPSViewSlider.php:2039
+msgid "Pause"
+msgstr "ठहराव"
+
+#: frontend/views/WDPSViewSlider.php:2069
+msgid "Play"
+msgstr "प्ले"
+
+#: post-slider-wd.php:29
+msgid "Sliders"
+msgstr "स्लाइडर"
+
+#: post-slider-wd.php:35
+msgid "Get Pro"
+msgstr "समर्थक बनो"
+
+#: post-slider-wd.php:36
+msgid "Uninstall"
+msgstr "स्थापना रद्द करें"
+
+#: post-slider-wd.php:260
+msgid "Items Succesfully Saved."
+msgstr "आइटम सफलतापूर्वक बचा लिया।"
+
+#: post-slider-wd.php:261
+msgid "Changes made in this table should be saved."
+msgstr "इस तालिका में किए गए परिवर्तन बचाया जाना चाहिए।"
+
+#: post-slider-wd.php:262
+msgid "Show order column"
+msgstr "शो आदेश स्तंभ"
+
+#: post-slider-wd.php:263
+msgid "You must select an image file."
+msgstr "आप एक छवि फ़ाइल का चयन करना होगा।"
+
+#: post-slider-wd.php:264
+msgid "You must select an audio file."
+msgstr "आप एक ऑडियो फ़ाइल का चयन करना होगा।"
+
+#: post-slider-wd.php:272
+msgid "Add Social Button Layer"
+msgstr "सामाजिक बटन परत जोड़ें"
+
+#: post-slider-wd.php:334
+msgid "Are you sure you want to delete this layer ?"
+msgstr "आप इस परत को नष्ट करना चाहते हैं आप सुनिश्चित हैं?"
+
+#: post-slider-wd.php:336
+msgid "z-index"
+msgstr "z- सूचकांक"
+
+#: post-slider-wd.php:338
+msgid "Sample text"
+msgstr "नमूना पाठ"
+
+#: post-slider-wd.php:342
+msgid "Alt:"
+msgstr "ऑल्ट:"
+
+#: post-slider-wd.php:343
+msgid "Set the HTML attribute specified in the IMG tag."
+msgstr "आइएमजी टैग में निर्दिष्ट HTML विशेषता सेट करें।"
+
+#: post-slider-wd.php:365
+msgid "Scale:"
+msgstr "स्केल:"
+
+#: post-slider-wd.php:366
+msgid "Set width and height of the image."
+msgstr "सेट चौड़ाई और छवि की ऊंचाई।"
+
+#: post-slider-wd.php:367
+msgid "Social button:"
+msgstr "सामाजिक बटन:"
+
+#: post-slider-wd.php:368
+msgid "Effect in:"
+msgstr "प्रभाव में:"
+
+#: post-slider-wd.php:373
+msgid "Effect out:"
+msgstr "बाहर प्रभाव:"
+
+#: post-slider-wd.php:374
+msgid "Hotspot text position:"
+msgstr "हॉटस्पॉट पाठ की स्थिति:"
+
+#: post-slider-wd.php:375
+msgid "Hotspot Width:"
+msgstr "हॉटस्पॉट चौड़ाई:"
+
+#: post-slider-wd.php:376
+msgid "Hotspot Background Color:"
+msgstr "हॉटस्पॉट पृष्ठभूमि रंग:"
+
+#: post-slider-wd.php:377
+msgid "Hotspot Border:"
+msgstr "हॉटस्पॉट सीमा:"
+
+#: post-slider-wd.php:378
+msgid "Hotspot Radius:"
+msgstr "हॉटस्पॉट त्रिज्या:"
+
+#: post-slider-wd.php:384
+msgid "Break-word:"
+msgstr "तोड़-शब्द:"
+
+#: post-slider-wd.php:388
+msgid "Do you want to duplicate selected items?"
+msgstr "आप चयनित आइटम नकल करना चाहते हैं?"
+
+#: post-slider-wd.php:391
+msgid "Choose file."
+msgstr "फ़ाइल का चयन।"
+
+#: post-slider-wd.php:392
+msgid "Sorry, you are not allowed to upload this type of file."
+msgstr "क्षमा करें, आप इस प्रकार की फ़ाइल अपलोड करने की अनुमति नहीं है।"
+
+#: post-slider-wd.php:393
+msgid "The thumbnail size must be between 0 to 1."
+msgstr "थंबनेल आकार 0 के बीच 1 करने के लिए होना चाहिए।"
+
+#: post-slider-wd.php:395
+msgid "Do you want to delete slide?"
+msgstr "आप स्लाइड को नष्ट करना चाहते हैं?"
+
+#: post-slider-wd.php:401
+msgid "Remove shortcode:"
+msgstr "शोर्ट निकालें:"
+
+#: post-slider-wd.php:402
+msgid "Are you sure you want to reset the slider?"
+msgstr "आप स्लाइडर रीसेट करना चाहते हैं आप सुनिश्चित हैं?"
+
+#: post-slider-wd.php:519
+msgid "Post Slider by 10Web is designed to show off your selected posts of your website using in a slider."
+msgstr ""
+
+#: post-slider-wd.php:523
+msgid "Responsive"
+msgstr ""
+
+#: post-slider-wd.php:524
+msgid ""
+"Post Slider by 10Web is a stunning responsive plugin, bringing the best experience on all mobile devices. Post "
+"slides look crisp and sharp on any screen variations."
+msgstr ""
+
+#: post-slider-wd.php:527
+msgid "Touch Swipe Navigation"
+msgstr "टच स्वाइप नेविगेशन"
+
+#: post-slider-wd.php:528
+msgid ""
+"Stay cool with your finger as you swipe your slides across any device and view the stunning color pallet of "
+"your slides."
+msgstr ""
+
+#: post-slider-wd.php:531
+msgid "Layers with Animations and Transition Effects"
+msgstr ""
+
+#: post-slider-wd.php:532
+msgid ""
+"The plugin includes more than 30 animations and transition effects for post-slides, bringing energetic mood "
+"to your posts."
+msgstr ""
+
+#: post-slider-wd.php:535
+msgid "Fully Customizable Slider"
+msgstr ""
+
+#: post-slider-wd.php:536
+msgid ""
+"Set slider settings, choose colors and fonts, add custom CSS, choose navigation buttons, transaction effects "
+"and much more."
+msgstr ""
+
+#: post-slider-wd.php:539
+msgid "Navigation Button and Bullets Variety"
+msgstr ""
+
+#: post-slider-wd.php:540
+msgid "Chose navigation button, bullets and color. If looking for something different upload your own option."
+msgstr ""
+
+#: post-slider-wd.php:546
+msgid "Installing the Post Slider by 10Web"
+msgstr "पोस्ट स्लाइडर WD को स्थापित करना"
+
+#: post-slider-wd.php:551
+msgid "Creating Posts Sliders"
+msgstr "पोस्ट स्लाइडर बनाना"
+
+#: post-slider-wd.php:555
+msgid "Creating Static Posts Slider"
+msgstr "स्थिर पोस्ट स्लाइडर बनाना"
+
+#: post-slider-wd.php:559
+msgid "Creating Dynamic Posts Slider"
+msgstr "डायनामिक पोस्ट स्लाइडर बनाना"
+
+#: post-slider-wd.php:565
+msgid "Adding Layers to Sliders"
+msgstr "स्लाइडर्स को परतें जोड़ना"
+
+#: post-slider-wd.php:569
+msgid "Text Layer"
+msgstr "पाठ परत"
+
+#: post-slider-wd.php:573
+msgid "Image Layer"
+msgstr "छवि परत"
+
+#: post-slider-wd.php:581
+msgid "HotSpot Layer"
+msgstr "हॉटस्पॉट लेयर"
+
+#: post-slider-wd.php:587
+msgid "Post Slider Settings"
+msgstr "पोस्ट स्लाइडर सेटिंग्स"
+
+#: post-slider-wd.php:591
+msgid "Global Settings"
+msgstr "वैश्विक व्यवस्था"
+
+#: post-slider-wd.php:611
+msgid "Timer Bar"
+msgstr "टाइमर बार"
+
+#: post-slider-wd.php:621
+msgid "Inserting Post Slider"
+msgstr "पोस्ट स्लाइडर डालने"
+
+#: post-slider-wd.php:743
+#, php-format
+msgid "This section allows you to %s."
+msgstr "यह खंड आपको अनुमति देता है %s."
+
+#: post-slider-wd.php:745
+msgid "Read More in User Manual"
+msgstr "उपयोगकर्ता के लिए मैनुअल में और अधिक पढ़ें"
+
+#: post-slider-wd.php:751
+msgid "Upgrade to paid version"
+msgstr "भुगतान किए गए वर्शन में अपग्रेड करें"
+
+#: post-slider-wd.php:766 wd/templates/display_overview_user_guide.php:33
+msgid "Support Forum"
+msgstr "सहयता मंच"
+
+#: wd/includes/deactivate.php:35
+msgid "Technical problems / hard to use"
+msgstr ""
+
+#: wd/includes/deactivate.php:39
+msgid "Free version is limited"
+msgstr ""
+
+#: wd/includes/deactivate.php:43
+msgid "Premium is expensive"
+msgstr ""
+
+#: wd/includes/deactivate.php:47
+msgid "Upgrading to paid version"
+msgstr ""
+
+#: wd/includes/deactivate.php:51
+msgid "Temporary deactivation"
+msgstr ""
+
+#: wd/includes/notices.php:211
+msgid "Leave A Review?"
+msgstr "समीक्षा लिखें?"
+
+#: wd/includes/notices.php:212
+#, php-format
+msgid "We hope you've enjoyed using WordPress %s! Would you consider leaving us a review on WordPress.org?"
+msgstr "हम आपको वर्डप्रेस% s का उपयोग करके आनंद लिया है, उम्मीद है! आप हमें WordPress.org पर एक समीक्षा छोड़ने पर विचार करेंगे?"
+
+#: wd/includes/notices.php:213
+msgid "Sure! I'd love to!"
+msgstr "ज़रूर! मुझे खुशी होगी!"
+
+#: wd/includes/notices.php:214
+msgid "I've already left a review"
+msgstr "मैं पहले से ही एक समीक्षा छोड़ दिया है"
+
+#: wd/includes/notices.php:215
+msgid "Maybe Later"
+msgstr "शायद बाद में"
+
+#: wd/includes/notices.php:216
+msgid "Never show again"
+msgstr "फिर कभी दिखाई मत देना"
+
+#: wd/includes/overview.php:27
+msgid "Welcome"
+msgstr ""
+
+#: wd/includes/overview.php:31
+#, fuzzy
+#| msgid "Check out User Guide"
+msgid "User Guide"
+msgstr "उपयोगकर्ता गाइड बाहर की जाँच करें"
+
+#: wd/includes/overview.php:35
+msgid "Deals"
+msgstr ""
+
+#: wd/includes/overview.php:39
+msgid "Support"
+msgstr ""
+
+#: wd/includes/overview.php:43
+msgid "Submit Your  Idea"
+msgstr ""
+
+#: wd/includes/overview.php:47
+msgid "Forum"
+msgstr ""
+
+#: wd/includes/overview.php:79
+msgid "Wordpress form builder plugin"
+msgstr ""
+
+#: wd/includes/overview.php:80
+msgid "Form Maker is a modern and advanced tool for creating WordPress forms easily and fast."
+msgstr ""
+
+#: wd/includes/overview.php:85
+msgid "WordPress Photo Gallery plugin"
+msgstr ""
+
+#: wd/includes/overview.php:86
+msgid "Photo Gallery is a fully responsive WordPress Gallery plugin with advanced functionality."
+msgstr ""
+
+#: wd/includes/overview.php:91
+msgid "WordPress calendar plugin"
+msgstr ""
+
+#: wd/includes/overview.php:92
+msgid "Organize and publish your events in an easy and elegant way using Event Calendar WD."
+msgstr ""
+
+#: wd/includes/overview.php:97
+msgid "WD Google Maps plugin"
+msgstr ""
+
+#: wd/includes/overview.php:98
+msgid ""
+"Google Maps WD is an intuitive tool for creating Google maps with advanced markers, custom layers and "
+"overlays for   your website."
+msgstr ""
+
+#: wd/includes/overview.php:103
+msgid "WordPress slider plugin"
+msgstr ""
+
+#: wd/includes/overview.php:104
+msgid "Create responsive, highly configurable sliders with various effects for your WordPress site."
+msgstr ""
+
+#: wd/includes/overview.php:109
+msgid "WordPress event calendar plugin"
+msgstr ""
+
+#: wd/includes/overview.php:110
+msgid ""
+"Spider Event Calendar is a highly configurable product which allows you to have multiple organized events."
+msgstr ""
+
+#: wd/includes/overview.php:115
+msgid "WordPress Instagram Feed plugin"
+msgstr ""
+
+#: wd/includes/overview.php:116
+msgid "WD Instagram Feed is a user-friendly tool for displaying user or hashtag-based feeds on your website."
+msgstr ""
+
+#: wd/includes/overview.php:168
+msgid "Not set"
+msgstr ""
+
+#: wd/includes/overview.php:173 wd/includes/overview.php:180
+msgid "On"
+msgstr ""
+
+#: wd/includes/overview.php:175 wd/includes/overview.php:182
+msgid "Off"
+msgstr ""
+
+#: wd/includes/overview.php:191 wd/includes/overview.php:199 wd/includes/overview.php:206
+#: wd/includes/overview.php:213 wd/includes/overview.php:221 wd/includes/overview.php:228
+msgid "N/A"
+msgstr ""
+
+#: wd/includes/overview.php:226
+msgid " MByte"
+msgstr ""
+
+#: wd/includes/subscribe.php:43
+msgid "Your name &"
+msgstr ""
+
+#: wd/includes/subscribe.php:44
+msgid "Email address"
+msgstr ""
+
+#: wd/includes/subscribe.php:48
+msgid "Site URL"
+msgstr ""
+
+#: wd/includes/subscribe.php:49
+#, fuzzy
+#| msgid "Current version %s"
+msgid "Wordpress version"
+msgstr "वर्तमान संस्करण% s"
+
+#: wd/includes/subscribe.php:53
+msgid "List of plugins"
+msgstr ""
+
+#: wd/templates/display_deactivation_popup.php:8
+msgid "Please let us know why you are deactivating. Your answer will help us to serve you better"
+msgstr ""
+
+#: wd/templates/display_deactivation_popup.php:21
+#, fuzzy
+#| msgid "Deactive Button"
+msgid "Deactivate"
+msgstr "अक्रिय बटन"
+
+#: wd/templates/display_deactivation_popup.php:22
+msgid "Submit and deactivate"
+msgstr ""
+
+#: wd/templates/display_overview.php:6
+#, php-format
+msgid "Welcome to %s"
+msgstr ""
+
+#: wd/templates/display_overview.php:8
+#, php-format
+msgid "CONGRATS! You've successfully installed %s WordPress plugin."
+msgstr ""
+
+#: wd/templates/display_overview_deals.php:12
+#, fuzzy, php-format
+#| msgid "Get Pro"
+msgid "Get %s"
+msgstr "समर्थक बनो"
+
+#: wd/templates/display_overview_deals.php:13
+msgid "plugins"
+msgstr ""
+
+#: wd/templates/display_overview_deals.php:14 wd/templates/display_overview_deals.php:65
+msgid "for"
+msgstr ""
+
+#: wd/templates/display_overview_deals.php:14 wd/templates/display_overview_deals.php:65
+msgid "only"
+msgstr ""
+
+#: wd/templates/display_overview_deals.php:16
+#, fuzzy
+#| msgid "Save"
+msgid "Save 80%"
+msgstr "सहेजें"
+
+#: wd/templates/display_overview_deals.php:37
+msgid "Downloads"
+msgstr ""
+
+#: wd/templates/display_overview_deals.php:42
+msgid "Download"
+msgstr ""
+
+#: wd/templates/display_overview_deals.php:52
+msgid "Get all plugins"
+msgstr ""
+
+#: wd/templates/display_overview_deals.php:64
+msgid "Get all 11 themes"
+msgstr ""
+
+#: wd/templates/display_overview_deals.php:67
+#, fuzzy
+#| msgid "Save"
+msgid "Save 70%"
+msgstr "सहेजें"
+
+#: wd/templates/display_overview_deals.php:84
+msgid "Find out more"
+msgstr ""
+
+#: wd/templates/display_overview_support.php:3
+#, php-format
+msgid ""
+"You may contact us by filling in this form or by email %s any time you need professional support or have any "
+"questions. You can also fill in the form to leave your comments or feedback."
+msgstr ""
+
+#: wd/templates/display_overview_support.php:6
+msgid "Site Deatils"
+msgstr ""
+
+#: wd/templates/display_overview_support.php:8
+msgid "When contacting support, consider copying and pasting this information in your support request."
+msgstr ""
+
+#: wd/templates/display_overview_support.php:10
+msgid "It helps us troubleshoot more quickly."
+msgstr ""
+
+#: wd/templates/display_overview_support.php:17
+msgid "Copy to Clipboard"
+msgstr ""
+
+#: wd/templates/display_overview_support.php:20
+#, fuzzy
+#| msgid "Reset Settings"
+msgid "Server Settings"
+msgstr "सेटिंग्स को दुबारा करें"
+
+#: wd/templates/display_overview_support.php:26
+msgid "Graphic Library"
+msgstr ""
+
+#: wd/templates/display_overview_user_guide.php:26
+msgid "Demo"
+msgstr ""
+
+#: wd/templates/display_overview_user_guide.php:36
+msgid "FAQ"
+msgstr ""
+
+#: wd/templates/display_overview_user_guide.php:40
+msgid "Addons"
+msgstr ""
+
+#: wd/templates/display_overview_welcome.php:18
+msgid "Run Install Wizard "
+msgstr ""
+
+#: wd/templates/display_overview_welcome.php:26
+msgid "More features"
+msgstr ""
+
+#: wd/templates/display_subscribe.php:9
+msgid "Hi there"
+msgstr ""
+
+#: wd/templates/display_subscribe.php:11
+#, php-format
+msgid ""
+"Allow %s to collect some usage data. This will allow  you to get more out of your plugin experience – get "
+"awesome customer support, receive exclusive deals and discounts on  premium products and more. You can choose "
+"to skip this step, %s will still work just fine."
+msgstr ""
+
+#: wd/templates/display_subscribe.php:19
+msgid "What data is being collected?"
+msgstr ""
+
+#: wd/templates/display_subscribe.php:36
+msgid "Privacy Policy"
+msgstr ""
+
+#: wd/templates/display_subscribe.php:42
+msgid "Terms of Use"
+msgstr ""
+
+#: wd/wd.php:72
+msgid "Overview"
+msgstr ""
+
+#~ msgid "Minimum size"
+#~ msgstr "न्यूनतम आकार"
+
+#~ msgid "Hey! How's It Going?"
+#~ msgstr "अरे! ये कैसा चल रहा है?"
+
+#~ msgid ""
+#~ "Thank you for using WordPress %s! We hope that you've found everything you need, but if you have any "
+#~ "questions:"
+#~ msgstr ""
+#~ "वर्डप्रेस का उपयोग करने के लिए धन्यवाद   %s! हमें उम्मीद है कि आप सब कुछ आप की जरूरत मिल गया है, लेकिन आप किसी भी प्रश्न हैं:"
+
+#~ msgid "Check out User Guide"
+#~ msgstr "उपयोगकर्ता गाइड बाहर की जाँच करें"
+
+#~ msgid "Get Some Help"
+#~ msgstr "कुछ सहायता मिली"
+
+#~ msgid "This section allows you to edit global options for post sliders."
+#~ msgstr "इस अनुभाग में आप पोस्ट स्लाइडर्स के लिए वैश्विक विकल्पों को संपादित करने की अनुमति देता है।"
+
+#~ msgid "This section allows you to create, edit and delete post sliders."
+#~ msgstr "इस अनुभाग में आप पोस्ट स्लाइडर, बनाने, संपादित और नष्ट करने की अनुमति देता है।"
+
+#~ msgid "This section allows you to add/edit post slider."
+#~ msgstr "इस अनुभाग में आप / संपादन पद स्लाइडर जोड़ने के लिए अनुमति देता है।"
+
+#~ msgid "Featured Plugins"
+#~ msgstr "विशेष रुप से प्लगइन्स"
+
+#~ msgid "Featured Themes"
+#~ msgstr "विशेष रुप से प्रदर्शित विषय"
+
+#~ msgid ""
+#~ "You can set a redirection link, so that the user will get to the mentioned location upon hitting the slide."
+#~ "<br />Use http:// and https:// for external links."
+#~ msgstr ""
+#~ "। आप उपयोगकर्ता स्लाइड से टकराने पर उल्लेख स्थान के लिए मिल जाएगा तो यह है कि <br />, एक पुनर्निर्देशन लिंक स्थापित HTTP "
+#~ "का उपयोग कर सकते हैं: // और https: // बाहरी लिंक के लिए।"
+
+#~ msgid "Item Succesfully Duplicated."
+#~ msgstr "आइटम सफलतापूर्वक दोहराया।"
+
+#~ msgid "Infinite."
+#~ msgstr "अनंत।"
+
+#~ msgid "Fixed step"
+#~ msgstr "फिक्स्ड कदम"
+
+#~ msgid "The folder was successfully deleted."
+#~ msgstr "फ़ोल्डर सफलतापूर्वक नष्ट कर दिया गया था।"
+
+#~ msgid "An error occurred when deleting the folder."
+#~ msgstr "फ़ोल्डर हटाते समय एक त्रुटि हुई।"
+
+#~ msgid "There are no posts  in this slider."
+#~ msgstr "इस स्लाइडर में कोई पोस्ट कर रहे हैं।"
+
+#~ msgid "Slider successfully imported."
+#~ msgstr "स्लाइडर सफलतापूर्वक आयात किया।"
+
+#~ msgid "Unexpected error occurred."
+#~ msgstr "अनपेक्षित त्रुटि हुई।"
+
+#~ msgid "Select the effect which will be applied when shifting from one slider to another."
+#~ msgstr "दूसरे के लिए एक स्लाइडर से स्थानांतरण जब लागू किया जाएगा जो प्रभाव का चयन करें।"
+
+#~ msgid "Previous Button"
+#~ msgstr "पिछला बटन"
+
+#~ msgid "Previous Button Hover"
+#~ msgstr "पिछला बटन मंडराना"
+
+#~ msgid "Next Button"
+#~ msgstr "Next बटन"
+
+#~ msgid "Next Button Hover"
+#~ msgstr "अगले बटन मंडराना"
+
+#~ msgid "Choose the type and color for navigation button images."
+#~ msgstr "नेविगेशन बटन छवियों के लिए प्रकार और रंग चुनें।"
+
+#~ msgid "Play Button"
+#~ msgstr "प्ले बटन"
+
+#~ msgid "Play Button Hover"
+#~ msgstr "बटन मंडराना प्ले"
+
+#~ msgid "Pause Button"
+#~ msgstr "ठहराव बटन"
+
+#~ msgid "Pause Button Hover"
+#~ msgstr "ठहराव बटन मंडराना"
+
+#~ msgid "Active Button"
+#~ msgstr "सक्रिय बटन"
+
+#~ msgid "Choose the type and color for the bullets."
+#~ msgstr "गोलियों के लिए प्रकार और रंग चुनें।"
+
+#~ msgid "Select the background color for the bullet..."
+#~ msgstr "गोली के लिए पृष्ठभूमि रंग का चयन करें ..."
+
+#~ msgid "Thumbnail margin:"
+#~ msgstr "थंबनेल मार्जिन:"
+
+#~ msgid "Set the margin for the thumbnails."
+#~ msgstr "थंबनेल के लिए मार्जिन सेट करें।"
+
+#~ msgid "Scale"
+#~ msgstr "स्केल"
+
+#~ msgid "Post type:"
+#~ msgstr "पद प्रकार:"
+
+#~ msgid "All public posts are included in the list."
+#~ msgstr "सभी सार्वजनिक पदों की सूची में शामिल किए गए हैं।"
+
+#~ msgid "Share on Facebook"
+#~ msgstr "फेसबुक पर सांझा करें"
+
+#~ msgid "Share on Twitter"
+#~ msgstr "ट्विटर पर साझा करें"
+
+#~ msgid "Share on Google+"
+#~ msgstr "गूगल पर साझा करें"
+
+#~ msgid "Share on Pinterest"
+#~ msgstr "Pinterest पर साझा करें"
+
+#~ msgid "Share on Tumblr"
+#~ msgstr "Tumblr पर साझा करें"
+
+#~ msgid ""
+#~ "Post Slider by 10Web is a responsive plugin, which allows adding sliders to your posts/pages and to custom "
+#~ "location."
+#~ msgstr ""
+#~ "Post Slider by 10Web अपने पदों / पृष्ठों के लिए और कस्टम स्थान के लिए स्लाइड जोड़ने की अनुमति देता है जो एक संवेदनशील प्लगइन है।"
+
+#~ msgid "Updates"
+#~ msgstr "अपडेट"
+
+#~ msgid ""
+#~ "You can download the latest version of your plugins from your %s account.\n"
+#~ "            After deactivate and delete the current version.\n"
+#~ "            Install the downloaded latest version of the plugin."
+#~ msgstr ""
+#~ "आप से अपने plugins के नवीनतम संस्करण को डाउनलोड कर सकते हैं अपने %s लेखा। \n"
+#~ "बाद निष्क्रिय और वर्तमान संस्करण को हटा दें।\n"
+#~ "प्लगइन का डाउनलोड नवीनतम संस्करण स्थापित करें।."
+
+#~ msgid "There is a new %s version"
+#~ msgstr "वहां एक नई %s संस्करण"
+
+#~ msgid "%s is up to date."
+#~ msgstr "% s को अप टू डेट है।"
+
+#~ msgid "Dynamic post"
+#~ msgstr "गतिशील पोस्ट"
+
+#~ msgid "Smart Crop"
+#~ msgstr "स्मार्ट फसल"
+
+#~ msgid "Crop Image Position"
+#~ msgstr "फसल छवि की स्थिति"
+
+#~ msgid "You can include only published posts with featured image."
+#~ msgstr "आप विशेष रुप से छवि के साथ ही प्रकाशित पोस्ट शामिल कर सकते हैं।"
+
+#~ msgid "There are no postes in this slider."
+#~ msgstr "इस स्लाइडर में कोई पदों रहे हैं।"
+
+#~ msgid "There are no slides in this slider."
+#~ msgstr "इस स्लाइडर में कोई स्लाइड कर रहे हैं।"
+
+#~ msgid "Slider post type:"
+#~ msgstr "स्लाइडर पद के प्रकार:"
+
+#~ msgid "Dynamic post slides"
+#~ msgstr "गतिशील पोस्ट स्लाइड्स"
+
+#~ msgid "Static post slides"
+#~ msgstr "स्टेटिक पोस्ट स्लाइड्स"
+
+#~ msgid "Uninstall Post Slider WordPress"
+#~ msgstr "स्थापना रद्द पोस्ट स्लाइडर वर्डप्रेस"
+
+#~ msgid ""
+#~ "Deactivating Post Slider WordPress plugin does not remove any data that may have been created. To "
+#~ "completely remove this plugin, you can uninstall it here."
+#~ msgstr ""
+#~ "पोस्ट स्लाइडर प्लगइन निष्क्रिय बना दिया गया हो सकता है कि किसी भी डेटा को दूर नहीं करता। पूरी तरह से इस प्लगइन को दूर "
+#~ "करने के लिए, आप इसे यहाँ की स्थापना रद्द कर सकते हैं।"
+
+#~ msgid "Do you really want to uninstall Post Slider WordPress plugin?"
+#~ msgstr "आप वास्तव में पोस्ट स्लाइडर प्लगइन की स्थापना रद्द करना चाहते हैं?"
+
+#~ msgid "You are About to Uninstall Post Slider WordPress plugin from WordPress.This Action Is Not Reversible."
+#~ msgstr "WordPress.This कार्रवाई उलटने योग्य नहीं है से आप पोस्ट स्लाइडर प्लगइन स्थापना रद्द करने के बारे में हैं।"
+
+#~ msgid "To Finish the Uninstallation and Post Slider WordPress will be Deactivated Automatically."
+#~ msgstr "विस्थापना समाप्त करने के लिए और पोस्ट स्लाइडर वर्डप्रेस स्वचालित रूप से निष्क्रिय हो जाएगा।"
+
+#~ msgid "Post Slider WordPress"
+#~ msgstr "Post Slider WordPress"
+
+#~ msgid "Enable Dynamic Posts:"
+#~ msgstr "गतिशील पोस्ट सक्षम करें:"
+
+#~ msgid "Enable this option if you want to display standard posts as slides with their featured images."
+#~ msgstr "आप अपने चुनिन्दा छवियों के साथ स्लाइड के रूप में मानक पदों को प्रदर्शित करना चाहते हैं तो इस विकल्प को सक्रिय।"
+
+#~ msgid "Added Post Autoupdate Interval:"
+#~ msgstr "जोड़ा पोस्ट Autoupdate अंतराल:"
+
+#~ msgid "Set the number of posts which will be displayed as slides."
+#~ msgstr "स्लाइड के रूप में प्रदर्शित किया जाएगा, जो पदों की संख्या निर्धारित करें।"
+
+#~ msgid "Layer Word Count:"
+#~ msgstr "शब्द गणना परत:"
+
+#~ msgid "This will limit the number of words for post content displayed as a layer."
+#~ msgstr "यह एक परत के रूप में प्रदर्शित पोस्ट सामग्री के लिए शब्दों की संख्या को सीमित कर देगा।"
+
+#~ msgid ""
+#~ "You are About to Uninstall Post Slider WordPress plugin from WordPress.\\nThis Action Is Not Reversible."
+#~ msgstr "आप वर्डप्रेस से पोस्ट स्लाइडर प्लगइन स्थापना रद्द करने के बारे में हैं। \\\\\\\\ N यह कार्रवाई उलटने योग्य नहीं है।"
+
+#~ msgid "You can include only posts with featured image."
+#~ msgstr "आप विशेष रुप से छवि के साथ ही पदों में शामिल कर सकते हैं।"
+
+#~ msgid "Remove"
+#~ msgstr "हटाना"
+
+#~ msgid "Choose file (use .zip format)."
+#~ msgstr "फ़ाइल (प्रयोग ज़िप प्रारूप) चुनें।"
+
+#~ msgid "Еffect duration:"
+#~ msgstr "Еffect अवधि:"
+
+#~ msgid "Select the author who’s posts will be displayed within the slider."
+#~ msgstr "के पदों स्लाइडर के भीतर प्रदर्शित किया जाएगा, जो लेखक का चयन करें।"
+
+#~ msgid "Slider name:"
+#~ msgstr "स्लाइडर का नाम:"
+
+#~ msgid "Add slide"
+#~ msgstr "स्लाइड जोड़ें"
+
+#~ msgid ""
+#~ "You can set a redirection link, so that the user will get to the mentioned location upon hitting the slide."
+#~ msgstr "उपयोगकर्ता स्लाइड से टकराने पर उल्लेख स्थान के लिए मिल जाएगा, ताकि आप एक पुनर्निर्देशन लिंक सेट कर सकते हैं।"
+
+#~ msgid "Rob"
+#~ msgstr "लूटना"

@@ -1,0 +1,1775 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: wdps\n"
+"POT-Creation-Date: 2016-08-17 11:07+0500\n"
+"PO-Revision-Date: 2016-10-21 14:15+0400\n"
+"Last-Translator: admin < vahram@gmail.com >\n"
+"Language-Team: \n"
+"Language: hy\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 1.8.11\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SearchPath-0: frontend\n"
+"X-Poedit-SearchPath-1: sliders-notices.php\n"
+
+#: frontend/views/WDPSViewSlider.php:30
+msgid "There is no slider selected or the slider was deleted."
+msgstr "Չկա Slider ընտրված, թե Slider ջնջված է."
+
+#: frontend/views/WDPSViewSlider.php:47
+msgid "There are no posts  in this slider."
+msgstr "Չկան հաղորդագրություններ Այս slider."
+
+#: frontend/views/WDPSViewSlider.php:1829
+#: frontend/views/WDPSViewSlider.php:1894
+msgid "Pause"
+msgstr "Դադար"
+
+#: frontend/views/WDPSViewSlider.php:1862
+msgid "Play"
+msgstr "Խաղալ"
+
+#: sliders-notices.php:188
+msgid "Leave A Review?"
+msgstr "Կազմակերպության."
+
+#: sliders-notices.php:189
+#, php-format
+msgid ""
+"We hope you've enjoyed using WordPress %s! Would you consider leaving us a "
+"review on WordPress.org?"
+msgstr ""
+"Հուսով ենք, որ դուք վայելում օգտագործելով WordPress% s! Ցանկանում եք "
+"համարում թողնելով մեզ մի վերանայման վերաբերյալ WordPress.org."
+
+#: sliders-notices.php:190
+msgid "Sure! I'd love to!"
+msgstr "Sure! Ես սիրում եմ!"
+
+#: sliders-notices.php:191
+msgid "I've already left a review"
+msgstr "Ես արդեն հեռացել է վերանայման"
+
+#: sliders-notices.php:192
+msgid "Maybe Later"
+msgstr "Միգուցե ավելի ուշ"
+
+#: sliders-notices.php:193 sliders-notices.php:203
+msgid "Never show again"
+msgstr "Երբեք ցույց են տալիս, կրկին"
+
+#: sliders-notices.php:199
+msgid "Hey! How's It Going?"
+msgstr "Hey! Ինչպես է այն պատրաստվում."
+
+#: sliders-notices.php:200
+#, php-format
+msgid ""
+"Thank you for using WordPress %s! We hope that you've found everything you "
+"need, but if you have any questions:"
+msgstr ""
+"Շնորհակալություն օգտագործելով WordPress %s! Հուսով ենք, որ դուք գտել այն "
+"ամենը, ինչ Ձեզ անհրաժեշտ է, բայց, եթե դուք ունեք որեւէ հարց:"
+
+#: sliders-notices.php:201
+msgid "Check out User Guide"
+msgstr "Ստուգել ուղեցույց"
+
+#: sliders-notices.php:202
+msgid "Get Some Help"
+msgstr "Ստանալ որոշ Օգնություն"
+
+#~ msgid "There are no posts in this slider."
+#~ msgstr "Չկան փոստեր այս սլայդերում:"
+
+#~ msgid "Share on Facebook"
+#~ msgstr "Share on Facebook"
+
+#~ msgid "Share on Twitter"
+#~ msgstr "Հետեվեք մեզ Twitter- ում"
+
+#~ msgid "Share on Google+"
+#~ msgstr "Տարածել Google+"
+
+#~ msgid "Share on Pinterest"
+#~ msgstr "Աշխարհ Pinterest"
+
+#~ msgid "Share on Tumblr"
+#~ msgstr "Share եւ Tumblr"
+
+#~ msgid ""
+#~ "Post Slider by 10Web is a responsive plugin, which allows adding sliders to "
+#~ "your posts/pages and to custom location."
+#~ msgstr ""
+#~ "Post Slider by 10Web է արձագանքող plugin, որը թույլ է տալիս ավելացնելով slides "
+#~ "ձեր գրառումները / էջեր եւ մաքսային գտնվելու վայրը."
+
+#~ msgid "Updates"
+#~ msgstr "Թարմացումները"
+
+#~ msgid ""
+#~ "You can download the latest version of your plugins from your %s "
+#~ "account.\n"
+#~ "            After deactivate and delete the current version.\n"
+#~ "            Install the downloaded latest version of the plugin."
+#~ msgstr ""
+#~ "Դուք կարող եք բեռնել վերջին տարբերակը Ձեր կոնտակտները քո% s հաշիվը.\n"
+#~ "             Հետո ապաակտիվացնել եւ ջնջել ընթացիկ տարբերակը.\n"
+#~ "             Տեղադրեք ներբեռնել վերջին տարբերակը plugin."
+
+#~ msgid "Current version %s"
+#~ msgstr "Ընթացիկ տարբերակը% s"
+
+#~ msgid "There is a new %s version"
+#~ msgstr "Կա մի նոր% s Գրանցում"
+
+#~ msgid "%s is up to date."
+#~ msgstr "% s է մինչեւ օրս:"
+
+#~ msgid "-all-"
+#~ msgstr "-all-"
+
+#~ msgid "Slider successfully imported."
+#~ msgstr "Slider հաջողությամբ ներմուծվել."
+
+#~ msgid "Unexpected error occurred."
+#~ msgstr "Անսպասելի սխալ է տեղի ունեցել."
+
+#~ msgid "Changes must be saved."
+#~ msgstr "Փոփոխությունները պետք է փրկել:"
+
+#~ msgid "Item Succesfully Duplicated."
+#~ msgstr "Item հաջողությամբ Duplicated."
+
+#~ msgid "Do you want to duplicate selected items?"
+#~ msgstr "Ցանկանում եք կրկնօրինակել ընտրված կետերը."
+
+#~ msgid "You must select at least one item."
+#~ msgstr "Դուք պետք է ընտրեք առնվազն մեկ իրը."
+
+#~ msgid "Items Succesfully Duplicated."
+#~ msgstr "Նյութերի հաջողությամբ duplicated."
+
+#~ msgid "Item Succesfully Deleted."
+#~ msgstr "Item հաջողությամբ Deleted."
+
+#~ msgid "Error. Please install plugin again."
+#~ msgstr "Error: Խնդրում ենք տեղադրել plugin կրկին."
+
+#~ msgid "Items Succesfully Deleted."
+#~ msgstr "Նյութերի հաջողությամբ ջնջվել է:"
+
+#~ msgid "Item Succesfully Published."
+#~ msgstr "Item հաջողությամբ Հրատարակված."
+
+#~ msgid "Items Succesfully Published."
+#~ msgstr "Նյութերի հաջողությամբ Հրատարակված."
+
+#~ msgid "Item Succesfully Unpublished."
+#~ msgstr "Item հաջողությամբ Unpublished."
+
+#~ msgid "Items Succesfully Unpublished."
+#~ msgstr "Նյութերի հաջողությամբ Unpublished."
+
+#~ msgid "This section allows you to create, edit and delete post sliders."
+#~ msgstr ""
+#~ "Այս բաժինը հնարավորություն է տալիս Ձեզ ստեղծել, խմբագրել եւ ջնջել "
+#~ "գրառումը կարգավորիչներ մուտք գործելու."
+
+#~ msgid "Read More in User Manual"
+#~ msgstr "Կարդալ Ավելին User Manual"
+
+#~ msgid "Post Sliders"
+#~ msgstr "Հաղորդագրություն Ավելացված է: կարգավորիչներ մուտք գործելու,"
+
+#~ msgid "Add new"
+#~ msgstr "Ավելացնել նոր"
+
+#~ msgid "Select All"
+#~ msgstr "Ընտրել բոլորը"
+
+#~ msgid "Publish"
+#~ msgstr "Հրատարակել"
+
+#~ msgid "Unpublish"
+#~ msgstr "Unpublish"
+
+#~ msgid "Duplicate"
+#~ msgstr "Կրկնակի"
+
+#~ msgid "Do you want to delete selected items?"
+#~ msgstr "Ցանկանում եք ջնջել ընտրված կետերը."
+
+#~ msgid "Delete"
+#~ msgstr "Ջնջել"
+
+#~ msgid "Slider"
+#~ msgstr "Slider"
+
+#~ msgid "Name"
+#~ msgstr "Անուն"
+
+#~ msgid "Slides"
+#~ msgstr "Slides"
+
+#~ msgid "Shortcode"
+#~ msgstr "Հակիրճ"
+
+#~ msgid "PHP function"
+#~ msgstr "PHP գործառույթը"
+
+#~ msgid "Published"
+#~ msgstr "Հրատարակված է"
+
+#~ msgid "Action"
+#~ msgstr "գործողություն"
+
+#~ msgid "Edit"
+#~ msgstr "Խմբագրել"
+
+#~ msgid "Edit post slider "
+#~ msgstr " Խմբագրել Գրառման Slider "
+
+#~ msgid "Create new post slider"
+#~ msgstr "Ստեղծել նոր post slider"
+
+#~ msgid "Publishing Date"
+#~ msgstr "Publishing Date"
+
+#~ msgid "Modification Date"
+#~ msgstr "Մոդիֆիկացիայի ընտրությունը կօգնի լրացնել Date"
+
+#~ msgid "Number of Comments"
+#~ msgstr "Միավորների քան-Մեկնաբանություններ"
+
+#~ msgid "Post Title"
+#~ msgstr "Հաղորդագրություն Ավելացված է Title"
+
+#~ msgid "Menu Order"
+#~ msgstr "Մենյու Order"
+
+#~ msgid "Author"
+#~ msgstr "Հեղինակ"
+
+#~ msgid "Random"
+#~ msgstr "Պատահական"
+
+#~ msgid "Hour"
+#~ msgstr "Ժամ"
+
+#~ msgid "Day"
+#~ msgstr "Օր"
+
+#~ msgid "Week"
+#~ msgstr "Շաբաթ"
+
+#~ msgid "Month"
+#~ msgstr "Ամիս"
+
+#~ msgid "Left"
+#~ msgstr "Ձախ"
+
+#~ msgid "Center"
+#~ msgstr "Կենտրոն"
+
+#~ msgid "Right"
+#~ msgstr "Աջ"
+
+#~ msgid "None"
+#~ msgstr "Ոչ մեկը"
+
+#~ msgid "Solid"
+#~ msgstr "Ամուր"
+
+#~ msgid "Dotted"
+#~ msgstr "Կետավոր"
+
+#~ msgid "Dashed"
+#~ msgstr "Dashed"
+
+#~ msgid "Double"
+#~ msgstr "Կրկնակի"
+
+#~ msgid "Groove"
+#~ msgstr "Ակոս"
+
+#~ msgid "Ridge"
+#~ msgstr "Ծայր"
+
+#~ msgid "Inset"
+#~ msgstr "Ներդիր"
+
+#~ msgid "Outset"
+#~ msgstr "Մեկնելը"
+
+#~ msgid "Chevron"
+#~ msgstr "Հեծանակ"
+
+#~ msgid "Angle"
+#~ msgstr "Անկյուն"
+
+#~ msgid "Circle O"
+#~ msgstr "Circle O"
+
+#~ msgid "Circle"
+#~ msgstr "Շրջան"
+
+#~ msgid "Minus"
+#~ msgstr "Մինուս"
+
+#~ msgid "Square O"
+#~ msgstr "Square O"
+
+#~ msgid "Square"
+#~ msgstr "Քառակուսի"
+
+#~ msgid "Lighter"
+#~ msgstr "Վառիչ"
+
+#~ msgid "Normal"
+#~ msgstr "Սովորական"
+
+#~ msgid "Bold"
+#~ msgstr "Համարձակ"
+
+#~ msgid "Facebook"
+#~ msgstr "Facebook"
+
+#~ msgid "Google+"
+#~ msgstr "Google+"
+
+#~ msgid "Twitter"
+#~ msgstr "Ծլվլոց"
+
+#~ msgid "Pinterest"
+#~ msgstr "Pinterest"
+
+#~ msgid "Tumblr"
+#~ msgstr "Tumblr"
+
+#~ msgid "Zoom Fade"
+#~ msgstr "Zoom մոռացվել"
+
+#~ msgid "Parallel Slide Horizontal"
+#~ msgstr "Զուգահեռ Slide Հորիզոնական"
+
+#~ msgid "Parallel Slide Vertical"
+#~ msgstr "Զուգահեռ Slide Ուղղահայաց"
+
+#~ msgid "Slice 3D Horizontal"
+#~ msgstr "Կտոր 3D Հորիզոնական"
+
+#~ msgid "Slice 3D Vertical"
+#~ msgstr "Կտոր 3D Ուղղահայաց"
+
+#~ msgid "Slice 3D Horizontal Random"
+#~ msgstr "Կտոր 3D Հորիզոնական Պատահական"
+
+#~ msgid "Slice 3D Vertical Random"
+#~ msgstr "Կտոր 3D Ուղղահայաց Պատահական"
+
+#~ msgid "Blind"
+#~ msgstr "Կույր"
+
+#~ msgid "Tiles"
+#~ msgstr "Սալիկներ"
+
+#~ msgid "Block Scale Random"
+#~ msgstr "Block Scale Պատահական"
+
+#~ msgid "Cube Horizontal"
+#~ msgstr "Cube Հորիզոնական"
+
+#~ msgid "Cube Vertical"
+#~ msgstr "Cube Ուղղահայաց"
+
+#~ msgid "Cube Random"
+#~ msgstr "Cube Պատահական"
+
+#~ msgid "Fade"
+#~ msgstr "Մարել"
+
+#~ msgid "Slice Horizontal"
+#~ msgstr "Կտոր Հորիզոնական"
+
+#~ msgid "Slice Vertical"
+#~ msgstr "Կտոր Ուղղահայաց"
+
+#~ msgid "Slide Horizontal"
+#~ msgstr "Slide հորիզոնական"
+
+#~ msgid "Slide Vertical"
+#~ msgstr "Slide Ուղղահայաց"
+
+#~ msgid "Scale Out"
+#~ msgstr "Scale Out"
+
+#~ msgid "Scale In"
+#~ msgstr "Ծավալով"
+
+#~ msgid "Block Scale"
+#~ msgstr "Block Scale"
+
+#~ msgid "Kaleidoscope"
+#~ msgstr "Խճանկար"
+
+#~ msgid "Fan"
+#~ msgstr "Հովհար"
+
+#~ msgid "Blind Horizontal"
+#~ msgstr "Blind Հորիզոնական"
+
+#~ msgid "Blind Vertical"
+#~ msgstr "Blind Ուղղահայաց"
+
+#~ msgid "3D Random"
+#~ msgstr "3D Պատահական"
+
+#~ msgid "Bounce"
+#~ msgstr "Ցատկում"
+
+#~ msgid "Flash"
+#~ msgstr "Flash"
+
+#~ msgid "Pulse"
+#~ msgstr "Զարկերակ"
+
+#~ msgid "RubberBand"
+#~ msgstr "Rubberband"
+
+#~ msgid "Shake"
+#~ msgstr "Shake"
+
+#~ msgid "Swing"
+#~ msgstr "Ռիթմ"
+
+#~ msgid "Tada"
+#~ msgstr "Tada"
+
+#~ msgid "Wobble"
+#~ msgstr "Տատանվել"
+
+#~ msgid "Hinge"
+#~ msgstr "Կրունկ"
+
+#~ msgid "LightSpeedIn"
+#~ msgstr "LightSpeedIn"
+
+#~ msgid "RollIn"
+#~ msgstr "Rollin"
+
+#~ msgid "BounceIn"
+#~ msgstr "BounceIn"
+
+#~ msgid "BounceInDown"
+#~ msgstr "BounceInDown"
+
+#~ msgid "BounceInLeft"
+#~ msgstr "BounceInLeft"
+
+#~ msgid "BounceInRight"
+#~ msgstr "BounceInRight"
+
+#~ msgid "BounceInUp"
+#~ msgstr "BounceInUp"
+
+#~ msgid "FadeIn"
+#~ msgstr "FadeIn"
+
+#~ msgid "FadeInDown"
+#~ msgstr "FadeInDown"
+
+#~ msgid "FadeInDownBig"
+#~ msgstr "FadeInDownBig"
+
+#~ msgid "FadeInLeft"
+#~ msgstr "FadeInLeft"
+
+#~ msgid "FadeInLeftBig"
+#~ msgstr "FadeInLeftBig"
+
+#~ msgid "FadeInRight"
+#~ msgstr "FadeInRight"
+
+#~ msgid "FadeInRightBig"
+#~ msgstr "FadeInRightBig"
+
+#~ msgid "FadeInUp"
+#~ msgstr "FadeInUp"
+
+#~ msgid "FadeInUpBig"
+#~ msgstr "FadeInUpBig"
+
+#~ msgid "Flip"
+#~ msgstr "Մատով խփել"
+
+#~ msgid "FlipInX"
+#~ msgstr "FlipInX"
+
+#~ msgid "FlipInY"
+#~ msgstr "FlipInY"
+
+#~ msgid "RotateIn"
+#~ msgstr "RotateIn"
+
+#~ msgid "RotateInDownLeft"
+#~ msgstr "RotateInDownLeft"
+
+#~ msgid "RotateInDownRight"
+#~ msgstr "RotateInDownRight"
+
+#~ msgid "RotateInUpLeft"
+#~ msgstr "RotateInUpLeft"
+
+#~ msgid "RotateInUpRight"
+#~ msgstr "RotateInUpRight"
+
+#~ msgid "ZoomIn"
+#~ msgstr "ZoomIn"
+
+#~ msgid "ZoomInDown"
+#~ msgstr "ZoomInDown"
+
+#~ msgid "ZoomInLeft"
+#~ msgstr "ZoomInLeft"
+
+#~ msgid "ZoomInRight"
+#~ msgstr "ZoomInRight"
+
+#~ msgid "ZoomInUp"
+#~ msgstr "ZoomInUp"
+
+#~ msgid "LightSpeedOut"
+#~ msgstr "LightSpeedOut"
+
+#~ msgid "RollOut"
+#~ msgstr "Գլորել"
+
+#~ msgid "BounceOut"
+#~ msgstr "BounceOut"
+
+#~ msgid "BounceOutDown"
+#~ msgstr "BounceOutDown"
+
+#~ msgid "BounceOutLeft"
+#~ msgstr "BounceOutLeft"
+
+#~ msgid "BounceOutRight"
+#~ msgstr "BounceOutRight"
+
+#~ msgid "BounceOutUp"
+#~ msgstr "BounceOutUp"
+
+#~ msgid "FadeOut"
+#~ msgstr "Աներեւութանալ"
+
+#~ msgid "FadeOutDown"
+#~ msgstr "FadeOutDown"
+
+#~ msgid "FadeOutDownBig"
+#~ msgstr "FadeOutDownBig"
+
+#~ msgid "FadeOutLeft"
+#~ msgstr "FadeOutLeft"
+
+#~ msgid "FadeOutLeftBig"
+#~ msgstr "FadeOutLeftBig"
+
+#~ msgid "FadeOutRight"
+#~ msgstr "FadeOutRight"
+
+#~ msgid "FadeOutRightBig"
+#~ msgstr "FadeOutRightBig"
+
+#~ msgid "FadeOutUp"
+#~ msgstr "FadeOutUp"
+
+#~ msgid "FadeOutUpBig"
+#~ msgstr "FadeOutUpBig"
+
+#~ msgid "FlipOutX"
+#~ msgstr "FlipOutX"
+
+#~ msgid "FlipOutY"
+#~ msgstr "FlipOutY"
+
+#~ msgid "RotateOut"
+#~ msgstr "RotateOut"
+
+#~ msgid "RotateOutDownLeft"
+#~ msgstr "RotateOutDownLeft"
+
+#~ msgid "RotateOutDownRight"
+#~ msgstr "RotateOutDownRight"
+
+#~ msgid "RotateOutUpLeft"
+#~ msgstr "RotateOutUpLeft"
+
+#~ msgid "RotateOutUpRight"
+#~ msgstr "RotateOutUpRight"
+
+#~ msgid "ZoomOut"
+#~ msgstr "Մանրացնել"
+
+#~ msgid "ZoomOutDown"
+#~ msgstr "ZoomOutDown"
+
+#~ msgid "ZoomOutLeft"
+#~ msgstr "ZoomOutLeft"
+
+#~ msgid "ZoomOutRight"
+#~ msgstr "ZoomOutRight"
+
+#~ msgid "ZoomOutUp"
+#~ msgstr "ZoomOutUp"
+
+#~ msgid "Top"
+#~ msgstr "Top"
+
+#~ msgid "Bottom"
+#~ msgstr "Bottom"
+
+#~ msgid "This section allows you to add/edit post slider."
+#~ msgstr ""
+#~ "Այս բաժինը հնարավորություն է տալիս Ձեզ ավելացնել / խմբագրել գրություն "
+#~ "slider."
+
+#~ msgid "Slider Title:"
+#~ msgstr "Slider Title:"
+
+#~ msgid "Save"
+#~ msgstr "Պահպանել"
+
+#~ msgid "Apply"
+#~ msgstr "Դիմել"
+
+#~ msgid "Save as Copy"
+#~ msgstr "Պահել որպես Copy"
+
+#~ msgid "Cancel"
+#~ msgstr "Վերացնել"
+
+#~ msgid "Reset Settings"
+#~ msgstr "Վերագրանցելու Կառավարում"
+
+#~ msgid "Settings"
+#~ msgstr "Կառավարում"
+
+#~ msgid "Global"
+#~ msgstr "Համաշխարհային"
+
+#~ msgid "Carousel"
+#~ msgstr "Կարուսել"
+
+#~ msgid "Dynamic post"
+#~ msgstr "Dynamic Գրառման"
+
+#~ msgid "Navigation"
+#~ msgstr "Նավարկություն"
+
+#~ msgid "Bullets"
+#~ msgstr "Bullets"
+
+#~ msgid "Filmstrip"
+#~ msgstr "Filmstrip"
+
+#~ msgid "Timer bar"
+#~ msgstr "Ժմչփ բար"
+
+#~ msgid "CSS"
+#~ msgstr "CSS"
+
+#~ msgid "Dimensions:"
+#~ msgstr "Չափերը:"
+
+#~ msgid "Maximum width and height for slider."
+#~ msgstr "Առավելագույն լայնությունը եւ բարձրությունը համար slider."
+
+#~ msgid "Full width:"
+#~ msgstr "Full լայնությունը:"
+
+#~ msgid "Yes"
+#~ msgstr "Այո"
+
+#~ msgid "No"
+#~ msgstr "Ոչ"
+
+#~ msgid "Ratio"
+#~ msgstr "Հարաբերակցություն"
+
+#~ msgid ""
+#~ "The image will stretch to the page width, taking the height based on "
+#~ "dimensions ratio."
+#~ msgstr ""
+#~ "Պատկերը կլինի ձգվել դեպի էջը լայնությամբ, հաշվի առնելով, որ բարձրության "
+#~ "վրա հիմնված չափերը հարաբերակցությունը."
+
+#~ msgid "Background fit:"
+#~ msgstr "Նախապատմություն տեղավորել:"
+
+#~ msgid "Cover"
+#~ msgstr "Կազմ"
+
+#~ msgid "Fill"
+#~ msgstr "Լրացնել"
+
+#~ msgid "Contain"
+#~ msgstr "Պարունակել"
+
+#~ msgid "Smart Crop"
+#~ msgstr "Smart Crop"
+
+#~ msgid "Crop Image Position"
+#~ msgstr "Crop Image Position"
+
+#~ msgid "Align:"
+#~ msgstr "Align:"
+
+#~ msgid "Set the alignment of the slider."
+#~ msgstr "Սահմանել դասավորվածության slider."
+
+#~ msgid "Effect:"
+#~ msgstr "Հետեւանքները:"
+
+#~ msgid ""
+#~ "Select the effect which will be applied when shifting from one slider to "
+#~ "another."
+#~ msgstr ""
+#~ "Ընտրել ազդեցություն, որը կարող է կիրառվել, եթե անցումն է մեկ slider "
+#~ "մյուսը."
+
+#~ msgid "Effect duration:"
+#~ msgstr "Հետեւանքները տեւողությունը:"
+
+#~ msgid "Define the time for the effect."
+#~ msgstr "Սահմանել ժամանակ է ուժի մեջ:"
+
+#~ msgid "Parallax Effect:"
+#~ msgstr "Parallax հետեւանքները:"
+
+#~ msgid ""
+#~ "The direction of the movement, as well as the layer moving pace depend on "
+#~ "the z-index value."
+#~ msgstr ""
+#~ "The ուղղությունը շարժման, ինչպես նաեւ շերտը շարժվող տեմպերը կախված Z-"
+#~ "index արժեքի."
+
+#~ msgid "Autoplay:"
+#~ msgstr "Autoplay:"
+
+#~ msgid "Choose whether to autoplay the sliders or not."
+#~ msgstr "Ընտրեք, թե արդյոք autoplay կարգավորիչներ մուտք գործելու, թե ոչ:"
+
+#~ msgid "Time Interval:"
+#~ msgstr "Time ինտերվալ:"
+
+#~ msgid "sec."
+#~ msgstr "վրկ."
+
+#~ msgid ""
+#~ "Set the time interval for the change of the sliders when autoplay is on."
+#~ msgstr ""
+#~ "Սահմանել ժամանակ ընդմիջումից համար փոփոխության կարգավորիչներ մուտք "
+#~ "գործելու, երբ autoplay է."
+
+#~ msgid "Stop on hover:"
+#~ msgstr "Stop վրա սավառնել:"
+
+#~ msgid "The option works when autoplay is on."
+#~ msgstr "Որ տարբերակն աշխատում է, երբ autoplay է."
+
+#~ msgid "Shuffle:"
+#~ msgstr "Shuffle:"
+
+#~ msgid ""
+#~ "Choose whether to have the slides change in a random manner or to keep "
+#~ "the original sequence."
+#~ msgstr ""
+#~ "Ընտրեք, թե արդյոք պետք է, որ սլայդներ փոխել է պատահական ձեւով կամ պահել "
+#~ "բնօրինակը հաջորդականությունը."
+
+#~ msgid "Start with slide:"
+#~ msgstr "Սկսեք slide:"
+
+#~ msgid ""
+#~ "The slider will start with the specified slide. You can use the value 0 "
+#~ "for random."
+#~ msgstr ""
+#~ "The Slider կսկսվի նշված slide. Դուք կարող եք օգտագործել արժեքը 0 է "
+#~ "պատահական."
+
+#~ msgid "Music:"
+#~ msgstr "Երաժշտություն:"
+
+#~ msgid ""
+#~ "Choose whether to have music/audio track playback with the slider or not."
+#~ msgstr ""
+#~ "Ընտրեք, թե արդյոք պետք է երաժշտություն / աուդիո track նվագարկումը հետ "
+#~ "slider, թե ոչ."
+
+#~ msgid "Music url:"
+#~ msgstr "Երաժշտություն url:"
+
+#~ msgid "Only .aac,.m4a,.f4a,.mp3,.ogg,.oga formats are supported."
+#~ msgstr "Միայն .ՀԱԵ, .m4a, .f4a, .mp3, .ogg, .oga ֆորմատները են."
+
+#~ msgid "Smart Load:"
+#~ msgstr "Smart Load:"
+
+#~ msgid ""
+#~ "Choose to have faster load for the first few images and process the rest "
+#~ "meanwhile."
+#~ msgstr ""
+#~ "Ընտրեք ունենալ արագ բեռը համար առաջին մի քանի պատկերների եւ մշակել "
+#~ "մնացածը, միաժամանակ."
+
+#~ msgid "Background color:"
+#~ msgstr "Ֆոնի գույնը:"
+
+#~ msgid "Transparency value must be between 0 to 100."
+#~ msgstr "Transparency արժեքը պետք է լինի 0-ից մինչեւ 100-ի:"
+
+#~ msgid "Border:"
+#~ msgstr "Border:"
+
+#~ msgid "Set the border width, type and the color."
+#~ msgstr "Սահմանել սահմանային լայնությունը, տեսակի եւ գույնի."
+
+#~ msgid "Border radius:"
+#~ msgstr "Border շառավիղը:"
+
+#~ msgid "Use CSS type values."
+#~ msgstr "Օգտագործեք CSS տեսակի արժեքները."
+
+#~ msgid "Margin:"
+#~ msgstr "Margin:"
+
+#~ msgid "Set a margin for the slider."
+#~ msgstr "Սահմանել մարժա է slider."
+
+#~ msgid "Shadow:"
+#~ msgstr "Shadow:"
+
+#~ msgid "Use CSS type values (e.g. 10px 10px 5px #888888)."
+#~ msgstr "Օգտագործեք CSS տեսակը արժեքները (օրինակ, 10px 10px 5px # 888888)."
+
+#~ msgid "Right click protection:"
+#~ msgstr "Right սեղմեք պաշտպանությունը:"
+
+#~ msgid "Disable image right click possibility."
+#~ msgstr "Կասեցնել պատկերի աջ սեղմեք հնարավորությունը."
+
+#~ msgid "Layer out on next:"
+#~ msgstr "Շերտ դուրս հաջորդ:"
+
+#~ msgid ""
+#~ "Choose whether to have the layer effect out regardless of the timing "
+#~ "between the hit to the next slider or skip the effect out and get to the "
+#~ "next image."
+#~ msgstr ""
+#~ "Ընտրեք, թե արդյոք պետք է ունենա շերտի ազդեցությունը դուրս, անկախ "
+#~ "ժամանակին միջեւ հարվածից հաջորդ slider, կամ բաց թողնել ազդեցություն են, "
+#~ "եւ հասնել հաջորդ պատկերով."
+
+#~ msgid "Text layer character limit:"
+#~ msgstr "Տեքստ շերտը բնույթը սահմանափակում:"
+
+#~ msgid ""
+#~ "This will limit the number of characters for post content displayed as a "
+#~ "text layer."
+#~ msgstr ""
+#~ "Սա կլինի սահմանափակել շարք կերպարների համար գրառումը բովանդակության "
+#~ "ցուցադրվեր որպես տեքստային շերտ."
+
+#~ msgid "Add font-family:"
+#~ msgstr "Ավելացնել տառատեսակը ընտանիք:"
+
+#~ msgid "The added font family will appear in the drop-down list of fonts."
+#~ msgstr "Այն է, տառատեսակը ընտանիքը կհայտնվի բացվող ցանկում տառատեսակների."
+
+#~ msgid "Published:"
+#~ msgstr "Հրատարակված է:"
+
+#~ msgid "Choose whether to publish the mentioned slider or not."
+#~ msgstr "Ընտրեք, թե արդյոք հրապարակել է նշված slider, թե ոչ:"
+
+#~ msgid "Carousel:"
+#~ msgstr "Կարուսել:"
+
+#~ msgid ""
+#~ "If you activate this feature the effects you had chosen in Global "
+#~ "settings for your slider will not play."
+#~ msgstr ""
+#~ "Եթե ​​դուք ակտիվացնելու այս առանձնահատկությունը այն հետեւանքները, դուք "
+#~ "ընտրել էր գլոբալ պարամետրերը ձեր Slider չի խաղալու."
+
+#~ msgid "Number of images for carousel:"
+#~ msgstr "Միավորների քան-պատկերների համար կարուսել:"
+
+#~ msgid "Carousel image ratio:"
+#~ msgstr "Կարուսել պատկերի հարաբերակցությունը:"
+
+#~ msgid "The value must be between 0 and 1."
+#~ msgstr "Արժեքը պետք է լինի 0 եւ 1:"
+
+#~ msgid "Container fit:"
+#~ msgstr "Container տեղավորել:"
+
+#~ msgid "Fixed width:"
+#~ msgstr "Ֆիքսված լայնությունը:"
+
+#~ msgid "Next / Previous buttons:"
+#~ msgstr "Նախորդ / Հաջորդ կոճակները:"
+
+#~ msgid "Choose whether to display Previous and Next buttons or not."
+#~ msgstr ""
+#~ "Ընտրեք, թե արդյոք պետք է ցույց տալ նախորդ եւ հաջորդ կոճակներ, թե ոչ:"
+
+#~ msgid "Show Navigation buttons:"
+#~ msgstr "Ցույց տալ Navigation կոճակները:"
+
+#~ msgid "On hover"
+#~ msgstr "On սավառնել"
+
+#~ msgid "Always"
+#~ msgstr "Միշտ"
+
+#~ msgid ""
+#~ "Select between the option of always displaying the navigation buttons or "
+#~ "only when hovered."
+#~ msgstr ""
+#~ "Ընտրել միջեւ տարբերակը մշտապես ցուցադրելը նավիգացիոն կոճակները կամ միայն "
+#~ "այն ժամանակ, երբ hovered."
+
+#~ msgid "Image for Next / Previous buttons:"
+#~ msgstr "Image համար Նախորդ / Հաջորդ կոճակներ:"
+
+#~ msgid "Default"
+#~ msgstr "Անհոգություն"
+
+#~ msgid "Custom"
+#~ msgstr "Սովորություն"
+
+#~ msgid "Styled"
+#~ msgstr "Հարդարել"
+
+#~ msgid ""
+#~ "Choose whether to use default navigation buttons or to upload custom ones."
+#~ msgstr ""
+#~ "Ընտրեք, թե արդյոք կարելի է օգտագործել լռելյայն նավարկություն կոճակներ կամ "
+#~ "վերբեռնեք մաքսային նորերը."
+
+#~ msgid "Next / Previous buttons style:"
+#~ msgstr "Հաջորդ / Նախորդ կոճակները ոճ:"
+
+#~ msgid ""
+#~ "Choose the style of the button you prefer to have as navigation buttons."
+#~ msgstr ""
+#~ "Ընտրեք ոճը կոճակը, դուք նախընտրում է ունենալ, քանի որ նավարկություն "
+#~ "կոճակներ."
+
+#~ msgid "Upload buttons images:"
+#~ msgstr "Վերբեռնել կոճակները պատկերներ:"
+
+#~ msgid "Previous Button"
+#~ msgstr "Նախորդ Button"
+
+#~ msgid "Previous Button Hover"
+#~ msgstr "Նախորդ Button Hover"
+
+#~ msgid "Next Button"
+#~ msgstr "Հաջորդ Button"
+
+#~ msgid "Next Button Hover"
+#~ msgstr "Հաջորդ Button Hover"
+
+#~ msgid "Reverse"
+#~ msgstr "Reverse"
+
+#~ msgid " is not a directory."
+#~ msgstr "չէ ցուցակում."
+
+#~ msgid "Choose buttons:"
+#~ msgstr "Ընտրեք կոճակները:"
+
+#~ msgid "Choose group"
+#~ msgstr "Ընտրեք խումբ"
+
+#~ msgid "Choose color"
+#~ msgstr "Ընտրեք գույնը"
+
+#~ msgid "Choose the type and color for navigation button images."
+#~ msgstr "Ընտրեք տեսակը եւ գույնի համար նավիգացիոն կոճակը պատկերների."
+
+#~ msgid "Next / Previous buttons size:"
+#~ msgstr "Հաջորդ / Նախորդ կոճակները չափը:"
+
+#~ msgid "Set the size for the next / previous buttons."
+#~ msgstr "Սահմանել չափը առաջիկա / նախորդ կոճակներ."
+
+#~ msgid "Play / Pause button:"
+#~ msgstr "Խաղալ / դադար կոճակը:"
+
+#~ msgid "Choose whether to display Play and Pause buttons or not."
+#~ msgstr "Ընտրեք, թե արդյոք պետք է ցույց տալ Խաղալ ու դադար կոճակներ, թե ոչ:"
+
+#~ msgid "Image for Play / Pause buttons:"
+#~ msgstr "Image համար Play / Pause կոճակներ:"
+
+#~ msgid ""
+#~ "Choose whether to use default play/pause buttons or to upload custom ones."
+#~ msgstr ""
+#~ "Ընտրեք, թե արդյոք կարելի է օգտագործել default պիեսը / դադարից կոճակներ "
+#~ "կամ վերբեռնեք մաքսային նորերը."
+
+#~ msgid "Play / Pause buttons style:"
+#~ msgstr "Խաղալ / Pause կոճակները ոճը:"
+
+#~ msgid "Play Button"
+#~ msgstr "Play Button"
+
+#~ msgid "Play Button Hover"
+#~ msgstr "Խաղալ կոճակը Hover"
+
+#~ msgid "Pause Button"
+#~ msgstr "Pause Button"
+
+#~ msgid "Pause Button Hover"
+#~ msgstr "Pause Button Hover"
+
+#~ msgid "Play / Pause button size:"
+#~ msgstr "Խաղալ / Pause կոճակը չափը:"
+
+#~ msgid "Set the size for the play / pause buttons."
+#~ msgstr "Սահմանել չափը Play / Pause կոճակներ."
+
+#~ msgid "Buttons color:"
+#~ msgstr "Buttons գույնը:"
+
+#~ msgid "Select a color for the navigation buttons."
+#~ msgstr "Ընտրել գույնը նավիգացիոն կոճակները."
+
+#~ msgid "Hover color:"
+#~ msgstr "Հովեր գույնը:"
+
+#~ msgid "Select a hover color for the navigation buttons."
+#~ msgstr "Ընտրել hover գույնը նավիգացիոն կոճակները."
+
+#~ msgid ""
+#~ "Select the type, size and the color of border for the navigation buttons."
+#~ msgstr "Ընտրեք տեսակը, չափը եւ գույնը սահմանի համար նավիգացիոն կոճակները."
+
+#~ msgid "Enable bullets:"
+#~ msgstr "Միացնել փամփուշտ:"
+
+#~ msgid "Choose whether to have navigation bullets or not."
+#~ msgstr "Ընտրեք, թե արդյոք պետք է նավարկություն փամփուշտ, թե ոչ:"
+
+#~ msgid "Position:"
+#~ msgstr "Position:"
+
+#~ msgid "Select the position for the navigation bullets."
+#~ msgstr "Ընտրել պաշտոնը նավիգացիոն փամփուշտներով."
+
+#~ msgid "Image for bullets:"
+#~ msgstr "Image փամփուշտներով:"
+
+#~ msgid "Choose whether to use default or styled bullets."
+#~ msgstr ""
+#~ "Ընտրեք, թե արդյոք կարելի է օգտագործել չկատարելու կամ հարդարել փամփուշտ."
+
+#~ msgid "Bullet style:"
+#~ msgstr "Bullet ոճը:"
+
+#~ msgid "Choose the style for the bullets."
+#~ msgstr "Ընտրեք ոճը փամփուշտներով."
+
+#~ msgid "Active Button"
+#~ msgstr "Ակտիվ Button"
+
+#~ msgid "Deactive Button"
+#~ msgstr "Deactive Button"
+
+#~ msgid "Chooes buttons:"
+#~ msgstr "Chooes կոճակներ:"
+
+#~ msgid "Choose the type and color for the bullets."
+#~ msgstr "Ընտրեք տեսակը եւ գույնի համար փամփուշտներով."
+
+#~ msgid "Size:"
+#~ msgstr "Size:"
+
+#~ msgid "Define the size of the navigation bullets."
+#~ msgstr "Սահմանել չափը նավիգացիոն փամփուշտներով."
+
+#~ msgid "Color:"
+#~ msgstr "Գույն:"
+
+#~ msgid "Select the color for the navigation bullets."
+#~ msgstr "Ընտրեք գույնը նավիգացիոն փամփուշտներով."
+
+#~ msgid "Active color:"
+#~ msgstr "Ակտիվ գույնը:"
+
+#~ msgid ""
+#~ "Select the color for the bullet, which is currently displaying a "
+#~ "corresponding image."
+#~ msgstr "Ընտրեք գույնը գնդակից, որը ներկայումս ցուցադրման իմիջ."
+
+#~ msgid "Set the margin for the navigation bullets in pixels."
+#~ msgstr "Սահմանել միջակայքն համար նավիգացիոն փամփուշտներով պիքսելներով"
+
+#~ msgid "Enable filmstrip:"
+#~ msgstr "Միացնել filmstrip:"
+
+#~ msgid ""
+#~ "Choose whether to have thumbnails of the slides displayed as a filmstrip "
+#~ "or not."
+#~ msgstr ""
+#~ "Ընտրեք, թե արդյոք պետք է մատնապատկերներից սլայդներ ցուցադրվում է որպես "
+#~ "կողմում գտնվող ֆոտոժապավենի, թե ոչ:"
+
+#~ msgid "Set the position of the filmstrip."
+#~ msgstr "Սահմանել դիրքորոշումը կողմում գտնվող ֆոտոժապավենի."
+
+#~ msgid "Thumbnail dimensions:"
+#~ msgstr "Thumbnail չափերը:"
+
+#~ msgid "Define the maximum width and heigth of the filmstrip thumbnails."
+#~ msgstr ""
+#~ "Սահմանել առավելագույն լայնությունը եւ heigth է filmstrip մատնապատկերներից."
+
+#~ msgid "Select the background color for the filmstrip."
+#~ msgstr "Ընտրեք ֆոնի գույնը կողմում գտնվող ֆոտոժապավենի."
+
+#~ msgid "Thumbnail margin:"
+#~ msgstr "Thumbnail մարժա:"
+
+#~ msgid "Set the margin for the thumbnails."
+#~ msgstr "Սահմանել մարժա մատնապատկերներից."
+
+#~ msgid "Active border:"
+#~ msgstr "Ակտիվ սահմանը:"
+
+#~ msgid ""
+#~ "The thumbnail for the currently displayed image will have a border. You "
+#~ "can set its size, type and color."
+#~ msgstr ""
+#~ "The thumbnail համար ներկայումս ցուցաբերված պատկերով պետք է սահմանը. Դուք "
+#~ "կարող եք սահմանել դրա չափը, տեսակը եւ գույնը:"
+
+#~ msgid "Deactive transparency:"
+#~ msgstr "Deactive թափանցիկություն:"
+
+#~ msgid ""
+#~ "You can set a transparency level for the inactive filmstrip items which "
+#~ "must be between 0 to 100.."
+#~ msgstr ""
+#~ "Դուք կարող եք սահմանել թափանցիկության մակարդակը համար չգործող filmstrip "
+#~ "կետերը, որոնք պետք է լինեն 0-ից 100 ..."
+
+#~ msgid "Enable timer bar:"
+#~ msgstr "Միացնել ժմչփ բար:"
+
+#~ msgid ""
+#~ "You can add a bar displaying the timing left to switching to the next "
+#~ "slide on autoplay."
+#~ msgstr ""
+#~ "Դուք կարող եք ավելացնել բար ցուցադրելը ժամանակը մնացել անցումը դեպի "
+#~ "հաջորդ slide վրա autoplay."
+
+#~ msgid "Type:"
+#~ msgstr "Type:"
+
+#~ msgid "Line top"
+#~ msgstr "Line լավագույն"
+
+#~ msgid "Line Bottom"
+#~ msgstr "Line Bottom"
+
+#~ msgid "Circle top left"
+#~ msgstr "Circle վերին ձախ"
+
+#~ msgid "Circle top right"
+#~ msgstr "Circle վերին աջ"
+
+#~ msgid "Circle bottom left"
+#~ msgstr "Circle ներքեւից ձախ"
+
+#~ msgid "Circle bottom right"
+#~ msgstr "Circle ներքեւի աջ"
+
+#~ msgid "Choose the type of the timer bar to be used within the slider."
+#~ msgstr "Ընտրեք տեսակը ժմչփ բար պետք է օգտագործվի շրջանակներում slider."
+
+#~ msgid "Define the height of the timer bar."
+#~ msgstr "Սահմանել բարձրության ժմչփ բար."
+
+#~ msgid "Css:"
+#~ msgstr "CSS:"
+
+#~ msgid "Add custom CSS to apply custom changes to the slider."
+#~ msgstr "Ավելացնել մաքսային CSS կիրառել մաքսային փոփոխություններ են slider."
+
+#~ msgid "Post slider type:"
+#~ msgstr "Հաղորդագրություն Ավելացված է Slider տիպը:"
+
+#~ msgid "Static posts slides"
+#~ msgstr "Ստատիկ հաղորդագրություններ սլայդներ"
+
+#~ msgid "Dynamic posts slides"
+#~ msgstr "Դինամիկ հաղորդագրություններ սլայդներ"
+
+#~ msgid "Add Posts"
+#~ msgstr "Ավելացնել գրառումներ"
+
+#~ msgid "Drag to re-order"
+#~ msgstr "Քարշել կրկին պատվիրել"
+
+#~ msgid "Edit Slide"
+#~ msgstr "Խմբագրել Slide"
+
+#~ msgid "Edit Image"
+#~ msgstr "Խմբագրել Image"
+
+#~ msgid "Edit Post"
+#~ msgstr "Խմբագրել Post"
+
+#~ msgid "Duplicate slide"
+#~ msgstr "Կրկնվող slide"
+
+#~ msgid "Remove Slide"
+#~ msgstr "Հեռացնել Slide"
+
+#~ msgid "Delete slide"
+#~ msgstr "Ջնջել սահում"
+
+#~ msgid "Edit Slides"
+#~ msgstr "Խմբագրել Slides"
+
+#~ msgid "Add/Edit Post"
+#~ msgstr "Ավելացնել / Խմբագրել ալբոմը"
+
+#~ msgid "Add Post"
+#~ msgstr "Ավելացնել գրառումը"
+
+#~ msgid ""
+#~ "You can set a redirection link, so that the user will get to the "
+#~ "mentioned location upon hitting the slide.Use http:// and https:// for "
+#~ "external links."
+#~ msgstr ""
+#~ "Դուք կարող եք սահմանել REDIRECTION հղում, այնպես, որ օգտագործողը կստանա "
+#~ "նշված վայրում վրա հարվածելու slide.Use http: // եւ https: // արտաքին "
+#~ "հղումների."
+
+#~ msgid "Link the slide to:"
+#~ msgstr "Link սահեցրեք է:"
+
+#~ msgid "Open in a new window"
+#~ msgstr "Բացել նոր պատուհանում"
+
+#~ msgid "Layers"
+#~ msgstr "Շերտեր"
+
+#~ msgid "Add Text Layer"
+#~ msgstr "Ավելացնել տեքստ շերտ"
+
+#~ msgid "Add Image Layer"
+#~ msgstr "Ավելացնել Image շերտը"
+
+#~ msgid "Add Social Button Layer"
+#~ msgstr "Ավելացնել սոցիալական կոճակը շերտը"
+
+#~ msgid "Add Hotspot Layer"
+#~ msgstr "Ավելացնել գոտում շերտը"
+
+#~ msgid "Layer title"
+#~ msgstr "Layer կոչումը"
+
+#~ msgid "Delete layer"
+#~ msgstr "Ջնջել շերտը"
+
+#~ msgid "Duplicate layer"
+#~ msgstr "Կրկնվող շերտը"
+
+#~ msgid "z-index"
+#~ msgstr "Z ցուցանիշը"
+
+#~ msgid "Text:"
+#~ msgstr "Տեքստը:"
+
+#~ msgid "Leave blank to keep the initial width and height."
+#~ msgstr "Թողնել դատարկ է պահել նախնական լայնությունը եւ բարձրությունը."
+
+#~ msgid "Break-word"
+#~ msgstr "Break-word"
+
+#~ msgid "In addition you can drag and drop the layer to a desired position."
+#~ msgstr "Ի լրումն, Դուք կարող եք քաշել եւ թողնել շերտը ցանկալի դիրքորոշումը."
+
+#~ msgid "Font family:"
+#~ msgstr "Տառատեսակի ընտանիքը:"
+
+#~ msgid "Google fonts"
+#~ msgstr "Google տառատեսակներ"
+
+#~ msgid "Font weight:"
+#~ msgstr "Տառատեսակի քաշը:"
+
+#~ msgid "Use http:// and https:// for external links."
+#~ msgstr "Օգտագործեք http: // եւ https: // արտաքին հղումների."
+
+#~ msgid "Link:"
+#~ msgstr "ՈՒղեցույց:"
+
+#~ msgid "Effect In:"
+#~ msgstr "Ազդեցությունը:"
+
+#~ msgid "Start"
+#~ msgstr "Սկիզբ"
+
+#~ msgid "Effect"
+#~ msgstr "Ազդեցություն"
+
+#~ msgid "Duration"
+#~ msgstr "Duration"
+
+#~ msgid "Effect Out:"
+#~ msgstr "Ազդեցություն Out:"
+
+#~ msgid "Padding:"
+#~ msgstr "Լիցք:"
+
+#~ msgid "Background Color:"
+#~ msgstr "Ֆոնի գույնը:"
+
+#~ msgid "Value must be between 0 to 100."
+#~ msgstr "Value պետք է լինի 0-ից մինչեւ 100-ի:"
+
+#~ msgid "Transparent:"
+#~ msgstr "Թափանցիկ:"
+
+#~ msgid "Radius:"
+#~ msgstr "Շառավիղ:"
+
+#~ msgid "Set width and height of the image."
+#~ msgstr "Set լայնությունը եւ բարձրությունը պատկերով."
+
+#~ msgid "Scale"
+#~ msgstr "Մասշտաբ"
+
+#~ msgid "Set the HTML attribute specified in the IMG tag."
+#~ msgstr "Սահմանել HTML հատկանիշը նշված IMG կտրոնը:"
+
+#~ msgid "Alt:"
+#~ msgstr "Alt:"
+
+#~ msgid "Social button:"
+#~ msgstr "Սոցիալական կոճակը:"
+
+#~ msgid "Hover Color:"
+#~ msgstr "Հովեր Color:"
+
+#~ msgid "Hotspot text position:"
+#~ msgstr "Hotspot տեքստը պաշտոնը:"
+
+#~ msgid "Hotspot Width:"
+#~ msgstr "Hotspot Լայնությունը:"
+
+#~ msgid "Hotspot Background Color:"
+#~ msgstr "Hotspot Ֆոնի գույնը:"
+
+#~ msgid "Hotspot Border:"
+#~ msgstr "Hotspot Border:"
+
+#~ msgid "Hotspot Radius:"
+#~ msgstr "Hotspot Շառավիղ:"
+
+#~ msgid "Period of posts to display:"
+#~ msgstr "Ժամկետը հաղորդագրությունների էկրանին:"
+
+#~ msgid ""
+#~ "Set the time for the posts, e.g. if set it to 24 hours it will display "
+#~ "the posts added within the last 24 hours."
+#~ msgstr ""
+#~ "Սահմանել ժամանակ է գրառումների, օրինակ Եթե ​​սահմանված է 24 ժամվա "
+#~ "ընթացքում, այն պետք է ցույց գրառումները ավելացվել է վերջին 24 ժամվա "
+#~ "ընթացքում:"
+
+#~ msgid "Number of posts:"
+#~ msgstr "Միավորների քան-Ֆորումում հաղորդագրությունների:"
+
+#~ msgid ""
+#~ "Set the number of posts which will be displayed as slides. If set to 0 or "
+#~ "left empty it will display all posts."
+#~ msgstr ""
+#~ "Սահմանել շարք Ֆորումում հաղորդագրությունների, որոնք պետք է ցուցադրվեն, "
+#~ "սլայդներ: Եթե սահմանված է 0 կամ ձախ դատարկ դա ցույց է բոլոր գրառումները."
+
+#~ msgid "Choose post type:"
+#~ msgstr "Ընտրեք post տեսակը:"
+
+#~ msgid ""
+#~ "Select the type for the dynamic posts, e.g. standard or custom post types."
+#~ msgstr ""
+#~ "Ընտրեք տեսակը դինամիկ հաղորդագրությունների, օրինակ ստանդարտ կամ մաքսային "
+#~ "գրությունները տեսակներ."
+
+#~ msgid "Author:"
+#~ msgstr "Հեղինակ:"
+
+#~ msgid "Select the author whose posts will be displayed within the slider."
+#~ msgstr ""
+#~ "Ընտրեք հեղինակին որի հաղորդագրություններ կցուցադրվեն շրջանակներում slider."
+
+#~ msgid "Sort posts by:"
+#~ msgstr "Տեսակավորել գրառումները է:"
+
+#~ msgid ""
+#~ "Select the option which will be used as a sorting basis while displaying "
+#~ "posts."
+#~ msgstr ""
+#~ "Ընտրեք այն տարբերակը, որը պետք է օգտագործվի որպես տեսակավորման հիման վրա, "
+#~ "իսկ ցուցադրելը գրառումները."
+
+#~ msgid "Order posts by:"
+#~ msgstr "Պատվիրեք գրառումները:"
+
+#~ msgid "Ascending"
+#~ msgstr "Աճող"
+
+#~ msgid "Descending"
+#~ msgstr "Նվազման"
+
+#~ msgid "Set the ordering sequence for the posts- ascending or descending."
+#~ msgstr ""
+#~ "Սահմանել կարգադրելով հաջորդականությունը համար posts- աճման կամ նվազման."
+
+#~ msgid "Post taxonomies:"
+#~ msgstr "Հաղորդագրություն Ավելացված է: տաքսոնոմիաների:"
+
+#~ msgid "Slide"
+#~ msgstr "Slide"
+
+#~ msgid ""
+#~ "The post content will not be displayed on back end. You will see a sample "
+#~ "background, where you can add standard and dynamic-post layers, which "
+#~ "will be displayed over the posts on front end."
+#~ msgstr ""
+#~ "Գրառման բովանդակությունը չի ցուցադրվում է հետեւի վերջ. Դուք կարող եք "
+#~ "տեսնել մի նմուշ ֆոն, որտեղ դուք կարող եք ավելացնել ստանդարտ եւ դինամիկ "
+#~ "Հաղորդագրություն շերտերը, որոնք կցուցադրվեն շուրջ հաղորդագրությունների "
+#~ "առջեւի վերջ."
+
+#~ msgid "Enter absolute url of the image."
+#~ msgstr "Մուտքագրեք բացարձակ URL- ը պատկերով."
+
+#~ msgid "Uninstall Post Slider by 10Web"
+#~ msgstr "Տեղահանել Post Slider by 10Web"
+
+#~ msgid ""
+#~ "Deactivating Post Slider by 10Web plugin does not remove any data that may have "
+#~ "been created. To completely remove this plugin, you can uninstall it here."
+#~ msgstr ""
+#~ "Deactivating Post Slider WP Plugin չի հանել որեւէ տվյալներ, որոնք կարող "
+#~ "են ստեղծվել. To լիովին հեռացնել այս plugin, դուք կարող եք տեղահանել այն "
+#~ "այստեղ."
+
+#~ msgid "WARNING:"
+#~ msgstr "WARNING:"
+
+#~ msgid ""
+#~ "Once uninstalled, this can't be undone. You should use a Database Backup "
+#~ "plugin of WordPress to back up all the data first."
+#~ msgstr ""
+#~ "Մի անգամ uninstalled, սա չի կարող հետ շրջվել. Դուք պետք է օգտագործել բազա "
+#~ "Backup plugin է WordPress կրկնօրինակեք բոլոր տվյալներին."
+
+#~ msgid "The following Database Tables will be deleted:"
+#~ msgstr "Հետեւյալ Նյութերի բազա աղյուսակներ կջնջվի:"
+
+#~ msgid "Database Tables"
+#~ msgstr "Նյութերի բազա Սեղաններ"
+
+#~ msgid "Do you really want to uninstall Post Slider by 10Web plugin?"
+#~ msgstr "Դուք իսկապես ուզում եք տեղահանել Post Slider by 10Web plugin."
+
+#~ msgid "UNINSTALL"
+#~ msgstr "Տեղահանել"
+
+#~ msgid ""
+#~ "You are About to Uninstall Post Slider by 10Web plugin from WordPress.This "
+#~ "Action Is Not Reversible."
+#~ msgstr ""
+#~ "Դուք Օգտվողի Տեղահանել Post Slider by 10Web plugin - ից WordPress.This Action "
+#~ "չէ շրջելի."
+
+#~ msgid "The following Database Tables successfully deleted:"
+#~ msgstr "Հետեւյալ Նյութերի բազա աղյուսակներ հաջողությամբ ջնջվել:"
+
+#~ msgid "The folder was successfully deleted."
+#~ msgstr "Թղթապանակը հաջողությամբ ջնջվել."
+
+#~ msgid "An error occurred when deleting the folder."
+#~ msgstr "Սխալ է տեղի ունեցել, երբ վերացվում թղթապանակը."
+
+#~ msgid "Click Here"
+#~ msgstr "Click Here"
+
+#~ msgid ""
+#~ "To Finish the Uninstallation and Post Slider by 10Web will be Deactivated "
+#~ "Automatically."
+#~ msgstr "Ավարտել է uninstallation եւ Post Slider by 10Web կապաակտիվացվի ավտոմատ."
+
+#~ msgid "Posts"
+#~ msgstr "Գրառումներ"
+
+#~ msgid "Add to slider"
+#~ msgstr "Ավելացնել slider"
+
+#~ msgid "Post type:"
+#~ msgstr "Հաղորդագրություն Ավելացված է տիպը:"
+
+#~ msgid "You can include only published posts with featured image."
+#~ msgstr ""
+#~ "Դուք կարող եք ներառել միայն տպագրված գրառումները հետ հատկություններով "
+#~ "պատկերով."
+
+#~ msgid "Featured image"
+#~ msgstr "Գլխավոր պատկերը"
+
+#~ msgid "Title"
+#~ msgstr "կոչում"
+
+#~ msgid "Type"
+#~ msgstr "Տիպ"
+
+#~ msgid "Date created"
+#~ msgstr "Date ստեղծվել"
+
+#~ msgid "Date modified"
+#~ msgstr "Date փոփոխվել"
+
+#~ msgid "Post Slider by 10Web"
+#~ msgstr "Post Slider by 10Web"
+
+#~ msgid "Select a Slider"
+#~ msgstr "Ընտրել Slider"
+
+#~ msgid "- Select a Slider -"
+#~ msgstr "- Ընտրեք Slider -"
+
+#~ msgid "Title:"
+#~ msgstr "Կոչում:"
+
+#~ msgid "Select Slider"
+#~ msgstr "Ընտրել Slider"
+
+#~ msgid "Item Succesfully Saved."
+#~ msgstr "Item հաջողությամբ պահված:"
+
+#~ msgid "You can't delete default theme"
+#~ msgstr "Դուք չեք կարող ջնջել նախնական թեման"
+
+#~ msgid "The item is successfully set as default."
+#~ msgstr "The նյութը հաջողությամբ սահմանվում է որպես լռելյայն."
+
+#~ msgid "Options Succesfully Saved."
+#~ msgstr "Options հաջողությամբ պահված:"
+
+#~ msgid "Ordering Succesfully Saved."
+#~ msgstr "Պատվիրելով հաջողությամբ փրկվել."
+
+#~ msgid "A term with the name provided already exists."
+#~ msgstr "A տերմին անվան հետ, պայմանով, արդեն գոյություն ունի."
+
+#~ msgid "Name field is required."
+#~ msgstr "Անունը դաշտը պարտադիր է:"
+
+#~ msgid "The slug must be unique."
+#~ msgstr "The Slug պետք է լինի եզակի."
+
+#~ msgid "You must set watermark type."
+#~ msgstr "Դուք պետք է սահմանել ջրի մակարդակի նշագիծ տեսակի."
+
+#~ msgid "Settings Succesfully Reset."
+#~ msgstr "Կառավարում հաջողությամբ Վերագործարկեք."
+
+#~ msgid "Search"
+#~ msgstr "Որոնում"
+
+#~ msgid "Reset"
+#~ msgstr "Տեղավորել"
+
+#~ msgid "item"
+#~ msgstr "կետ"
+
+#~ msgid "Sliders"
+#~ msgstr "Կարգավորիչներ մուտք գործելու,"
+
+#~ msgid "Featured Plugins"
+#~ msgstr "Գլխավոր Plugins"
+
+#~ msgid "Featured Themes"
+#~ msgstr "Գլխավոր Թեմաներ"
+
+#~ msgid "Uninstall"
+#~ msgstr "Տեղահանել"
+
+#~ msgid "Items Succesfully Saved."
+#~ msgstr "Նյութերի հաջողությամբ Պահված."
+
+#~ msgid "Changes made in this table should be saved."
+#~ msgstr "Կատարված փոփոխությունները այս աղյուսակում պետք է փրկվել."
+
+#~ msgid "Show order column"
+#~ msgstr "Ցույց տալ կարգը սյունակ"
+
+#~ msgid "You must select an image file."
+#~ msgstr "Դուք պետք է ընտրեք պատկերի ֆայլ."
+
+#~ msgid "You must select an audio file."
+#~ msgstr "Դուք պետք է ընտրեք ձայնային ֆայլը."
+
+#~ msgid ""
+#~ "You can set a redirection link, so that the user will get to the "
+#~ "mentioned location upon hitting the slide.<br />Use http:// and https:// "
+#~ "for external links."
+#~ msgstr ""
+#~ "Դուք կարող եք սահմանել REDIRECTION հղում, այնպես, որ օգտագործողը կստանա "
+#~ "նշված վայրում վրա հարվածել է սահում. <br /> Օգտագործեք http: // եւ "
+#~ "https: // արտաքին հղումների."
+
+#~ msgid "Are you sure you want to delete this layer ?"
+#~ msgstr "Դուք համոզված եք, որ ցանկանում եք ջնջել այս շերտը."
+
+#~ msgid "Sample text"
+#~ msgstr "Տեքստի նմուշը"
+
+#~ msgid "Scale:"
+#~ msgstr "Scale:"
+
+#~ msgid "Effect in:"
+#~ msgstr "Հետեւանքները է:"
+
+#~ msgid "Effect out:"
+#~ msgstr "Ազդեցություն դուրս"
+
+#~ msgid "Break-word:"
+#~ msgstr "Break-word:"
+
+#~ msgid "There are no postes in this slider."
+#~ msgstr "Չկան նոր հաղորդագրություններ Այս slider."
+
+#~ msgid "There are no slides in this slider."
+#~ msgstr "Չկան սլայդներ Այս slider."
+
+#~ msgid "Slider post type:"
+#~ msgstr "Slider Գրառման տիպը:"
+
+#~ msgid "Dynamic post slides"
+#~ msgstr "Դինամիկ գրառումը սլայդներ"
+
+#~ msgid "Static post slides"
+#~ msgstr "Ստատիկ գրառումը սլայդներ"
+
+#~ msgid "Uninstall Post Slider WordPress"
+#~ msgstr "Տեղահանել Post Slider WordPress"
+
+#~ msgid ""
+#~ "Deactivating Post Slider WordPress plugin does not remove any data that "
+#~ "may have been created. To completely remove this plugin, you can "
+#~ "uninstall it here."
+#~ msgstr ""
+#~ "Deactivating Post Slider WordPress plugin չի հանել որեւէ տվյալներ, որոնք "
+#~ "կարող են ստեղծվել. To լիովին հեռացնել այս plugin, դուք կարող եք տեղահանել "
+#~ "այն այստեղ."
+
+#~ msgid "Do you really want to uninstall Post Slider WordPress plugin?"
+#~ msgstr "Դուք իսկապես ուզում եք տեղահանել Post Slider WordPress plugin."
+
+#~ msgid ""
+#~ "You are About to Uninstall Post Slider WordPress plugin from WordPress."
+#~ "This Action Is Not Reversible."
+#~ msgstr ""
+#~ "Դուք Օգտվողի Տեղահանել Post Slider WordPress plugin - ից WordPress.This "
+#~ "Action չէ շրջելի."
+
+#~ msgid ""
+#~ "To Finish the Uninstallation and Post Slider WordPress will be "
+#~ "Deactivated Automatically."
+#~ msgstr ""
+#~ "Ավարտել է uninstallation եւ Post Slider WordPress կապաակտիվացվի ավտոմատ."
+
+#~ msgid "Post Slider WordPress"
+#~ msgstr "Post Slider WordPress"
+
+#~ msgid "Enable Dynamic Posts:"
+#~ msgstr "Միացնել դինամիկ գրառումներ:"
+
+#~ msgid ""
+#~ "Enable this option if you want to display standard posts as slides with "
+#~ "their featured images."
+#~ msgstr ""
+#~ "Միացնել այս տարբերակը, եթե դուք ուզում եք ցույց տալ ստանդարտ գրառումները, "
+#~ "սլայդներ իրենց հատկություններով պատկերների."
+
+#~ msgid "Added Post Autoupdate Interval:"
+#~ msgstr "Ավելացված Post Ինքնաթարմացում ինտերվալ:"
+
+#~ msgid "Set the number of posts which will be displayed as slides."
+#~ msgstr ""
+#~ "Սահմանել շարք Ֆորումում հաղորդագրությունների, որոնք պետք է ցուցադրվեն, "
+#~ "սլայդներ:"
+
+#~ msgid "Layer Word Count:"
+#~ msgstr "Շերտ Բառի հաշվիչ"
+
+#~ msgid ""
+#~ "This will limit the number of words for post content displayed as a layer."
+#~ msgstr ""
+#~ "Սա կլինի սահմանափակել շարք բառերի համար գրառումը բովանդակության "
+#~ "ցուցադրվեր որպես շերտ."
+
+#~ msgid ""
+#~ "You are About to Uninstall Post Slider WordPress plugin from WordPress."
+#~ "\\nThis Action Is Not Reversible."
+#~ msgstr ""
+#~ "Դուք Օգտվողի Տեղահանել Post Slider WordPress plugin - ից WordPress. \\\\\\"
+#~ "\\ N Այս Action չէ շրջելի."
+
+#~ msgid "You can include only posts with featured image."
+#~ msgstr ""
+#~ "Դուք կարող եք ներառել միայն գրառումները հետ հատկություններով պատկերով."
+
+#~ msgid "Remove"
+#~ msgstr "Հեռացնել"
+
+#~ msgid "Choose file (use .zip format)."
+#~ msgstr "Ընտրեք ֆայլը (օգտագործումը .zip ձեւաչափով):"
+
+#~ msgid "Еffect duration:"
+#~ msgstr "Еffect տեւողությունը:"
+
+#~ msgid "Select the author who’s posts will be displayed within the slider."
+#~ msgstr "Ընտրեք հեղինակը, որը գրառումները կցուցադրվեն շրջանակներում slider."
+
+#~ msgid "Slider name:"
+#~ msgstr "Slider անունը:"
+
+#~ msgid "Add slide"
+#~ msgstr "Ավելացնել սահում"
+
+#~ msgid ""
+#~ "You can set a redirection link, so that the user will get to the "
+#~ "mentioned location upon hitting the slide."
+#~ msgstr ""
+#~ "Դուք կարող եք սահմանել REDIRECTION հղում, այնպես, որ օգտագործողը կստանա "
+#~ "նշված վայրում վրա հարվածում է սահում."
+
+#~ msgid "Rob"
+#~ msgstr "Թալանել"

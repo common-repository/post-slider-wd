@@ -1,0 +1,1773 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: wdps\n"
+"POT-Creation-Date: 2016-08-17 11:11+0500\n"
+"PO-Revision-Date: 2016-10-20 12:30+0400\n"
+"Last-Translator: admin < vahram@gmail.com >\n"
+"Language-Team: \n"
+"Language: uk\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10 >= 2 && n"
+"%10<=4 &&(n%100<10||n%100 >= 20)? 1 : 2);\n"
+"X-Generator: Poedit 1.8.11\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SearchPath-0: frontend\n"
+"X-Poedit-SearchPath-1: sliders-notices.php\n"
+
+#: frontend/views/WDPSViewSlider.php:30
+msgid "There is no slider selected or the slider was deleted."
+msgstr "Там немає повзунка обраний або повзунок був видалений."
+
+#: frontend/views/WDPSViewSlider.php:47
+msgid "There are no posts  in this slider."
+msgstr "Там немає повідомлень в цьому слайдера."
+
+#: frontend/views/WDPSViewSlider.php:1829
+#: frontend/views/WDPSViewSlider.php:1894
+msgid "Pause"
+msgstr "Пауза"
+
+#: frontend/views/WDPSViewSlider.php:1862
+msgid "Play"
+msgstr "Грати"
+
+#: sliders-notices.php:188
+msgid "Leave A Review?"
+msgstr "Залишити відгук?"
+
+#: sliders-notices.php:189
+#, php-format
+msgid ""
+"We hope you've enjoyed using WordPress %s! Would you consider leaving us a "
+"review on WordPress.org?"
+msgstr ""
+"Ми сподіваємося, що вам сподобалося, використовуючи WordPress %s! Чи "
+"вважаєте ви, залишивши нам свій відгук про WordPress.org?"
+
+#: sliders-notices.php:190
+msgid "Sure! I'd love to!"
+msgstr "Звичайно! Я б залюбки!"
+
+#: sliders-notices.php:191
+msgid "I've already left a review"
+msgstr "Я вже залишив відгук"
+
+#: sliders-notices.php:192
+msgid "Maybe Later"
+msgstr "Можливо пізніше"
+
+#: sliders-notices.php:193 sliders-notices.php:203
+msgid "Never show again"
+msgstr "Ніколи знову показати"
+
+#: sliders-notices.php:199
+msgid "Hey! How's It Going?"
+msgstr "Гей! Як поживаєш?"
+
+#: sliders-notices.php:200
+#, php-format
+msgid ""
+"Thank you for using WordPress %s! We hope that you've found everything you "
+"need, but if you have any questions:"
+msgstr ""
+"Дякуємо Вам за використання WordPress %s! Ми сподіваємося, що Ви знайшли "
+"все, що потрібно, але якщо у вас є які-небудь питання:"
+
+#: sliders-notices.php:201
+msgid "Check out User Guide"
+msgstr "Перевірте Керівництво користувача"
+
+#: sliders-notices.php:202
+msgid "Get Some Help"
+msgstr "Отримати допомогу"
+
+#~ msgid "There are no posts in this slider."
+#~ msgstr "Там немає повідомлень в цьому слайдера."
+
+#~ msgid "Share on Facebook"
+#~ msgstr "Поділитися на Facebook"
+
+#~ msgid "Share on Twitter"
+#~ msgstr "Поділитися на Twitter"
+
+#~ msgid "Share on Google+"
+#~ msgstr "Поділитися в Google+"
+
+#~ msgid "Share on Pinterest"
+#~ msgstr "Поділитися на Pinterest"
+
+#~ msgid "Share on Tumblr"
+#~ msgstr "Поділитися на Tumblr"
+
+#~ msgid ""
+#~ "Post Slider by 10Web is a responsive plugin, which allows adding sliders to "
+#~ "your posts/pages and to custom location."
+#~ msgstr ""
+#~ "Повідомлення слайдер WD є чуйним плагін, який дозволяє додавати слайди "
+#~ "ваших повідомлень / сторінок і замовлення місця."
+
+#~ msgid "Updates"
+#~ msgstr "Oновлення"
+
+#~ msgid ""
+#~ "You can download the latest version of your plugins from your %s "
+#~ "account.\n"
+#~ "            After deactivate and delete the current version.\n"
+#~ "            Install the downloaded latest version of the plugin."
+#~ msgstr ""
+#~ "Ви можете завантажити останню версію ваших плагінів від вашого %s "
+#~ "рахунок.\n"
+#~ "Після відключення і видалення поточної версії.\n"
+#~ "Встановіть завантажений останню версію плагіна."
+
+#~ msgid "Current version %s"
+#~ msgstr "Поточна версія% s"
+
+#~ msgid "There is a new %s version"
+#~ msgstr "Існує новий %s версія"
+
+#~ msgid "%s is up to date."
+#~ msgstr "% s до дати."
+
+#~ msgid "-all-"
+#~ msgstr "-Всех-"
+
+#~ msgid "Slider successfully imported."
+#~ msgstr "Слайдер успішно імпортовані."
+
+#~ msgid "Unexpected error occurred."
+#~ msgstr "Несподівана помилка."
+
+#~ msgid "Changes must be saved."
+#~ msgstr "Зміни повинні бути збережені."
+
+#~ msgid "Item Succesfully Duplicated."
+#~ msgstr "Пункт Успішно дублікати."
+
+#~ msgid "Do you want to duplicate selected items?"
+#~ msgstr "Ви хочете, щоб дублювати вибрані елементи?"
+
+#~ msgid "You must select at least one item."
+#~ msgstr "Ви повинні вибрати принаймні один елемент."
+
+#~ msgid "Items Succesfully Duplicated."
+#~ msgstr "Товари Успішно дублюються."
+
+#~ msgid "Item Succesfully Deleted."
+#~ msgstr "Пункт Успішно видалені."
+
+#~ msgid "Error. Please install plugin again."
+#~ msgstr "Помилка. Будь ласка, встановіть плагін знову."
+
+#~ msgid "Items Succesfully Deleted."
+#~ msgstr "Товари Успішно видалені."
+
+#~ msgid "Item Succesfully Published."
+#~ msgstr "Пункт Успішно Опубліковано."
+
+#~ msgid "Items Succesfully Published."
+#~ msgstr "Товари Успішно Опубліковано."
+
+#~ msgid "Item Succesfully Unpublished."
+#~ msgstr "Пункт Успішно опубліковано."
+
+#~ msgid "Items Succesfully Unpublished."
+#~ msgstr "Товари Успішно опубліковано."
+
+#~ msgid "This section allows you to create, edit and delete post sliders."
+#~ msgstr ""
+#~ "У цьому розділі можна створювати, редагувати і видаляти поштові повзунки."
+
+#~ msgid "Read More in User Manual"
+#~ msgstr "Детальніше в керівництві користувача"
+
+#~ msgid "Post Sliders"
+#~ msgstr "Подати Повзунки"
+
+#~ msgid "Add new"
+#~ msgstr "Додати новий"
+
+#~ msgid "Select All"
+#~ msgstr "Вибрати все"
+
+#~ msgid "Publish"
+#~ msgstr "Опублікувати"
+
+#~ msgid "Unpublish"
+#~ msgstr "Скасувати публікацію"
+
+#~ msgid "Duplicate"
+#~ msgstr "Дублювати"
+
+#~ msgid "Do you want to delete selected items?"
+#~ msgstr "Ви хочете, щоб видалити вибрані елементи?"
+
+#~ msgid "Delete"
+#~ msgstr "Видаляти"
+
+#~ msgid "Slider"
+#~ msgstr "Повзунок"
+
+#~ msgid "Name"
+#~ msgstr "Ім\\'я"
+
+#~ msgid "Slides"
+#~ msgstr "Слайди"
+
+#~ msgid "Shortcode"
+#~ msgstr "Короткий"
+
+#~ msgid "PHP function"
+#~ msgstr "Функція PHP"
+
+#~ msgid "Published"
+#~ msgstr "Опублікований"
+
+#~ msgid "Action"
+#~ msgstr "дія"
+
+#~ msgid "Edit"
+#~ msgstr "Редагувати"
+
+#~ msgid "Edit post slider "
+#~ msgstr "Редагувати повідомлення слайдер "
+
+#~ msgid "Create new post slider"
+#~ msgstr "Створити новий пост повзунок"
+
+#~ msgid "Publishing Date"
+#~ msgstr "Дата публікації"
+
+#~ msgid "Modification Date"
+#~ msgstr "Дата зміни"
+
+#~ msgid "Number of Comments"
+#~ msgstr "Кількість коментарів"
+
+#~ msgid "Post Title"
+#~ msgstr "Повідомлення Тема"
+
+#~ msgid "Menu Order"
+#~ msgstr "Меню Замовити"
+
+#~ msgid "Author"
+#~ msgstr "Автор"
+
+#~ msgid "Random"
+#~ msgstr "Випадковий"
+
+#~ msgid "Hour"
+#~ msgstr "Година"
+
+#~ msgid "Day"
+#~ msgstr "День"
+
+#~ msgid "Week"
+#~ msgstr "Тиждень"
+
+#~ msgid "Month"
+#~ msgstr "Місяць"
+
+#~ msgid "Left"
+#~ msgstr "Зліва"
+
+#~ msgid "Center"
+#~ msgstr "Центр"
+
+#~ msgid "Right"
+#~ msgstr "Право"
+
+#~ msgid "None"
+#~ msgstr "Ні"
+
+#~ msgid "Solid"
+#~ msgstr "Твердий"
+
+#~ msgid "Dotted"
+#~ msgstr "Пунктирний"
+
+#~ msgid "Dashed"
+#~ msgstr "Пунктирна"
+
+#~ msgid "Double"
+#~ msgstr "Подвійний"
+
+#~ msgid "Groove"
+#~ msgstr "Паз"
+
+#~ msgid "Ridge"
+#~ msgstr "Хребет"
+
+#~ msgid "Inset"
+#~ msgstr "Вставка"
+
+#~ msgid "Outset"
+#~ msgstr "Боковик"
+
+#~ msgid "Chevron"
+#~ msgstr "Шеврон"
+
+#~ msgid "Angle"
+#~ msgstr "Кут"
+
+#~ msgid "Circle O"
+#~ msgstr "Коло Про"
+
+#~ msgid "Circle"
+#~ msgstr "Коло"
+
+#~ msgid "Minus"
+#~ msgstr "Мінус"
+
+#~ msgid "Square O"
+#~ msgstr "Площа виведення"
+
+#~ msgid "Square"
+#~ msgstr "Майдан"
+
+#~ msgid "Lighter"
+#~ msgstr "Легше"
+
+#~ msgid "Normal"
+#~ msgstr "Нормальний"
+
+#~ msgid "Bold"
+#~ msgstr "Сміливий"
+
+#~ msgid "Facebook"
+#~ msgstr "Facebook"
+
+#~ msgid "Google+"
+#~ msgstr "Google+"
+
+#~ msgid "Twitter"
+#~ msgstr "Щебет"
+
+#~ msgid "Pinterest"
+#~ msgstr "Pinterest"
+
+#~ msgid "Tumblr"
+#~ msgstr "Tumblr"
+
+#~ msgid "Zoom Fade"
+#~ msgstr "Збільшити Fade"
+
+#~ msgid "Parallel Slide Horizontal"
+#~ msgstr "Паралельно Презентація по горизонталі"
+
+#~ msgid "Parallel Slide Vertical"
+#~ msgstr "Паралельно Презентація Вертикальний"
+
+#~ msgid "Slice 3D Horizontal"
+#~ msgstr "Шматочок 3D Горизонтальна"
+
+#~ msgid "Slice 3D Vertical"
+#~ msgstr "Шматочок 3D Вертикальна"
+
+#~ msgid "Slice 3D Horizontal Random"
+#~ msgstr "Шматочок 3D Горизонтальна Випадкові"
+
+#~ msgid "Slice 3D Vertical Random"
+#~ msgstr "Шматочок 3D Вертикальна Випадкові"
+
+#~ msgid "Blind"
+#~ msgstr "Сліпий"
+
+#~ msgid "Tiles"
+#~ msgstr "Плитка"
+
+#~ msgid "Block Scale Random"
+#~ msgstr "Блок Масштаб Випадкові"
+
+#~ msgid "Cube Horizontal"
+#~ msgstr "Куб Горизонтальна"
+
+#~ msgid "Cube Vertical"
+#~ msgstr "Куб Вертикальний"
+
+#~ msgid "Cube Random"
+#~ msgstr "Куб Випадкові"
+
+#~ msgid "Fade"
+#~ msgstr "В\\'янути"
+
+#~ msgid "Slice Horizontal"
+#~ msgstr "Частковий по горизонталі"
+
+#~ msgid "Slice Vertical"
+#~ msgstr "Частковий по вертикалі"
+
+#~ msgid "Slide Horizontal"
+#~ msgstr "Слайд Horizontal"
+
+#~ msgid "Slide Vertical"
+#~ msgstr "Слайд Vertical"
+
+#~ msgid "Scale Out"
+#~ msgstr "Масштабувати"
+
+#~ msgid "Scale In"
+#~ msgstr "Шкала в"
+
+#~ msgid "Block Scale"
+#~ msgstr "Блок Масштаб"
+
+#~ msgid "Kaleidoscope"
+#~ msgstr "Калейдоскоп"
+
+#~ msgid "Fan"
+#~ msgstr "Вентилятор"
+
+#~ msgid "Blind Horizontal"
+#~ msgstr "Жалюзі горизонтальні"
+
+#~ msgid "Blind Vertical"
+#~ msgstr "Жалюзі вертикальні"
+
+#~ msgid "3D Random"
+#~ msgstr "3D Випадкові"
+
+#~ msgid "Bounce"
+#~ msgstr "Відскік"
+
+#~ msgid "Flash"
+#~ msgstr "Спалах"
+
+#~ msgid "Pulse"
+#~ msgstr "Імпульс"
+
+#~ msgid "RubberBand"
+#~ msgstr "Гумова пов\\'язка"
+
+#~ msgid "Shake"
+#~ msgstr "Струс"
+
+#~ msgid "Swing"
+#~ msgstr "Гойдалки"
+
+#~ msgid "Tada"
+#~ msgstr "Тада"
+
+#~ msgid "Wobble"
+#~ msgstr "Коливання"
+
+#~ msgid "Hinge"
+#~ msgstr "Шарнір"
+
+#~ msgid "LightSpeedIn"
+#~ msgstr "LightSpeedIn"
+
+#~ msgid "RollIn"
+#~ msgstr "Rollin"
+
+#~ msgid "BounceIn"
+#~ msgstr "BounceIn"
+
+#~ msgid "BounceInDown"
+#~ msgstr "BounceInDown"
+
+#~ msgid "BounceInLeft"
+#~ msgstr "BounceInLeft"
+
+#~ msgid "BounceInRight"
+#~ msgstr "BounceInRight"
+
+#~ msgid "BounceInUp"
+#~ msgstr "BounceInUp"
+
+#~ msgid "FadeIn"
+#~ msgstr "FadeIn"
+
+#~ msgid "FadeInDown"
+#~ msgstr "FadeInDown"
+
+#~ msgid "FadeInDownBig"
+#~ msgstr "FadeInDownBig"
+
+#~ msgid "FadeInLeft"
+#~ msgstr "FadeInLeft"
+
+#~ msgid "FadeInLeftBig"
+#~ msgstr "FadeInLeftBig"
+
+#~ msgid "FadeInRight"
+#~ msgstr "FadeInRight"
+
+#~ msgid "FadeInRightBig"
+#~ msgstr "FadeInRightBig"
+
+#~ msgid "FadeInUp"
+#~ msgstr "FadeInUp"
+
+#~ msgid "FadeInUpBig"
+#~ msgstr "FadeInUpBig"
+
+#~ msgid "Flip"
+#~ msgstr "Фліп"
+
+#~ msgid "FlipInX"
+#~ msgstr "FlipInX"
+
+#~ msgid "FlipInY"
+#~ msgstr "FlipInY"
+
+#~ msgid "RotateIn"
+#~ msgstr "RotateIn"
+
+#~ msgid "RotateInDownLeft"
+#~ msgstr "RotateInDownLeft"
+
+#~ msgid "RotateInDownRight"
+#~ msgstr "RotateInDownRight"
+
+#~ msgid "RotateInUpLeft"
+#~ msgstr "RotateInUpLeft"
+
+#~ msgid "RotateInUpRight"
+#~ msgstr "RotateInUpRight"
+
+#~ msgid "ZoomIn"
+#~ msgstr "Збільшувати"
+
+#~ msgid "ZoomInDown"
+#~ msgstr "ZoomInDown"
+
+#~ msgid "ZoomInLeft"
+#~ msgstr "ZoomInLeft"
+
+#~ msgid "ZoomInRight"
+#~ msgstr "ZoomInRight"
+
+#~ msgid "ZoomInUp"
+#~ msgstr "ZoomInUp"
+
+#~ msgid "LightSpeedOut"
+#~ msgstr "LightSpeedOut"
+
+#~ msgid "RollOut"
+#~ msgstr "Впровадження"
+
+#~ msgid "BounceOut"
+#~ msgstr "BounceOut"
+
+#~ msgid "BounceOutDown"
+#~ msgstr "BounceOutDown"
+
+#~ msgid "BounceOutLeft"
+#~ msgstr "BounceOutLeft"
+
+#~ msgid "BounceOutRight"
+#~ msgstr "BounceOutRight"
+
+#~ msgid "BounceOutUp"
+#~ msgstr "BounceOutUp"
+
+#~ msgid "FadeOut"
+#~ msgstr "Вицвітати"
+
+#~ msgid "FadeOutDown"
+#~ msgstr "FadeOutDown"
+
+#~ msgid "FadeOutDownBig"
+#~ msgstr "FadeOutDownBig"
+
+#~ msgid "FadeOutLeft"
+#~ msgstr "FadeOutLeft"
+
+#~ msgid "FadeOutLeftBig"
+#~ msgstr "FadeOutLeftBig"
+
+#~ msgid "FadeOutRight"
+#~ msgstr "FadeOutRight"
+
+#~ msgid "FadeOutRightBig"
+#~ msgstr "FadeOutRightBig"
+
+#~ msgid "FadeOutUp"
+#~ msgstr "FadeOutUp"
+
+#~ msgid "FadeOutUpBig"
+#~ msgstr "FadeOutUpBig"
+
+#~ msgid "FlipOutX"
+#~ msgstr "FlipOutX"
+
+#~ msgid "FlipOutY"
+#~ msgstr "FlipOutY"
+
+#~ msgid "RotateOut"
+#~ msgstr "RotateOut"
+
+#~ msgid "RotateOutDownLeft"
+#~ msgstr "RotateOutDownLeft"
+
+#~ msgid "RotateOutDownRight"
+#~ msgstr "RotateOutDownRight"
+
+#~ msgid "RotateOutUpLeft"
+#~ msgstr "RotateOutUpLeft"
+
+#~ msgid "RotateOutUpRight"
+#~ msgstr "RotateOutUpRight"
+
+#~ msgid "ZoomOut"
+#~ msgstr "Зменшення"
+
+#~ msgid "ZoomOutDown"
+#~ msgstr "ZoomOutDown"
+
+#~ msgid "ZoomOutLeft"
+#~ msgstr "ZoomOutLeft"
+
+#~ msgid "ZoomOutRight"
+#~ msgstr "ZoomOutRight"
+
+#~ msgid "ZoomOutUp"
+#~ msgstr "ZoomOutUp"
+
+#~ msgid "Top"
+#~ msgstr "Топ"
+
+#~ msgid "Bottom"
+#~ msgstr "Дно"
+
+#~ msgid "This section allows you to add/edit post slider."
+#~ msgstr "У цьому розділі можна додавати / редагувати пост повзунок."
+
+#~ msgid "Slider Title:"
+#~ msgstr "Слайдер Назва:"
+
+#~ msgid "Save"
+#~ msgstr "Зберегти"
+
+#~ msgid "Apply"
+#~ msgstr "Застосовувати"
+
+#~ msgid "Save as Copy"
+#~ msgstr "Зберегти як Copy"
+
+#~ msgid "Cancel"
+#~ msgstr "Скасувати"
+
+#~ msgid "Reset Settings"
+#~ msgstr "Скинути налаштування"
+
+#~ msgid "Settings"
+#~ msgstr "Налаштування"
+
+#~ msgid "Global"
+#~ msgstr "Глобальний"
+
+#~ msgid "Carousel"
+#~ msgstr "Карусель"
+
+#~ msgid "Dynamic post"
+#~ msgstr "Динамічний повідомлення"
+
+#~ msgid "Navigation"
+#~ msgstr "Навігація"
+
+#~ msgid "Bullets"
+#~ msgstr "Кулі"
+
+#~ msgid "Filmstrip"
+#~ msgstr "Діафільм"
+
+#~ msgid "Timer bar"
+#~ msgstr "Бар Таймер"
+
+#~ msgid "CSS"
+#~ msgstr "CSS"
+
+#~ msgid "Dimensions:"
+#~ msgstr "Розміри:"
+
+#~ msgid "Maximum width and height for slider."
+#~ msgstr "Максимальна ширина і висота для слайдера."
+
+#~ msgid "Full width:"
+#~ msgstr "Повна ширина:"
+
+#~ msgid "Yes"
+#~ msgstr "Так"
+
+#~ msgid "No"
+#~ msgstr "Немає"
+
+#~ msgid "Ratio"
+#~ msgstr "Співвідношення"
+
+#~ msgid ""
+#~ "The image will stretch to the page width, taking the height based on "
+#~ "dimensions ratio."
+#~ msgstr ""
+#~ "Зображення буде розтягуватися по ширині сторінки, приймаючи висоту, "
+#~ "засновану на співвідношенні розмірів."
+
+#~ msgid "Background fit:"
+#~ msgstr "Фон підходять:"
+
+#~ msgid "Cover"
+#~ msgstr "Кришка"
+
+#~ msgid "Fill"
+#~ msgstr "Заповнити"
+
+#~ msgid "Contain"
+#~ msgstr "Утримувати"
+
+#~ msgid "Smart Crop"
+#~ msgstr "смарт Рослинництво"
+
+#~ msgid "Crop Image Position"
+#~ msgstr "Обрізати зображення установки"
+
+#~ msgid "Align:"
+#~ msgstr "Зіставте:"
+
+#~ msgid "Set the alignment of the slider."
+#~ msgstr "Встановіть вирівнювання слайдера."
+
+#~ msgid "Effect:"
+#~ msgstr "Ефект:"
+
+#~ msgid ""
+#~ "Select the effect which will be applied when shifting from one slider to "
+#~ "another."
+#~ msgstr ""
+#~ "Виберіть ефект, який буде застосований при переході від однієї до іншої "
+#~ "слайдер."
+
+#~ msgid "Effect duration:"
+#~ msgstr "Тривалість ефекту:"
+
+#~ msgid "Define the time for the effect."
+#~ msgstr "Визначте час для ефекту."
+
+#~ msgid "Parallax Effect:"
+#~ msgstr "Паралакс Ефект:"
+
+#~ msgid ""
+#~ "The direction of the movement, as well as the layer moving pace depend on "
+#~ "the z-index value."
+#~ msgstr ""
+#~ "Напрямок руху, а також шар переміщення темп залежить від величини Z-"
+#~ "індекс."
+
+#~ msgid "Autoplay:"
+#~ msgstr "Автоматичне відтворення:"
+
+#~ msgid "Choose whether to autoplay the sliders or not."
+#~ msgstr "Виберіть, чи потрібно автозапуску повзунки чи ні."
+
+#~ msgid "Time Interval:"
+#~ msgstr "Проміжок часу:"
+
+#~ msgid "sec."
+#~ msgstr "сек."
+
+#~ msgid ""
+#~ "Set the time interval for the change of the sliders when autoplay is on."
+#~ msgstr ""
+#~ "Встановіть інтервал часу для зміни повзунків, коли автозапуску включена."
+
+#~ msgid "Stop on hover:"
+#~ msgstr "Зупинка на режимі висіння:"
+
+#~ msgid "The option works when autoplay is on."
+#~ msgstr "Опція працює, коли автозапуску включена."
+
+#~ msgid "Shuffle:"
+#~ msgstr "Перемішати:"
+
+#~ msgid ""
+#~ "Choose whether to have the slides change in a random manner or to keep "
+#~ "the original sequence."
+#~ msgstr ""
+#~ "Виберіть, чи потрібно мати слайди змінити випадковим чином або зберегти "
+#~ "вихідну послідовність."
+
+#~ msgid "Start with slide:"
+#~ msgstr "Почніть з гіркою:"
+
+#~ msgid ""
+#~ "The slider will start with the specified slide. You can use the value 0 "
+#~ "for random."
+#~ msgstr ""
+#~ "Слайдер почнеться з зазначеного слайда. Ви можете використовувати "
+#~ "значення 0 для випадкового."
+
+#~ msgid "Music:"
+#~ msgstr "Музика:"
+
+#~ msgid ""
+#~ "Choose whether to have music/audio track playback with the slider or not."
+#~ msgstr ""
+#~ "Виберіть, чи потрібно мати відтворення музики / аудіо доріжки за "
+#~ "допомогою повзунка чи ні."
+
+#~ msgid "Music url:"
+#~ msgstr "Музика URL:"
+
+#~ msgid "Only .aac,.m4a,.f4a,.mp3,.ogg,.oga formats are supported."
+#~ msgstr "Тільки .aac, .m4a, .mp3, .f4a, .ogg, формати .oga підтримуються."
+
+#~ msgid "Smart Load:"
+#~ msgstr "Смарт навантаження:"
+
+#~ msgid ""
+#~ "Choose to have faster load for the first few images and process the rest "
+#~ "meanwhile."
+#~ msgstr ""
+#~ "Виберіть, щоб швидше навантаження протягом перших кількох зображень і "
+#~ "обробляти інші тим часом."
+
+#~ msgid "Background color:"
+#~ msgstr "Колір фону:"
+
+#~ msgid "Transparency value must be between 0 to 100."
+#~ msgstr "Прозорість значення має бути між 0 і 100."
+
+#~ msgid "Border:"
+#~ msgstr "Кордон:"
+
+#~ msgid "Set the border width, type and the color."
+#~ msgstr "Встановіть ширину кордону, тип і колір."
+
+#~ msgid "Border radius:"
+#~ msgstr "Радіус кордону:"
+
+#~ msgid "Use CSS type values."
+#~ msgstr "Використовуйте значення типу CSS."
+
+#~ msgid "Margin:"
+#~ msgstr "Маржа:"
+
+#~ msgid "Set a margin for the slider."
+#~ msgstr "Встановіть запас для слайдера."
+
+#~ msgid "Shadow:"
+#~ msgstr "Тінь:"
+
+#~ msgid "Use CSS type values (e.g. 10px 10px 5px #888888)."
+#~ msgstr "Значення типу використання CSS (наприклад 10px 10px 5px # 888888)."
+
+#~ msgid "Right click protection:"
+#~ msgstr "Правова охорона натисніть:"
+
+#~ msgid "Disable image right click possibility."
+#~ msgstr "Відключити образ правою кнопкою миші можливість."
+
+#~ msgid "Layer out on next:"
+#~ msgstr "Шар на наступний:"
+
+#~ msgid ""
+#~ "Choose whether to have the layer effect out regardless of the timing "
+#~ "between the hit to the next slider or skip the effect out and get to the "
+#~ "next image."
+#~ msgstr ""
+#~ "Виберіть, чи потрібно мати ефект шару з незалежно від часу між попаданням "
+#~ "на наступний повзунок або пропустити ефект і отримати до наступного "
+#~ "зображення."
+
+#~ msgid "Text layer character limit:"
+#~ msgstr "Текст межа шар характер:"
+
+#~ msgid ""
+#~ "This will limit the number of characters for post content displayed as a "
+#~ "text layer."
+#~ msgstr ""
+#~ "Це дозволить обмежити кількість символів, що відображаються після змісту "
+#~ "у текстовому шарі."
+
+#~ msgid "Add font-family:"
+#~ msgstr "Додати шрифт сім'ю:"
+
+#~ msgid "The added font family will appear in the drop-down list of fonts."
+#~ msgstr "Додана сімейство шрифтів з'явиться в списку шрифтів."
+
+#~ msgid "Published:"
+#~ msgstr "Опубліковано:"
+
+#~ msgid "Choose whether to publish the mentioned slider or not."
+#~ msgstr "Виберіть, чи потрібно публікувати зазначену повзунок чи ні."
+
+#~ msgid "Carousel:"
+#~ msgstr "Карусель:"
+
+#~ msgid ""
+#~ "If you activate this feature the effects you had chosen in Global "
+#~ "settings for your slider will not play."
+#~ msgstr ""
+#~ "Якщо ви дозволите цю функцію ефекти, які ви вибрали в глобальній "
+#~ "налаштування для вашого слайдер не буде відігравати."
+
+#~ msgid "Number of images for carousel:"
+#~ msgstr "Кількість зображень для каруселі:"
+
+#~ msgid "Carousel image ratio:"
+#~ msgstr "Карусель співвідношення зображення:"
+
+#~ msgid "The value must be between 0 and 1."
+#~ msgstr "Значення має бути між 0 і 1."
+
+#~ msgid "Container fit:"
+#~ msgstr "Контейнер підходить:"
+
+#~ msgid "Fixed width:"
+#~ msgstr "Виправлена ​​ширина:"
+
+#~ msgid "Next / Previous buttons:"
+#~ msgstr "Наступна / Попередня кнопок:"
+
+#~ msgid "Choose whether to display Previous and Next buttons or not."
+#~ msgstr "Виберіть, чи відображати кнопки Назад і Вперед чи ні."
+
+#~ msgid "Show Navigation buttons:"
+#~ msgstr "Показати кнопки навігації:"
+
+#~ msgid "On hover"
+#~ msgstr "При наведенні курсору"
+
+#~ msgid "Always"
+#~ msgstr "Завжди"
+
+#~ msgid ""
+#~ "Select between the option of always displaying the navigation buttons or "
+#~ "only when hovered."
+#~ msgstr ""
+#~ "Вибір між можливістю відображення завжди кнопок навігації або тільки при "
+#~ "наведенні."
+
+#~ msgid "Image for Next / Previous buttons:"
+#~ msgstr "Зображення на наступний / попередній кнопки:"
+
+#~ msgid "Default"
+#~ msgstr "Дефолт"
+
+#~ msgid "Custom"
+#~ msgstr "Звичай"
+
+#~ msgid "Styled"
+#~ msgstr "Стилізований"
+
+#~ msgid ""
+#~ "Choose whether to use default navigation buttons or to upload custom ones."
+#~ msgstr ""
+#~ "Виберіть, чи слід використовувати кнопки навігації за замовчуванням або "
+#~ "завантажити нові користувача режими."
+
+#~ msgid "Next / Previous buttons style:"
+#~ msgstr "Наступна / Попередня Кнопки в стилі:"
+
+#~ msgid ""
+#~ "Choose the style of the button you prefer to have as navigation buttons."
+#~ msgstr ""
+#~ "Виберіть стиль кнопки ви віддаєте перевагу мати в якості кнопок навігації."
+
+#~ msgid "Upload buttons images:"
+#~ msgstr "Завантажити кнопки зображення:"
+
+#~ msgid "Previous Button"
+#~ msgstr "Попередня Кнопка"
+
+#~ msgid "Previous Button Hover"
+#~ msgstr "Попередня Hover Button"
+
+#~ msgid "Next Button"
+#~ msgstr "Наступна кнопка"
+
+#~ msgid "Next Button Hover"
+#~ msgstr "Наступна кнопка Ховер"
+
+#~ msgid "Reverse"
+#~ msgstr "Зворотний"
+
+#~ msgid " is not a directory."
+#~ msgstr "не є каталогом."
+
+#~ msgid "Choose buttons:"
+#~ msgstr "Виберіть кнопки:"
+
+#~ msgid "Choose group"
+#~ msgstr "Виберіть групу"
+
+#~ msgid "Choose color"
+#~ msgstr "Виберіть колір"
+
+#~ msgid "Choose the type and color for navigation button images."
+#~ msgstr "Виберіть тип і колір кнопки навігації зображень."
+
+#~ msgid "Next / Previous buttons size:"
+#~ msgstr "Наступна / Попередня розмір кнопки:"
+
+#~ msgid "Set the size for the next / previous buttons."
+#~ msgstr "Встановіть розмір для наступної / попередньої кнопки."
+
+#~ msgid "Play / Pause button:"
+#~ msgstr "Грати кнопку Старт / Пауза:"
+
+#~ msgid "Choose whether to display Play and Pause buttons or not."
+#~ msgstr "Виберіть, чи відображати відтворення і паузи кнопки чи ні."
+
+#~ msgid "Image for Play / Pause buttons:"
+#~ msgstr "Зображення для кнопок Play / Pause:"
+
+#~ msgid ""
+#~ "Choose whether to use default play/pause buttons or to upload custom ones."
+#~ msgstr ""
+#~ "Виберіть, чи слід використовувати за замовчуванням гру / пауза кнопки або "
+#~ "завантажити нові користувача режими."
+
+#~ msgid "Play / Pause buttons style:"
+#~ msgstr "Відтворення / Пауза кнопки стиль:"
+
+#~ msgid "Play Button"
+#~ msgstr "Кнопка відтворення"
+
+#~ msgid "Play Button Hover"
+#~ msgstr "Грати Кнопка Наведіть"
+
+#~ msgid "Pause Button"
+#~ msgstr "Пауза"
+
+#~ msgid "Pause Button Hover"
+#~ msgstr "Пауза Кнопка Ховер"
+
+#~ msgid "Play / Pause button size:"
+#~ msgstr "Грати розмір / Пауза:"
+
+#~ msgid "Set the size for the play / pause buttons."
+#~ msgstr "Встановіть розмір для кнопок Play / Pause."
+
+#~ msgid "Buttons color:"
+#~ msgstr "Кнопки колір:"
+
+#~ msgid "Select a color for the navigation buttons."
+#~ msgstr "Виберіть колір для навігаційних кнопок."
+
+#~ msgid "Hover color:"
+#~ msgstr "Наведіть колір:"
+
+#~ msgid "Select a hover color for the navigation buttons."
+#~ msgstr "Виберіть колір при наведенні на кнопки навігації."
+
+#~ msgid ""
+#~ "Select the type, size and the color of border for the navigation buttons."
+#~ msgstr "Виберіть тип, розмір і колір кордону для навігаційних кнопок."
+
+#~ msgid "Enable bullets:"
+#~ msgstr "Включити кулі:"
+
+#~ msgid "Choose whether to have navigation bullets or not."
+#~ msgstr "Виберіть, чи потрібно мати навігаційні кулі чи ні."
+
+#~ msgid "Position:"
+#~ msgstr "Посада:"
+
+#~ msgid "Select the position for the navigation bullets."
+#~ msgstr "Виберіть положення для навігації куль."
+
+#~ msgid "Image for bullets:"
+#~ msgstr "Зображення для куль:"
+
+#~ msgid "Choose whether to use default or styled bullets."
+#~ msgstr ""
+#~ "Виберіть, чи слід використовувати за замовчуванням або оформлені кулі."
+
+#~ msgid "Bullet style:"
+#~ msgstr "Куля стиль:"
+
+#~ msgid "Choose the style for the bullets."
+#~ msgstr "Виберіть стиль для куль."
+
+#~ msgid "Active Button"
+#~ msgstr "Активний Кнопка"
+
+#~ msgid "Deactive Button"
+#~ msgstr "Вимкнена Кнопка"
+
+#~ msgid "Chooes buttons:"
+#~ msgstr "Chooes кнопки:"
+
+#~ msgid "Choose the type and color for the bullets."
+#~ msgstr "Виберіть тип і колір для куль."
+
+#~ msgid "Size:"
+#~ msgstr "Розмір:"
+
+#~ msgid "Define the size of the navigation bullets."
+#~ msgstr "Визначте розмір навігаційних куль."
+
+#~ msgid "Color:"
+#~ msgstr "Колір:"
+
+#~ msgid "Select the color for the navigation bullets."
+#~ msgstr "Виберіть колір для навігації куль."
+
+#~ msgid "Active color:"
+#~ msgstr "Активний колір:"
+
+#~ msgid ""
+#~ "Select the color for the bullet, which is currently displaying a "
+#~ "corresponding image."
+#~ msgstr ""
+#~ "Виберіть колір для кулі, яка в даний час відображаються на відповідне "
+#~ "зображення."
+
+#~ msgid "Set the margin for the navigation bullets in pixels."
+#~ msgstr "Встановіть поле для навігаційних куль в пікселях."
+
+#~ msgid "Enable filmstrip:"
+#~ msgstr "Включити діафільм:"
+
+#~ msgid ""
+#~ "Choose whether to have thumbnails of the slides displayed as a filmstrip "
+#~ "or not."
+#~ msgstr ""
+#~ "Виберіть, чи потрібно мати ескізи відображаються у вигляді кінострічки чи "
+#~ "ні гірок."
+
+#~ msgid "Set the position of the filmstrip."
+#~ msgstr "Встановіть положення кінострічки."
+
+#~ msgid "Thumbnail dimensions:"
+#~ msgstr "Мініатюра Розмір:"
+
+#~ msgid "Define the maximum width and heigth of the filmstrip thumbnails."
+#~ msgstr "Визначити максимальну ширину і висота системи кінострічки мініатюр."
+
+#~ msgid "Select the background color for the filmstrip."
+#~ msgstr "Виберіть колір фону для кінострічки."
+
+#~ msgid "Thumbnail margin:"
+#~ msgstr "Мініатюра маржа:"
+
+#~ msgid "Set the margin for the thumbnails."
+#~ msgstr "Встановіть поле для мініатюр."
+
+#~ msgid "Active border:"
+#~ msgstr "Активний кордону:"
+
+#~ msgid ""
+#~ "The thumbnail for the currently displayed image will have a border. You "
+#~ "can set its size, type and color."
+#~ msgstr ""
+#~ "Мініатюра для поточного зображення матиме кордон. Ви можете встановити "
+#~ "його розмір, тип і колір."
+
+#~ msgid "Deactive transparency:"
+#~ msgstr "Вимкнена прозорість:"
+
+#~ msgid ""
+#~ "You can set a transparency level for the inactive filmstrip items which "
+#~ "must be between 0 to 100.."
+#~ msgstr ""
+#~ "Ви можете встановити рівень прозорості для неактивних пунктів "
+#~ "кінострічки, які повинні бути від 0 до 100 .."
+
+#~ msgid "Enable timer bar:"
+#~ msgstr "Включити бар таймера:"
+
+#~ msgid ""
+#~ "You can add a bar displaying the timing left to switching to the next "
+#~ "slide on autoplay."
+#~ msgstr ""
+#~ "Ви можете додати панель відображення термінів зліва перемикання до "
+#~ "наступного слайда на автозапуск."
+
+#~ msgid "Type:"
+#~ msgstr "Тип:"
+
+#~ msgid "Line top"
+#~ msgstr "Лінія зверху"
+
+#~ msgid "Line Bottom"
+#~ msgstr "Лінія Нижня"
+
+#~ msgid "Circle top left"
+#~ msgstr "Коло верхній лівий"
+
+#~ msgid "Circle top right"
+#~ msgstr "Коло верхній правий"
+
+#~ msgid "Circle bottom left"
+#~ msgstr "Коло внизу зліва"
+
+#~ msgid "Circle bottom right"
+#~ msgstr "Коло нижній правий"
+
+#~ msgid "Choose the type of the timer bar to be used within the slider."
+#~ msgstr "Виберіть тип бару таймера буде використовуватися в слайдер."
+
+#~ msgid "Define the height of the timer bar."
+#~ msgstr "Визначте висоту панелі таймера."
+
+#~ msgid "Css:"
+#~ msgstr "CSS:"
+
+#~ msgid "Add custom CSS to apply custom changes to the slider."
+#~ msgstr ""
+#~ "Додати користувальницький CSS, щоб застосувати зміни користувача в "
+#~ "слайдер."
+
+#~ msgid "Post slider type:"
+#~ msgstr "Повідомлення типу слайдер:"
+
+#~ msgid "Static posts slides"
+#~ msgstr "Статичні повідомлень гірки"
+
+#~ msgid "Dynamic posts slides"
+#~ msgstr "Динамічні повідомлень гірки"
+
+#~ msgid "Add Posts"
+#~ msgstr "Додати повідомлення"
+
+#~ msgid "Drag to re-order"
+#~ msgstr "Перетягніть змінити порядок"
+
+#~ msgid "Edit Slide"
+#~ msgstr "редагувати Презентація"
+
+#~ msgid "Edit Image"
+#~ msgstr "Редагування зображення"
+
+#~ msgid "Edit Post"
+#~ msgstr "редагувати повідомлення"
+
+#~ msgid "Duplicate slide"
+#~ msgstr "Дублювати слайд"
+
+#~ msgid "Remove Slide"
+#~ msgstr "видалити слайд"
+
+#~ msgid "Delete slide"
+#~ msgstr "Видалити слайд"
+
+#~ msgid "Edit Slides"
+#~ msgstr "редагувати Слайди"
+
+#~ msgid "Add/Edit Post"
+#~ msgstr "Додати / Редагувати повідомлення"
+
+#~ msgid "Add Post"
+#~ msgstr "Додати повідомлення"
+
+#~ msgid ""
+#~ "You can set a redirection link, so that the user will get to the "
+#~ "mentioned location upon hitting the slide.Use http:// and https:// for "
+#~ "external links."
+#~ msgstr ""
+#~ "Ви можете встановити посилання перенаправлення, так що користувач отримає "
+#~ "у згаданому місці при ударі об HTTP slide.Use: // і HTTPS: // для "
+#~ "зовнішніх посилань"
+
+#~ msgid "Link the slide to:"
+#~ msgstr "Посилання на слайд, щоб:"
+
+#~ msgid "Open in a new window"
+#~ msgstr "Відкрити у новому вікні"
+
+#~ msgid "Layers"
+#~ msgstr "шари"
+
+#~ msgid "Add Text Layer"
+#~ msgstr "Додати текстовий шар"
+
+#~ msgid "Add Image Layer"
+#~ msgstr "Додати зображення шар"
+
+#~ msgid "Add Social Button Layer"
+#~ msgstr "Додати Соціальний шар з кнопкою"
+
+#~ msgid "Add Hotspot Layer"
+#~ msgstr "Додати Hotspot шар"
+
+#~ msgid "Layer title"
+#~ msgstr "Назва шару"
+
+#~ msgid "Delete layer"
+#~ msgstr "Видалити шар"
+
+#~ msgid "Duplicate layer"
+#~ msgstr "Duplicate Layer"
+
+#~ msgid "z-index"
+#~ msgstr "г-індекс"
+
+#~ msgid "Text:"
+#~ msgstr "Текст:"
+
+#~ msgid "Leave blank to keep the initial width and height."
+#~ msgstr "Залиште порожнім, щоб зберегти первісну ширину і висоту."
+
+#~ msgid "Break-word"
+#~ msgstr "Перерва слово"
+
+#~ msgid "In addition you can drag and drop the layer to a desired position."
+#~ msgstr "Крім того, ви можете перетягнути шар в потрібне положення."
+
+#~ msgid "Font family:"
+#~ msgstr "Сімейство шрифтів:"
+
+#~ msgid "Google fonts"
+#~ msgstr "шрифти Google"
+
+#~ msgid "Font weight:"
+#~ msgstr "Вага шрифту:"
+
+#~ msgid "Use http:// and https:// for external links."
+#~ msgstr "Використовувати HTTP: // і HTTPS: // для зовнішніх посилань."
+
+#~ msgid "Link:"
+#~ msgstr "Посилання:"
+
+#~ msgid "Effect In:"
+#~ msgstr "Вплив В:"
+
+#~ msgid "Start"
+#~ msgstr "Початок"
+
+#~ msgid "Effect"
+#~ msgstr "Ефект"
+
+#~ msgid "Duration"
+#~ msgstr "Тривалість"
+
+#~ msgid "Effect Out:"
+#~ msgstr "Ефект З:"
+
+#~ msgid "Padding:"
+#~ msgstr "Заповнення:"
+
+#~ msgid "Background Color:"
+#~ msgstr "Колір фону:"
+
+#~ msgid "Value must be between 0 to 100."
+#~ msgstr "Значення має бути в діапазоні від 0 до 100."
+
+#~ msgid "Transparent:"
+#~ msgstr "Прозорий:"
+
+#~ msgid "Radius:"
+#~ msgstr "Радіус дії:"
+
+#~ msgid "Set width and height of the image."
+#~ msgstr "Набір ширина і висота зображення."
+
+#~ msgid "Scale"
+#~ msgstr "Шкала"
+
+#~ msgid "Set the HTML attribute specified in the IMG tag."
+#~ msgstr "Встановіть HTML атрибут, зазначений в тезі IMG."
+
+#~ msgid "Alt:"
+#~ msgstr "Alt:"
+
+#~ msgid "Social button:"
+#~ msgstr "Соціальна кнопка:"
+
+#~ msgid "Hover Color:"
+#~ msgstr "Наведіть Колір:"
+
+#~ msgid "Hotspot text position:"
+#~ msgstr "Точка текст становище:"
+
+#~ msgid "Hotspot Width:"
+#~ msgstr "Точка Ширина:"
+
+#~ msgid "Hotspot Background Color:"
+#~ msgstr "Точка Колір фону:"
+
+#~ msgid "Hotspot Border:"
+#~ msgstr "Точка кордону:"
+
+#~ msgid "Hotspot Radius:"
+#~ msgstr "Точка Радіус:"
+
+#~ msgid "Period of posts to display:"
+#~ msgstr "Період повідомлень для відображення:"
+
+#~ msgid ""
+#~ "Set the time for the posts, e.g. if set it to 24 hours it will display "
+#~ "the posts added within the last 24 hours."
+#~ msgstr ""
+#~ "Встановіть час на посади, наприклад якщо встановити його на 24 годин він "
+#~ "буде показувати повідомлення додані протягом останніх 24 годин."
+
+#~ msgid "Number of posts:"
+#~ msgstr "Кількість повідомлень:"
+
+#~ msgid ""
+#~ "Set the number of posts which will be displayed as slides. If set to 0 or "
+#~ "left empty it will display all posts."
+#~ msgstr ""
+#~ "Встановіть кількість повідомлень, які будуть відображатися як слайди. "
+#~ "Якщо встановлено в 0 або порожніми він буде відображати всі повідомлення."
+
+#~ msgid "Choose post type:"
+#~ msgstr "Виберіть тип запису:"
+
+#~ msgid ""
+#~ "Select the type for the dynamic posts, e.g. standard or custom post types."
+#~ msgstr ""
+#~ "Виберіть тип для динамічних повідомлень, наприклад стандартні або "
+#~ "користувальницькі поштові типів."
+
+#~ msgid "Author:"
+#~ msgstr "Автор:"
+
+#~ msgid "Select the author whose posts will be displayed within the slider."
+#~ msgstr "Виберіть автора, чиї повідомлення будуть відображатися в слайдер."
+
+#~ msgid "Sort posts by:"
+#~ msgstr "Сортувати повідомлення по:"
+
+#~ msgid ""
+#~ "Select the option which will be used as a sorting basis while displaying "
+#~ "posts."
+#~ msgstr ""
+#~ "Виберіть варіант, який буде використовуватися в якості сортувального "
+#~ "основі при відображенні повідомлення."
+
+#~ msgid "Order posts by:"
+#~ msgstr "Замовити повідомлення:"
+
+#~ msgid "Ascending"
+#~ msgstr "Висхідний"
+
+#~ msgid "Descending"
+#~ msgstr "Спадний"
+
+#~ msgid "Set the ordering sequence for the posts- ascending or descending."
+#~ msgstr ""
+#~ "Установіть послідовність впорядкування для posts- зростанням або за "
+#~ "спаданням."
+
+#~ msgid "Post taxonomies:"
+#~ msgstr "Подати таксономії:"
+
+#~ msgid "Slide"
+#~ msgstr "слайд"
+
+#~ msgid ""
+#~ "The post content will not be displayed on back end. You will see a sample "
+#~ "background, where you can add standard and dynamic-post layers, which "
+#~ "will be displayed over the posts on front end."
+#~ msgstr ""
+#~ "Зміст посаду не буде відображатися на задньому кінці. Ви побачите зразок "
+#~ "фону, де ви можете додати стандартні і динамічної пост шари, які будуть "
+#~ "відображатися протягом постів на передньому кінці."
+
+#~ msgid "Enter absolute url of the image."
+#~ msgstr "Введіть абсолютний адресу зображення."
+
+#~ msgid "Uninstall Post Slider by 10Web"
+#~ msgstr "Видалення повідомлення слайдер WD"
+
+#~ msgid ""
+#~ "Deactivating Post Slider by 10Web plugin does not remove any data that may have "
+#~ "been created. To completely remove this plugin, you can uninstall it here."
+#~ msgstr ""
+#~ "Відключення Повідомлення слайдер WD доданок не видаляє дані, які можуть "
+#~ "бути створені. Щоб повністю видалити цей плагін, ви можете видалити його "
+#~ "тут."
+
+#~ msgid "WARNING:"
+#~ msgstr "УВАГА:"
+
+#~ msgid ""
+#~ "Once uninstalled, this can't be undone. You should use a Database Backup "
+#~ "plugin of WordPress to back up all the data first."
+#~ msgstr ""
+#~ "Після того, як видалили, це не може бути скасовано. Ви повинні "
+#~ "використовувати резервну копію бази даних WordPress плагін з резервної "
+#~ "копії всіх даних в першу чергу."
+
+#~ msgid "The following Database Tables will be deleted:"
+#~ msgstr "У таблицях баз даних будуть видалені:"
+
+#~ msgid "Database Tables"
+#~ msgstr "Таблиці бази даних"
+
+#~ msgid "Do you really want to uninstall Post Slider by 10Web plugin?"
+#~ msgstr "Ви дійсно хочете видалити повідомлення слайдер WD плагін?"
+
+#~ msgid "UNINSTALL"
+#~ msgstr "ВИДАЛЕННЯ"
+
+#~ msgid ""
+#~ "You are About to Uninstall Post Slider by 10Web plugin from WordPress.This "
+#~ "Action Is Not Reversible."
+#~ msgstr ""
+#~ "Ви збираєтеся видалити повідомлення слайдер WD плагін від WordPress.This "
+#~ "дію необоротно."
+
+#~ msgid "The following Database Tables successfully deleted:"
+#~ msgstr "У таблицях баз даних успішно видалений:"
+
+#~ msgid "The folder was successfully deleted."
+#~ msgstr "Папка була успішно видалена."
+
+#~ msgid "An error occurred when deleting the folder."
+#~ msgstr "Сталася помилка при видаленні папки."
+
+#~ msgid "Click Here"
+#~ msgstr "Натисніть тут"
+
+#~ msgid ""
+#~ "To Finish the Uninstallation and Post Slider by 10Web will be Deactivated "
+#~ "Automatically."
+#~ msgstr ""
+#~ "Ві збіраєтеся ВИДАЛИТИ ПОВІДОМЛЕННЯ слайдер WD плагін від WordPress.This "
+#~ "дію необоротних."
+
+#~ msgid "Posts"
+#~ msgstr "Повідомлень"
+
+#~ msgid "Add to slider"
+#~ msgstr "Додати в повзунок"
+
+#~ msgid "Post type:"
+#~ msgstr "Повідомлення Тип:"
+
+#~ msgid "You can include only published posts with featured image."
+#~ msgstr ""
+#~ "Ви можете включати тільки опубліковані повідомлення з ознаками зображення."
+
+#~ msgid "Featured image"
+#~ msgstr "Показаний зображення"
+
+#~ msgid "Title"
+#~ msgstr "Назва"
+
+#~ msgid "Type"
+#~ msgstr "Тип"
+
+#~ msgid "Date created"
+#~ msgstr "Дата створення"
+
+#~ msgid "Date modified"
+#~ msgstr "Дата поновлення"
+
+#~ msgid "Post Slider by 10Web"
+#~ msgstr "Post Slider by 10Web"
+
+#~ msgid "Select a Slider"
+#~ msgstr "Виберіть Slider"
+
+#~ msgid "- Select a Slider -"
+#~ msgstr "- Виберіть Slider -"
+
+#~ msgid "Title:"
+#~ msgstr "Назва:"
+
+#~ msgid "Select Slider"
+#~ msgstr "Виберіть Slider"
+
+#~ msgid "Item Succesfully Saved."
+#~ msgstr "Пункт Успішно Збережені."
+
+#~ msgid "You can't delete default theme"
+#~ msgstr "Ви не можете видаляти тему за замовчуванням"
+
+#~ msgid "The item is successfully set as default."
+#~ msgstr "Товар успішно встановлений за замовчуванням."
+
+#~ msgid "Options Succesfully Saved."
+#~ msgstr "Опції Успішно Збережені."
+
+#~ msgid "Ordering Succesfully Saved."
+#~ msgstr "Замовлення успішно Збережено."
+
+#~ msgid "A term with the name provided already exists."
+#~ msgstr "Термін з ім\\'ям умови вже існує."
+
+#~ msgid "Name field is required."
+#~ msgstr "Ім\\'я поля не потрібно."
+
+#~ msgid "The slug must be unique."
+#~ msgstr "Куля повинна бути унікальною."
+
+#~ msgid "You must set watermark type."
+#~ msgstr "Ви повинні встановити водяний знак типу."
+
+#~ msgid "Settings Succesfully Reset."
+#~ msgstr "Налаштування Успішно Скидання."
+
+#~ msgid "Search"
+#~ msgstr "Пошуковий"
+
+#~ msgid "Reset"
+#~ msgstr "Скидання"
+
+#~ msgid "item"
+#~ msgstr "пункт"
+
+#~ msgid "Sliders"
+#~ msgstr "Повзунки"
+
+#~ msgid "Featured Plugins"
+#~ msgstr "Показаний Плагіни"
+
+#~ msgid "Featured Themes"
+#~ msgstr "Популярні теми"
+
+#~ msgid "Uninstall"
+#~ msgstr "Видалення"
+
+#~ msgid "Items Succesfully Saved."
+#~ msgstr "Товари Успішно Збережені."
+
+#~ msgid "Changes made in this table should be saved."
+#~ msgstr "Зміни, зроблені в цій таблиці повинні бути збережені."
+
+#~ msgid "Show order column"
+#~ msgstr "Колонка Показати замовлення"
+
+#~ msgid "You must select an image file."
+#~ msgstr "Ви повинні вибрати файл зображення."
+
+#~ msgid "You must select an audio file."
+#~ msgstr "Ви повинні вибрати звуковий файл."
+
+#~ msgid ""
+#~ "You can set a redirection link, so that the user will get to the "
+#~ "mentioned location upon hitting the slide.<br />Use http:// and https:// "
+#~ "for external links."
+#~ msgstr ""
+#~ "Ви можете встановити посилання перенаправлення, так що користувач отримає "
+#~ "у згаданому місці при ударі слайд <br /> Використання HTTP :. // І "
+#~ "HTTPS: // для зовнішніх посилань."
+
+#~ msgid "Are you sure you want to delete this layer ?"
+#~ msgstr "Ви впевнені, що хочете видалити цей шар?"
+
+#~ msgid "Sample text"
+#~ msgstr "Приклад тексту"
+
+#~ msgid "Scale:"
+#~ msgstr "Масштаб:"
+
+#~ msgid "Effect in:"
+#~ msgstr "Ефект:"
+
+#~ msgid "Effect out:"
+#~ msgstr "Ефект з:"
+
+#~ msgid "Break-word:"
+#~ msgstr "Перерва слово:"
+
+#~ msgid "There are no postes in this slider."
+#~ msgstr "Там немає Postes в цьому слайдера."
+
+#~ msgid "There are no slides in this slider."
+#~ msgstr "Там немає слайди в цьому слайдера."
+
+#~ msgid "Slider post type:"
+#~ msgstr "Слайдер Тип Повідомлення:"
+
+#~ msgid "Dynamic post slides"
+#~ msgstr "Динамічні розмістити слайди"
+
+#~ msgid "Static post slides"
+#~ msgstr "Статичні розмістити слайди"
+
+#~ msgid "Uninstall Post Slider WordPress"
+#~ msgstr "Видалення Post Slider WordPress"
+
+#~ msgid ""
+#~ "Deactivating Post Slider WordPress plugin does not remove any data that "
+#~ "may have been created. To completely remove this plugin, you can "
+#~ "uninstall it here."
+#~ msgstr ""
+#~ "Відключення Post Slider WordPress доданок не видаляє дані, які можуть "
+#~ "бути створені. Щоб повністю видалити цей плагін, ви можете видалити його "
+#~ "тут."
+
+#~ msgid "Do you really want to uninstall Post Slider WordPress plugin?"
+#~ msgstr "Ви дійсно хочете видалити Post Slider WordPress плагін?"
+
+#~ msgid ""
+#~ "You are About to Uninstall Post Slider WordPress plugin from WordPress."
+#~ "This Action Is Not Reversible."
+#~ msgstr ""
+#~ "Ви збираєтеся видалити Post Slider WordPress  плагін від WordPress.This "
+#~ "дію необоротно .."
+
+#~ msgid ""
+#~ "To Finish the Uninstallation and Post Slider WordPress will be "
+#~ "Deactivated Automatically."
+#~ msgstr ""
+#~ "Для закінчення видалення і повідомлення слайдер WordPress буде "
+#~ "автоматично відключається."
+
+#~ msgid "Post Slider WordPress"
+#~ msgstr "Post Slider WordPress"
+
+#~ msgid "Enable Dynamic Posts:"
+#~ msgstr "Включити Динамічні повідомлення:"
+
+#~ msgid ""
+#~ "Enable this option if you want to display standard posts as slides with "
+#~ "their featured images."
+#~ msgstr ""
+#~ "Ввімкніть цю опцію, якщо ви хочете, щоб відобразити стандартні "
+#~ "повідомлення, як слайди з їх ознаками зображень."
+
+#~ msgid "Added Post Autoupdate Interval:"
+#~ msgstr "Додано повідомлення Автопоновлення Інтервал:"
+
+#~ msgid "Set the number of posts which will be displayed as slides."
+#~ msgstr ""
+#~ "Встановіть кількість повідомлень, які будуть відображатися як слайди."
+
+#~ msgid "Layer Word Count:"
+#~ msgstr "Шар слів:"
+
+#~ msgid ""
+#~ "This will limit the number of words for post content displayed as a layer."
+#~ msgstr ""
+#~ "Це дозволить обмежити кількість слів для поштового відображуване як шар."
+
+#~ msgid ""
+#~ "You are About to Uninstall Post Slider WordPress plugin from WordPress."
+#~ "\\nThis Action Is Not Reversible."
+#~ msgstr ""
+#~ "Ви збираєтеся видалити повідомлення слайдер WordPress плагін від "
+#~ "WordPress. \\\\\\\\ NThis дію необоротно."
+
+#~ msgid "You can include only posts with featured image."
+#~ msgstr ""
+#~ "Ви можете включати в себе тільки повідомлення з ознаками зображення."
+
+#~ msgid "Remove"
+#~ msgstr "Видаляти"
+
+#~ msgid "Choose file (use .zip format)."
+#~ msgstr "Виберіть файл (формат .zip використання)."
+
+#~ msgid "Еffect duration:"
+#~ msgstr "Еffect тривалість:"
+
+#~ msgid "Select the author who’s posts will be displayed within the slider."
+#~ msgstr "Виберіть автора, який Повідомлення будуть відображатися в слайдер."
+
+#~ msgid "Slider name:"
+#~ msgstr "Ім\\'я слайдер:"
+
+#~ msgid "Add slide"
+#~ msgstr "Додати слайд"
+
+#~ msgid ""
+#~ "You can set a redirection link, so that the user will get to the "
+#~ "mentioned location upon hitting the slide."
+#~ msgstr ""
+#~ "Ви можете встановити посилання перенаправлення, так що користувач отримає "
+#~ "у згаданому місці при ударі слайд."
+
+#~ msgid "Rob"
+#~ msgstr "Грабувати"

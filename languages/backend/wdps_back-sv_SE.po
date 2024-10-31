@@ -1,0 +1,3247 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: post-slider-wd\n"
+"POT-Creation-Date: 2017-04-19 18:33+0400\n"
+"PO-Revision-Date: 2017-04-20 11:57+0400\n"
+"Last-Translator: admin < vahram@gmail.com >\n"
+"Language-Team: \n"
+"Language: sv\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 2.0.1\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: ../..\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: admin/controllers/WDPSControllerSliders_wdps.php:90
+#: admin/views/WDPSViewSliders_wdps.php:2719
+msgid "All"
+msgstr "Allt"
+
+#: admin/controllers/WDPSControllerSliders_wdps.php:629
+#: framework/WDW_PS_Library.php:141
+msgid "Changes must be saved."
+msgstr "Förändringar måste sparas."
+
+#: admin/controllers/WDPSControllerSliders_wdps.php:648
+#: admin/controllers/WDPSControllerSliders_wdps.php:922
+#: admin/controllers/WDPSControllerSliders_wdps.php:964
+#: admin/controllers/WDPSControllerSliders_wdps.php:1006
+#: framework/WDW_PS_Library.php:75 post-slider-wd.php:394
+msgid "You must select at least one item."
+msgstr "Du måste välja minst ett objekt."
+
+#: admin/controllers/WDPSControllerSliders_wdps.php:652
+msgid "Items Succesfully Duplicated."
+msgstr "Objekt Att lyckas dubbleras."
+
+#: admin/controllers/WDPSControllerSliders_wdps.php:893
+#: framework/WDW_PS_Library.php:57
+msgid "Item Succesfully Deleted."
+msgstr "Punkt Att lyckas utgår."
+
+#: admin/controllers/WDPSControllerSliders_wdps.php:896
+#: admin/controllers/WDPSControllerSliders_wdps.php:935
+#: admin/controllers/WDPSControllerSliders_wdps.php:977
+#: framework/WDW_PS_Library.php:51
+msgid "Error. Please install plugin again."
+msgstr "Fel. Installera plugin igen."
+
+#: admin/controllers/WDPSControllerSliders_wdps.php:918
+#: framework/WDW_PS_Library.php:69
+msgid "Items Succesfully Deleted."
+msgstr "Objekt Att lyckas utgå."
+
+#: admin/controllers/WDPSControllerSliders_wdps.php:932
+#: framework/WDW_PS_Library.php:93
+msgid "Item Succesfully Published."
+msgstr "Punkt Att lyckas År."
+
+#: admin/controllers/WDPSControllerSliders_wdps.php:960
+#: framework/WDW_PS_Library.php:99
+msgid "Items Succesfully Published."
+msgstr "Poster Att lyckas År."
+
+#: admin/controllers/WDPSControllerSliders_wdps.php:974
+#: framework/WDW_PS_Library.php:105
+msgid "Item Succesfully Unpublished."
+msgstr "Punkt Att lyckas opublicerade."
+
+#: admin/controllers/WDPSControllerSliders_wdps.php:1002
+#: framework/WDW_PS_Library.php:111
+msgid "Items Succesfully Unpublished."
+msgstr "Objekt Att lyckas opublicerade."
+
+#: admin/views/WDPSViewGoptions_wdps.php:37 post-slider-wd.php:32
+msgid "Global Options"
+msgstr "globala alternativ"
+
+#: admin/views/WDPSViewGoptions_wdps.php:42
+#: admin/views/WDPSViewSliders_wdps.php:545
+msgid "Save"
+msgstr "Spara"
+
+#: admin/views/WDPSViewGoptions_wdps.php:49
+msgid "Include scripts/styles only on necessary pages"
+msgstr "Inkludera scripts / stilar endast på nödvändiga sidor"
+
+#: admin/views/WDPSViewGoptions_wdps.php:51
+#: admin/views/WDPSViewSliders_wdps.php:637
+#: admin/views/WDPSViewSliders_wdps.php:661
+#: admin/views/WDPSViewSliders_wdps.php:705
+#: admin/views/WDPSViewSliders_wdps.php:752
+#: admin/views/WDPSViewSliders_wdps.php:760
+#: admin/views/WDPSViewSliders_wdps.php:768
+#: admin/views/WDPSViewSliders_wdps.php:776
+#: admin/views/WDPSViewSliders_wdps.php:791
+#: admin/views/WDPSViewSliders_wdps.php:799
+#: admin/views/WDPSViewSliders_wdps.php:814
+#: admin/views/WDPSViewSliders_wdps.php:832
+#: admin/views/WDPSViewSliders_wdps.php:888
+#: admin/views/WDPSViewSliders_wdps.php:898
+#: admin/views/WDPSViewSliders_wdps.php:913
+#: admin/views/WDPSViewSliders_wdps.php:932
+#: admin/views/WDPSViewSliders_wdps.php:955
+#: admin/views/WDPSViewSliders_wdps.php:999
+#: admin/views/WDPSViewSliders_wdps.php:1009
+#: admin/views/WDPSViewSliders_wdps.php:1019
+#: admin/views/WDPSViewSliders_wdps.php:1029
+#: admin/views/WDPSViewSliders_wdps.php:1039
+#: admin/views/WDPSViewSliders_wdps.php:1253
+#: admin/views/WDPSViewSliders_wdps.php:1492
+#: admin/views/WDPSViewSliders_wdps.php:1510
+#: admin/views/WDPSViewSliders_wdps.php:1773
+#: admin/views/WDPSViewSliders_wdps.php:1845
+#: admin/views/WDPSViewSliders_wdps.php:2117
+#: admin/views/WDPSViewSliders_wdps.php:2352
+#: admin/views/WDPSViewSliders_wdps.php:2498
+#: admin/views/WDPSViewSliders_wdps.php:2896
+#: admin/views/WDPSViewSliders_wdps.php:3119
+#: admin/views/WDPSViewSliders_wdps.php:3266
+#: admin/views/WDPSViewUninstall_wdps.php:71 post-slider-wd.php:350
+#: wd/includes/overview.php:233 wd/includes/overview.php:240
+#: wd/includes/overview.php:247 wd/includes/overview.php:257
+msgid "Yes"
+msgstr "Ja"
+
+#: admin/views/WDPSViewGoptions_wdps.php:52
+#: admin/views/WDPSViewSliders_wdps.php:638
+#: admin/views/WDPSViewSliders_wdps.php:662
+#: admin/views/WDPSViewSliders_wdps.php:706
+#: admin/views/WDPSViewSliders_wdps.php:753
+#: admin/views/WDPSViewSliders_wdps.php:761
+#: admin/views/WDPSViewSliders_wdps.php:769
+#: admin/views/WDPSViewSliders_wdps.php:777
+#: admin/views/WDPSViewSliders_wdps.php:792
+#: admin/views/WDPSViewSliders_wdps.php:800
+#: admin/views/WDPSViewSliders_wdps.php:815
+#: admin/views/WDPSViewSliders_wdps.php:833
+#: admin/views/WDPSViewSliders_wdps.php:889
+#: admin/views/WDPSViewSliders_wdps.php:899
+#: admin/views/WDPSViewSliders_wdps.php:914
+#: admin/views/WDPSViewSliders_wdps.php:933
+#: admin/views/WDPSViewSliders_wdps.php:956
+#: admin/views/WDPSViewSliders_wdps.php:1000
+#: admin/views/WDPSViewSliders_wdps.php:1010
+#: admin/views/WDPSViewSliders_wdps.php:1020
+#: admin/views/WDPSViewSliders_wdps.php:1030
+#: admin/views/WDPSViewSliders_wdps.php:1040
+#: admin/views/WDPSViewSliders_wdps.php:1254
+#: admin/views/WDPSViewSliders_wdps.php:1493
+#: admin/views/WDPSViewSliders_wdps.php:1511
+#: admin/views/WDPSViewSliders_wdps.php:1774
+#: admin/views/WDPSViewSliders_wdps.php:1846
+#: admin/views/WDPSViewSliders_wdps.php:2118
+#: admin/views/WDPSViewSliders_wdps.php:2354
+#: admin/views/WDPSViewSliders_wdps.php:2500
+#: admin/views/WDPSViewSliders_wdps.php:2897
+#: admin/views/WDPSViewSliders_wdps.php:3121
+#: admin/views/WDPSViewSliders_wdps.php:3268 post-slider-wd.php:351
+#: wd/includes/overview.php:235 wd/includes/overview.php:242
+#: wd/includes/overview.php:249 wd/includes/overview.php:252
+#: wd/includes/overview.php:257
+msgid "No"
+msgstr "Nej"
+
+#: admin/views/WDPSViewGoptions_wdps.php:53
+msgid ""
+"Helps to decrease page load time. Might not function with some custom themes."
+msgstr ""
+"Bidrar till att minska sidan laddningstid. Kanske inte fungerar med vissa "
+"anpassade teman."
+
+#: admin/views/WDPSViewGoptions_wdps.php:57
+msgid "Add font-family:"
+msgstr "Lägg till font-family:"
+
+#: admin/views/WDPSViewGoptions_wdps.php:62
+msgid "Add to Google fonts"
+msgstr "Lägg till Google teckensnitt"
+
+#: admin/views/WDPSViewGoptions_wdps.php:63
+msgid "Add font-family"
+msgstr "Lägg till font-family"
+
+#: admin/views/WDPSViewGoptions_wdps.php:64
+msgid "The added font family will appear in the drop-down list of fonts."
+msgstr "Den tillsatta Typsnitt visas i listrutan över typsnitt."
+
+#: admin/views/WDPSViewSliders_wdps.php:34
+msgid "Post Sliders"
+msgstr "Post Sliders"
+
+#: admin/views/WDPSViewSliders_wdps.php:36
+msgid "Publish"
+msgstr "Publish"
+
+#: admin/views/WDPSViewSliders_wdps.php:37
+msgid "Unpublish"
+msgstr "Avpublicera"
+
+#: admin/views/WDPSViewSliders_wdps.php:38
+#: admin/views/WDPSViewSliders_wdps.php:177
+#: admin/views/WDPSViewSliders_wdps.php:2043 post-slider-wd.php:382
+msgid "Delete"
+msgstr "Radera"
+
+#: admin/views/WDPSViewSliders_wdps.php:39
+msgid "Duplicate"
+msgstr "Duplicate"
+
+#: admin/views/WDPSViewSliders_wdps.php:74
+msgid "Add new"
+msgstr "Lägg till ny"
+
+#: admin/views/WDPSViewSliders_wdps.php:76
+#: admin/views/WDPSViewSliders_wdps.php:112 post-slider-wd.php:403
+msgid "Name"
+msgstr "Namn"
+
+#: admin/views/WDPSViewSliders_wdps.php:80
+msgid "Select All"
+msgstr "Välj alla"
+
+#: admin/views/WDPSViewSliders_wdps.php:83
+msgid "Bulk Actions"
+msgstr "Massåtgärder"
+
+#: admin/views/WDPSViewSliders_wdps.php:92
+#: admin/views/WDPSViewSliders_wdps.php:548
+msgid "Apply"
+msgstr "Tillämpa"
+
+#: admin/views/WDPSViewSliders_wdps.php:106
+msgid "Slider"
+msgstr "Slider"
+
+#: admin/views/WDPSViewSliders_wdps.php:115
+#: admin/views/WDPSViewSliders_wdps.php:578
+#: admin/views/WDPSViewSliders_wdps.php:1910
+#: admin/views/WDPSViewSliders_wdps.php:1939
+msgid "Slides"
+msgstr "Objektglas"
+
+#: admin/views/WDPSViewSliders_wdps.php:116
+msgid "Shortcode"
+msgstr "Kortkod"
+
+#: admin/views/WDPSViewSliders_wdps.php:117
+msgid "PHP function"
+msgstr "PHP-funktionen"
+
+#: admin/views/WDPSViewSliders_wdps.php:123
+msgid "Published"
+msgstr "Publicerad"
+
+#: admin/views/WDPSViewSliders_wdps.php:126
+msgid "Action"
+msgstr "Handling"
+
+#: admin/views/WDPSViewSliders_wdps.php:153
+#: admin/views/WDPSViewSliders_wdps.php:167
+msgid "Edit"
+msgstr "Redigera"
+
+#: admin/views/WDPSViewSliders_wdps.php:177 post-slider-wd.php:389
+msgid "Do you want to delete selected items?"
+msgstr "Vill du ta bort markerade objekt?"
+
+#: admin/views/WDPSViewSliders_wdps.php:210
+msgid "Edit post slider "
+msgstr "Redigera inlägg reglaget "
+
+#: admin/views/WDPSViewSliders_wdps.php:210
+msgid "Create new post slider"
+msgstr "Skapa nytt inlägg reglaget"
+
+#: admin/views/WDPSViewSliders_wdps.php:233
+msgid "Publishing Date"
+msgstr "Utgivningsdatum"
+
+#: admin/views/WDPSViewSliders_wdps.php:234
+msgid "Modification Date"
+msgstr "Ändringsdatum"
+
+#: admin/views/WDPSViewSliders_wdps.php:235
+msgid "Number of Comments"
+msgstr "Antal kommentarer"
+
+#: admin/views/WDPSViewSliders_wdps.php:236
+msgid "Post Title"
+msgstr "Inläggsrubrik"
+
+#: admin/views/WDPSViewSliders_wdps.php:237
+msgid "Menu Order"
+msgstr "Meny Beställ"
+
+#: admin/views/WDPSViewSliders_wdps.php:238
+#: admin/views/WDPSViewWDPSPosts.php:173
+msgid "Author"
+msgstr "Författare"
+
+#: admin/views/WDPSViewSliders_wdps.php:239
+#: admin/views/WDPSViewSliders_wdps.php:327
+msgid "Random"
+msgstr "Slumpmässig"
+
+#: admin/views/WDPSViewSliders_wdps.php:251
+#: admin/views/WDPSViewSliders_wdps.php:2647
+#: admin/views/WDPSViewWDPSPosts.php:131
+msgid "Select"
+msgstr "Välja"
+
+#: admin/views/WDPSViewSliders_wdps.php:252
+msgid "Hour"
+msgstr "Timme"
+
+#: admin/views/WDPSViewSliders_wdps.php:253
+msgid "Day"
+msgstr "Dag"
+
+#: admin/views/WDPSViewSliders_wdps.php:254
+msgid "Week"
+msgstr "Vecka"
+
+#: admin/views/WDPSViewSliders_wdps.php:255
+msgid "Month"
+msgstr "Månad"
+
+#: admin/views/WDPSViewSliders_wdps.php:258
+#: admin/views/WDPSViewSliders_wdps.php:427
+#: admin/views/WDPSViewSliders_wdps.php:455
+#: admin/views/WDPSViewSliders_wdps.php:1785 post-slider-wd.php:330
+#: post-slider-wd.php:399
+msgid "Left"
+msgstr "Vänster"
+
+#: admin/views/WDPSViewSliders_wdps.php:259
+#: admin/views/WDPSViewSliders_wdps.php:456 post-slider-wd.php:398
+msgid "Center"
+msgstr "Centrum"
+
+#: admin/views/WDPSViewSliders_wdps.php:260
+#: admin/views/WDPSViewSliders_wdps.php:429
+#: admin/views/WDPSViewSliders_wdps.php:457
+#: admin/views/WDPSViewSliders_wdps.php:1783 post-slider-wd.php:331
+#: post-slider-wd.php:400
+msgid "Right"
+msgstr "Höger"
+
+#: admin/views/WDPSViewSliders_wdps.php:263
+#: admin/views/WDPSViewSliders_wdps.php:301
+#: admin/views/WDPSViewSliders_wdps.php:332
+#: admin/views/WDPSViewSliders_wdps.php:379 post-slider-wd.php:273
+msgid "None"
+msgstr "Inget"
+
+#: admin/views/WDPSViewSliders_wdps.php:264 post-slider-wd.php:315
+msgid "Solid"
+msgstr "Massiv"
+
+#: admin/views/WDPSViewSliders_wdps.php:265 post-slider-wd.php:316
+msgid "Dotted"
+msgstr "Prickad"
+
+#: admin/views/WDPSViewSliders_wdps.php:266 post-slider-wd.php:317
+msgid "Dashed"
+msgstr "Streckad"
+
+#: admin/views/WDPSViewSliders_wdps.php:267
+#: admin/views/WDPSViewSliders_wdps.php:276 post-slider-wd.php:318
+msgid "Double"
+msgstr "Dubbel"
+
+#: admin/views/WDPSViewSliders_wdps.php:268 post-slider-wd.php:319
+msgid "Groove"
+msgstr "Groove"
+
+#: admin/views/WDPSViewSliders_wdps.php:269 post-slider-wd.php:320
+msgid "Ridge"
+msgstr "Ås"
+
+#: admin/views/WDPSViewSliders_wdps.php:270 post-slider-wd.php:321
+msgid "Inset"
+msgstr "Inset"
+
+#: admin/views/WDPSViewSliders_wdps.php:271 post-slider-wd.php:322
+msgid "Outset"
+msgstr "Början"
+
+#: admin/views/WDPSViewSliders_wdps.php:274
+msgid "Chevron"
+msgstr "Chevron"
+
+#: admin/views/WDPSViewSliders_wdps.php:275
+msgid "Angle"
+msgstr "Vinkel"
+
+#: admin/views/WDPSViewSliders_wdps.php:279
+msgid "Circle O"
+msgstr "Cirkel O"
+
+#: admin/views/WDPSViewSliders_wdps.php:280
+msgid "Circle"
+msgstr "Cirkel"
+
+#: admin/views/WDPSViewSliders_wdps.php:281
+msgid "Minus"
+msgstr "Minus"
+
+#: admin/views/WDPSViewSliders_wdps.php:282
+msgid "Square O"
+msgstr "Fyrkantig O"
+
+#: admin/views/WDPSViewSliders_wdps.php:283
+msgid "Square"
+msgstr "Square"
+
+#: admin/views/WDPSViewSliders_wdps.php:288 post-slider-wd.php:312
+msgid "Lighter"
+msgstr "Ljusare"
+
+#: admin/views/WDPSViewSliders_wdps.php:289 post-slider-wd.php:313
+msgid "Normal"
+msgstr "Normal"
+
+#: admin/views/WDPSViewSliders_wdps.php:290 post-slider-wd.php:314
+msgid "Bold"
+msgstr "Fet"
+
+#: admin/views/WDPSViewSliders_wdps.php:293 post-slider-wd.php:323
+msgid "Facebook"
+msgstr "Facebook"
+
+#: admin/views/WDPSViewSliders_wdps.php:294 post-slider-wd.php:324
+msgid "Google+"
+msgstr "Google+"
+
+#: admin/views/WDPSViewSliders_wdps.php:295 post-slider-wd.php:325
+msgid "Twitter"
+msgstr "Twitter"
+
+#: admin/views/WDPSViewSliders_wdps.php:296 post-slider-wd.php:326
+msgid "Pinterest"
+msgstr "Pinterest"
+
+#: admin/views/WDPSViewSliders_wdps.php:297 post-slider-wd.php:327
+msgid "Tumblr"
+msgstr "Tumblr"
+
+#: admin/views/WDPSViewSliders_wdps.php:302
+msgid "Fade"
+msgstr "Fade"
+
+#: admin/views/WDPSViewSliders_wdps.php:303
+msgid "Slice Horizontal"
+msgstr "Skiva Horisontell"
+
+#: admin/views/WDPSViewSliders_wdps.php:304
+msgid "Fan"
+msgstr "Fläkt"
+
+#: admin/views/WDPSViewSliders_wdps.php:305
+msgid "Scale In"
+msgstr "Skala I"
+
+#: admin/views/WDPSViewSliders_wdps.php:306
+msgid "Zoom Fade"
+msgstr "Zoom Fade"
+
+#: admin/views/WDPSViewSliders_wdps.php:307
+msgid "Parallel Slide Horizontal"
+msgstr "Parallell Slide Horisontell"
+
+#: admin/views/WDPSViewSliders_wdps.php:308
+msgid "Parallel Slide Vertical"
+msgstr "Parallell Slide Vertikal"
+
+#: admin/views/WDPSViewSliders_wdps.php:309
+msgid "Slice 3D Horizontal"
+msgstr "Skiva 3D Horisontell"
+
+#: admin/views/WDPSViewSliders_wdps.php:310
+msgid "Slice 3D Vertical"
+msgstr "Skiva 3D Vertikal"
+
+#: admin/views/WDPSViewSliders_wdps.php:311
+msgid "Slice 3D Horizontal Random"
+msgstr "Skiva 3D Horisontell Slumpmässig"
+
+#: admin/views/WDPSViewSliders_wdps.php:312
+msgid "Slice 3D Vertical Random"
+msgstr "Skiva 3D Vertikal Slumpmässig"
+
+#: admin/views/WDPSViewSliders_wdps.php:313
+msgid "Blind"
+msgstr "Blind"
+
+#: admin/views/WDPSViewSliders_wdps.php:314
+msgid "Tiles"
+msgstr "Plattor"
+
+#: admin/views/WDPSViewSliders_wdps.php:315
+msgid "Block Scale Random"
+msgstr "Block Scale Slumpmässig"
+
+#: admin/views/WDPSViewSliders_wdps.php:316
+msgid "Cube Horizontal"
+msgstr "Kub Horisontell"
+
+#: admin/views/WDPSViewSliders_wdps.php:317
+msgid "Cube Vertical"
+msgstr "Kub Vertikal"
+
+#: admin/views/WDPSViewSliders_wdps.php:318
+msgid "Cube Random"
+msgstr "Kub Slumpmässig"
+
+#: admin/views/WDPSViewSliders_wdps.php:319
+msgid "Slice Vertical"
+msgstr "Skiva Vertikal"
+
+#: admin/views/WDPSViewSliders_wdps.php:320
+msgid "Slide Horizontal"
+msgstr "Slide Horisontell"
+
+#: admin/views/WDPSViewSliders_wdps.php:321
+msgid "Slide Vertical"
+msgstr "Slide Vertikal"
+
+#: admin/views/WDPSViewSliders_wdps.php:322
+msgid "Scale Out"
+msgstr "Skala ut"
+
+#: admin/views/WDPSViewSliders_wdps.php:323
+msgid "Block Scale"
+msgstr "Block Scale"
+
+#: admin/views/WDPSViewSliders_wdps.php:324
+msgid "Kaleidoscope"
+msgstr "Kaleidoscope"
+
+#: admin/views/WDPSViewSliders_wdps.php:325
+msgid "Blind Horizontal"
+msgstr "Blind Horisontell"
+
+#: admin/views/WDPSViewSliders_wdps.php:326
+msgid "Blind Vertical"
+msgstr "Blind Vertikal"
+
+#: admin/views/WDPSViewSliders_wdps.php:328
+msgid "3D Random"
+msgstr "3D Slumpmässig"
+
+#: admin/views/WDPSViewSliders_wdps.php:333
+#: admin/views/WDPSViewSliders_wdps.php:380 post-slider-wd.php:274
+msgid "Bounce"
+msgstr "Bounce"
+
+#: admin/views/WDPSViewSliders_wdps.php:334
+#: admin/views/WDPSViewSliders_wdps.php:381 post-slider-wd.php:280
+#: post-slider-wd.php:434
+msgid "Tada"
+msgstr "Tada"
+
+#: admin/views/WDPSViewSliders_wdps.php:335 post-slider-wd.php:286
+msgid "BounceInDown"
+msgstr "BounceInDown"
+
+#: admin/views/WDPSViewSliders_wdps.php:336 post-slider-wd.php:293
+msgid "FadeInLeft"
+msgstr "FadeInLeft"
+
+#: admin/views/WDPSViewSliders_wdps.php:337
+#: admin/views/WDPSViewSliders_wdps.php:384 post-slider-wd.php:275
+msgid "Flash"
+msgstr "Blixt"
+
+#: admin/views/WDPSViewSliders_wdps.php:338
+#: admin/views/WDPSViewSliders_wdps.php:385 post-slider-wd.php:276
+msgid "Pulse"
+msgstr "Puls"
+
+#: admin/views/WDPSViewSliders_wdps.php:339
+#: admin/views/WDPSViewSliders_wdps.php:386 post-slider-wd.php:277
+msgid "RubberBand"
+msgstr "Gummiband"
+
+#: admin/views/WDPSViewSliders_wdps.php:340
+#: admin/views/WDPSViewSliders_wdps.php:387 post-slider-wd.php:278
+msgid "Shake"
+msgstr "Skaka"
+
+#: admin/views/WDPSViewSliders_wdps.php:341
+#: admin/views/WDPSViewSliders_wdps.php:388 post-slider-wd.php:279
+msgid "Swing"
+msgstr "Swing"
+
+#: admin/views/WDPSViewSliders_wdps.php:342
+#: admin/views/WDPSViewSliders_wdps.php:389 post-slider-wd.php:281
+msgid "Wobble"
+msgstr "Wobble"
+
+#: admin/views/WDPSViewSliders_wdps.php:343
+#: admin/views/WDPSViewSliders_wdps.php:390 post-slider-wd.php:282
+msgid "Hinge"
+msgstr "Gångjärn"
+
+#: admin/views/WDPSViewSliders_wdps.php:345 post-slider-wd.php:283
+msgid "LightSpeedIn"
+msgstr "LightSpeedIn"
+
+#: admin/views/WDPSViewSliders_wdps.php:346 post-slider-wd.php:284
+msgid "RollIn"
+msgstr "Rollin"
+
+#: admin/views/WDPSViewSliders_wdps.php:348 post-slider-wd.php:285
+msgid "BounceIn"
+msgstr "BounceIn"
+
+#: admin/views/WDPSViewSliders_wdps.php:349 post-slider-wd.php:287
+msgid "BounceInLeft"
+msgstr "BounceInLeft"
+
+#: admin/views/WDPSViewSliders_wdps.php:350 post-slider-wd.php:288
+msgid "BounceInRight"
+msgstr "BounceInRight"
+
+#: admin/views/WDPSViewSliders_wdps.php:351 post-slider-wd.php:289
+msgid "BounceInUp"
+msgstr "BounceInUp"
+
+#: admin/views/WDPSViewSliders_wdps.php:353 post-slider-wd.php:290
+msgid "FadeIn"
+msgstr "Tona in"
+
+#: admin/views/WDPSViewSliders_wdps.php:354 post-slider-wd.php:291
+msgid "FadeInDown"
+msgstr "FadeInDown"
+
+#: admin/views/WDPSViewSliders_wdps.php:355 post-slider-wd.php:292
+msgid "FadeInDownBig"
+msgstr "FadeInDownBig"
+
+#: admin/views/WDPSViewSliders_wdps.php:356 post-slider-wd.php:294
+msgid "FadeInLeftBig"
+msgstr "FadeInLeftBig"
+
+#: admin/views/WDPSViewSliders_wdps.php:357 post-slider-wd.php:295
+msgid "FadeInRight"
+msgstr "FadeInRight"
+
+#: admin/views/WDPSViewSliders_wdps.php:358 post-slider-wd.php:296
+msgid "FadeInRightBig"
+msgstr "FadeInRightBig"
+
+#: admin/views/WDPSViewSliders_wdps.php:359 post-slider-wd.php:297
+msgid "FadeInUp"
+msgstr "FadeInUp"
+
+#: admin/views/WDPSViewSliders_wdps.php:360 post-slider-wd.php:298
+msgid "FadeInUpBig"
+msgstr "FadeInUpBig"
+
+#: admin/views/WDPSViewSliders_wdps.php:362
+#: admin/views/WDPSViewSliders_wdps.php:409 post-slider-wd.php:299
+msgid "Flip"
+msgstr "Flip"
+
+#: admin/views/WDPSViewSliders_wdps.php:363 post-slider-wd.php:300
+msgid "FlipInX"
+msgstr "FlipInX"
+
+#: admin/views/WDPSViewSliders_wdps.php:364 post-slider-wd.php:301
+msgid "FlipInY"
+msgstr "FlipInY"
+
+#: admin/views/WDPSViewSliders_wdps.php:366 post-slider-wd.php:302
+msgid "RotateIn"
+msgstr "RotateIn"
+
+#: admin/views/WDPSViewSliders_wdps.php:367 post-slider-wd.php:303
+msgid "RotateInDownLeft"
+msgstr "RotateInDownLeft"
+
+#: admin/views/WDPSViewSliders_wdps.php:368 post-slider-wd.php:304
+msgid "RotateInDownRight"
+msgstr "RotateInDownRight"
+
+#: admin/views/WDPSViewSliders_wdps.php:369 post-slider-wd.php:305
+msgid "RotateInUpLeft"
+msgstr "RotateInUpLeft"
+
+#: admin/views/WDPSViewSliders_wdps.php:370 post-slider-wd.php:306
+msgid "RotateInUpRight"
+msgstr "RotateInUpRight"
+
+#: admin/views/WDPSViewSliders_wdps.php:372 post-slider-wd.php:307
+msgid "ZoomIn"
+msgstr "Zooma in"
+
+#: admin/views/WDPSViewSliders_wdps.php:373 post-slider-wd.php:308
+msgid "ZoomInDown"
+msgstr "ZoomInDown"
+
+#: admin/views/WDPSViewSliders_wdps.php:374 post-slider-wd.php:309
+msgid "ZoomInLeft"
+msgstr "ZoomInLeft"
+
+#: admin/views/WDPSViewSliders_wdps.php:375 post-slider-wd.php:310
+msgid "ZoomInRight"
+msgstr "ZoomInRight"
+
+#: admin/views/WDPSViewSliders_wdps.php:376 post-slider-wd.php:311
+msgid "ZoomInUp"
+msgstr "ZoomInUp"
+
+#: admin/views/WDPSViewSliders_wdps.php:382 post-slider-wd.php:412
+msgid "BounceOutUp"
+msgstr "BounceOutUp"
+
+#: admin/views/WDPSViewSliders_wdps.php:383 post-slider-wd.php:418
+msgid "FadeOutRight"
+msgstr "FadeOutRight"
+
+#: admin/views/WDPSViewSliders_wdps.php:392 post-slider-wd.php:406
+msgid "LightSpeedOut"
+msgstr "LightSpeedOut"
+
+#: admin/views/WDPSViewSliders_wdps.php:393 post-slider-wd.php:407
+msgid "RollOut"
+msgstr "Rulla ut"
+
+#: admin/views/WDPSViewSliders_wdps.php:395 post-slider-wd.php:408
+msgid "BounceOut"
+msgstr "BounceOut"
+
+#: admin/views/WDPSViewSliders_wdps.php:396 post-slider-wd.php:410
+msgid "BounceOutLeft"
+msgstr "BounceOutLeft"
+
+#: admin/views/WDPSViewSliders_wdps.php:397 post-slider-wd.php:411
+msgid "BounceOutRight"
+msgstr "BounceOutRight"
+
+#: admin/views/WDPSViewSliders_wdps.php:398 post-slider-wd.php:409
+#: post-slider-wd.php:435
+msgid "BounceOutDown"
+msgstr "BounceOutDown"
+
+#: admin/views/WDPSViewSliders_wdps.php:400 post-slider-wd.php:413
+msgid "FadeOut"
+msgstr "Tona ut"
+
+#: admin/views/WDPSViewSliders_wdps.php:401 post-slider-wd.php:414
+msgid "FadeOutDown"
+msgstr "FadeOutDown"
+
+#: admin/views/WDPSViewSliders_wdps.php:402 post-slider-wd.php:415
+msgid "FadeOutDownBig"
+msgstr "FadeOutDownBig"
+
+#: admin/views/WDPSViewSliders_wdps.php:403 post-slider-wd.php:417
+msgid "FadeOutLeftBig"
+msgstr "FadeOutLeftBig"
+
+#: admin/views/WDPSViewSliders_wdps.php:404 post-slider-wd.php:416
+#: post-slider-wd.php:436
+msgid "FadeOutLeft"
+msgstr "FadeOutLeft"
+
+#: admin/views/WDPSViewSliders_wdps.php:405 post-slider-wd.php:419
+msgid "FadeOutRightBig"
+msgstr "FadeOutRightBig"
+
+#: admin/views/WDPSViewSliders_wdps.php:406 post-slider-wd.php:420
+msgid "FadeOutUp"
+msgstr "FadeOutUp"
+
+#: admin/views/WDPSViewSliders_wdps.php:407 post-slider-wd.php:421
+msgid "FadeOutUpBig"
+msgstr "FadeOutUpBig"
+
+#: admin/views/WDPSViewSliders_wdps.php:410 post-slider-wd.php:422
+msgid "FlipOutX"
+msgstr "FlipOutX"
+
+#: admin/views/WDPSViewSliders_wdps.php:411 post-slider-wd.php:423
+msgid "FlipOutY"
+msgstr "FlipOutY"
+
+#: admin/views/WDPSViewSliders_wdps.php:413 post-slider-wd.php:424
+msgid "RotateOut"
+msgstr "RotateOut"
+
+#: admin/views/WDPSViewSliders_wdps.php:414 post-slider-wd.php:425
+msgid "RotateOutDownLeft"
+msgstr "RotateOutDownLeft"
+
+#: admin/views/WDPSViewSliders_wdps.php:415 post-slider-wd.php:426
+msgid "RotateOutDownRight"
+msgstr "RotateOutDownRight"
+
+#: admin/views/WDPSViewSliders_wdps.php:416 post-slider-wd.php:427
+msgid "RotateOutUpLeft"
+msgstr "RotateOutUpLeft"
+
+#: admin/views/WDPSViewSliders_wdps.php:417 post-slider-wd.php:428
+msgid "RotateOutUpRight"
+msgstr "RotateOutUpRight"
+
+#: admin/views/WDPSViewSliders_wdps.php:419 post-slider-wd.php:429
+msgid "ZoomOut"
+msgstr "Zooma ut"
+
+#: admin/views/WDPSViewSliders_wdps.php:420 post-slider-wd.php:430
+msgid "ZoomOutDown"
+msgstr "ZoomOutDown"
+
+#: admin/views/WDPSViewSliders_wdps.php:421 post-slider-wd.php:431
+msgid "ZoomOutLeft"
+msgstr "ZoomOutLeft"
+
+#: admin/views/WDPSViewSliders_wdps.php:422 post-slider-wd.php:432
+msgid "ZoomOutRight"
+msgstr "ZoomOutRight"
+
+#: admin/views/WDPSViewSliders_wdps.php:423 post-slider-wd.php:433
+msgid "ZoomOutUp"
+msgstr "ZoomOutUp"
+
+#: admin/views/WDPSViewSliders_wdps.php:426
+#: admin/views/WDPSViewSliders_wdps.php:1528
+#: admin/views/WDPSViewSliders_wdps.php:1782 post-slider-wd.php:328
+msgid "Top"
+msgstr "Topp"
+
+#: admin/views/WDPSViewSliders_wdps.php:428
+#: admin/views/WDPSViewSliders_wdps.php:1529
+#: admin/views/WDPSViewSliders_wdps.php:1784 post-slider-wd.php:329
+msgid "Bottom"
+msgstr "Botten"
+
+#: admin/views/WDPSViewSliders_wdps.php:435
+#: admin/views/WDPSViewSliders_wdps.php:445
+msgid "Some options are disabled in free version."
+msgstr "Vissa alternativ har inaktiverats i gratisversionen ."
+
+#: admin/views/WDPSViewSliders_wdps.php:437
+msgid "You can't edit the layer in free version."
+msgstr "Du kan inte redigera lagret i gratisversionen ."
+
+#: admin/views/WDPSViewSliders_wdps.php:438
+msgid "This option is disabled in free version."
+msgstr "Det här alternativet är inaktiverat i gratisversionen ."
+
+#: admin/views/WDPSViewSliders_wdps.php:540
+msgid "Slider Title:"
+msgstr "Slider Titel:"
+
+#: admin/views/WDPSViewSliders_wdps.php:541
+msgid "Slider title"
+msgstr "Slider titel"
+
+#: admin/views/WDPSViewSliders_wdps.php:555
+msgid "Save as Copy"
+msgstr "Spara som kopia"
+
+#: admin/views/WDPSViewSliders_wdps.php:559
+#: wd/templates/display_deactivation_popup.php:23
+msgid "Cancel"
+msgstr "Annullera"
+
+#: admin/views/WDPSViewSliders_wdps.php:573
+#: admin/views/WDPSViewSliders_wdps.php:1905
+msgid "Settings"
+msgstr "Inställningar"
+
+#: admin/views/WDPSViewSliders_wdps.php:590
+msgid "Global"
+msgstr "Globalt"
+
+#: admin/views/WDPSViewSliders_wdps.php:593 post-slider-wd.php:595
+msgid "Carousel"
+msgstr "Karusell"
+
+#: admin/views/WDPSViewSliders_wdps.php:596 post-slider-wd.php:599
+msgid "Navigation"
+msgstr "Navigering"
+
+#: admin/views/WDPSViewSliders_wdps.php:599 post-slider-wd.php:603
+msgid "Bullets"
+msgstr "Kulor"
+
+#: admin/views/WDPSViewSliders_wdps.php:602 post-slider-wd.php:607
+msgid "Filmstrip"
+msgstr "Bildbandet"
+
+#: admin/views/WDPSViewSliders_wdps.php:605
+msgid "Timer bar"
+msgstr "Timer bar"
+
+#: admin/views/WDPSViewSliders_wdps.php:608 post-slider-wd.php:615
+msgid "CSS"
+msgstr "CSS"
+
+#: admin/views/WDPSViewSliders_wdps.php:611
+msgid "Reset settings"
+msgstr "Återställ inställningar"
+
+#: admin/views/WDPSViewSliders_wdps.php:620
+#: admin/views/WDPSViewSliders_wdps.php:2231
+#: admin/views/WDPSViewSliders_wdps.php:3007 post-slider-wd.php:339
+msgid "Dimensions:"
+msgstr "Mått:"
+
+#: admin/views/WDPSViewSliders_wdps.php:624
+msgid "Maximum width and height for slider."
+msgstr "Maximal bredd och höjd för reglaget."
+
+#: admin/views/WDPSViewSliders_wdps.php:628
+msgid "Hide on small screens: "
+msgstr "Gömma sig på små skärmar:"
+
+#: admin/views/WDPSViewSliders_wdps.php:631
+msgid "Hide slider when resolution is smaller than"
+msgstr "Hide reglaget när upplösning är mindre än"
+
+#: admin/views/WDPSViewSliders_wdps.php:635
+msgid "Full width:"
+msgstr "Full bredd:"
+
+#: admin/views/WDPSViewSliders_wdps.php:639
+msgid "Ratio"
+msgstr "Förhållande"
+
+#: admin/views/WDPSViewSliders_wdps.php:640
+msgid ""
+"The image will stretch to the page width, taking the height based on "
+"dimensions ratio."
+msgstr ""
+"Bilden kommer att sträcka till sidan bredd med höjd baseras på dimensioner "
+"förhållande."
+
+#: admin/views/WDPSViewSliders_wdps.php:644
+msgid "Full width on small screens:"
+msgstr "Full bredd på små skärmar:"
+
+#: admin/views/WDPSViewSliders_wdps.php:647
+msgid "Full width slider when resolution is smaller than."
+msgstr "Full bredd reglaget när upplösning är mindre än."
+
+#: admin/views/WDPSViewSliders_wdps.php:651
+msgid "Background fit:"
+msgstr "Bakgrund fit:"
+
+#: admin/views/WDPSViewSliders_wdps.php:653
+msgid "Cover"
+msgstr "Skal"
+
+#: admin/views/WDPSViewSliders_wdps.php:654
+msgid "Fill"
+msgstr "Fyll"
+
+#: admin/views/WDPSViewSliders_wdps.php:655
+msgid "Contain"
+msgstr "Innehåller"
+
+#: admin/views/WDPSViewSliders_wdps.php:659
+msgid "Smart Crop:"
+msgstr "Smart Crop:"
+
+#: admin/views/WDPSViewSliders_wdps.php:668
+msgid "Crop Image Position:"
+msgstr "Beskär bildläge :"
+
+#: admin/views/WDPSViewSliders_wdps.php:693
+msgid "Static slides order direction:"
+msgstr "Statiska diabilder beställa riktning:"
+
+#: admin/views/WDPSViewSliders_wdps.php:695
+#: admin/views/WDPSViewSliders_wdps.php:2685
+msgid "Ascending"
+msgstr "Stigande"
+
+#: admin/views/WDPSViewSliders_wdps.php:696
+#: admin/views/WDPSViewSliders_wdps.php:2686
+msgid "Descending"
+msgstr "Fallande"
+
+#: admin/views/WDPSViewSliders_wdps.php:702
+msgid "Featured image"
+msgstr "Dagens bild"
+
+#: admin/views/WDPSViewSliders_wdps.php:707
+msgid "Allow adding only posts containing featured image."
+msgstr "Tillåt att lägga endast inlägg som innehåller presenterade bilden."
+
+#: admin/views/WDPSViewSliders_wdps.php:711
+msgid "Align:"
+msgstr "Justera:"
+
+#: admin/views/WDPSViewSliders_wdps.php:722
+msgid "Set the alignment of the slider."
+msgstr "Ställ anpassningen av reglaget."
+
+#: admin/views/WDPSViewSliders_wdps.php:727
+msgid "Effect:"
+msgstr "Effekt:"
+
+#: admin/views/WDPSViewSliders_wdps.php:739
+#: admin/views/WDPSViewSliders_wdps.php:3170 post-slider-wd.php:372
+msgid "Some effects are disabled in free version."
+msgstr "Vissa effekter är inaktiverad i gratisversionen."
+
+#: admin/views/WDPSViewSliders_wdps.php:743
+msgid "Effect duration:"
+msgstr "Effektduration:"
+
+#: admin/views/WDPSViewSliders_wdps.php:746
+msgid "Define the time for the effect."
+msgstr "Ange tiden för effekten."
+
+#: admin/views/WDPSViewSliders_wdps.php:750
+msgid "Parallax Effect:"
+msgstr "Parallax Effekt:"
+
+#: admin/views/WDPSViewSliders_wdps.php:754
+msgid ""
+"The direction of the movement, as well as the layer moving pace depend on "
+"the z-index value."
+msgstr ""
+"Riktningen för rörelsen, liksom skiktet rörliga takten beror på z-"
+"indexvärdet."
+
+#: admin/views/WDPSViewSliders_wdps.php:758
+msgid "Autoplay:"
+msgstr "Autospela:"
+
+#: admin/views/WDPSViewSliders_wdps.php:762
+msgid "Choose whether to autoplay the sliders or not."
+msgstr "Välj om du vill spelas upp automatiskt reglagen eller inte."
+
+#: admin/views/WDPSViewSliders_wdps.php:766
+msgid "Two way slideshow: "
+msgstr "Tvåvägs bildspel:"
+
+#: admin/views/WDPSViewSliders_wdps.php:770
+msgid "Slideshow can go backwards if someone switch to a previous slide."
+msgstr "Bildspel kan gå baklänges om någon byta till en tidigare bild."
+
+#: admin/views/WDPSViewSliders_wdps.php:774
+msgid "Enable loop:"
+msgstr "Aktivera slinga:"
+
+#: admin/views/WDPSViewSliders_wdps.php:782
+msgid "Time Interval:"
+msgstr "Tidsintervall:"
+
+#: admin/views/WDPSViewSliders_wdps.php:784
+msgid "sec."
+msgstr "sek."
+
+#: admin/views/WDPSViewSliders_wdps.php:785
+msgid ""
+"Set the time interval for the change of the sliders when autoplay is on."
+msgstr "Ställ in tidsintervallet för ändring av reglagen när autoplay är på."
+
+#: admin/views/WDPSViewSliders_wdps.php:789
+msgid "Stop on hover:"
+msgstr "Stopp på hover:"
+
+#: admin/views/WDPSViewSliders_wdps.php:793
+msgid "The option works when autoplay is on."
+msgstr "Alternativet fungerar när autoplay är på."
+
+#: admin/views/WDPSViewSliders_wdps.php:797
+msgid "Shuffle:"
+msgstr "Shuffle:"
+
+#: admin/views/WDPSViewSliders_wdps.php:801
+msgid ""
+"Choose whether to have the slides change in a random manner or to keep the "
+"original sequence."
+msgstr ""
+"Välj om du vill ha bilderna förändras på ett slumpmässigt sätt eller för att "
+"hålla den ursprungliga sekvensen."
+
+#: admin/views/WDPSViewSliders_wdps.php:805
+msgid "Start with slide:"
+msgstr "Börja med bild:"
+
+#: admin/views/WDPSViewSliders_wdps.php:808
+msgid ""
+"The slider will start with the specified slide. You can use the value 0 for "
+"random."
+msgstr ""
+"Löparen börjar med den angivna bilden. Du kan använda värdet 0 för "
+"slumpmässig."
+
+#: admin/views/WDPSViewSliders_wdps.php:812
+msgid "Music:"
+msgstr "Musik:"
+
+#: admin/views/WDPSViewSliders_wdps.php:816
+msgid ""
+"Choose whether to have music/audio track playback with the slider or not."
+msgstr ""
+"Välj om du vill ha musik / ljudspår uppspelning med reglaget eller inte."
+
+#: admin/views/WDPSViewSliders_wdps.php:821
+msgid "Music url:"
+msgstr "Musik url:"
+
+#: admin/views/WDPSViewSliders_wdps.php:826
+msgid "Only .aac,.m4a,.f4a,.mp3,.ogg,.oga formats are supported."
+msgstr "Endast AAC, är .m4a, .f4a, Mp3, Ogg, .oga format som stöds."
+
+#: admin/views/WDPSViewSliders_wdps.php:830
+msgid "Smart Load:"
+msgstr "Smart Load:"
+
+#: admin/views/WDPSViewSliders_wdps.php:834
+msgid ""
+"Choose to have faster load for the first few images and process the rest "
+"meanwhile."
+msgstr ""
+"Välj att ha snabbare belastning för de första bilderna och bearbeta resten "
+"tiden."
+
+#: admin/views/WDPSViewSliders_wdps.php:838
+#: admin/views/WDPSViewSliders_wdps.php:1476
+#: admin/views/WDPSViewSliders_wdps.php:1739
+#: admin/views/WDPSViewSliders_wdps.php:1799
+msgid "Background color:"
+msgstr "Bakgrundsfärg:"
+
+#: admin/views/WDPSViewSliders_wdps.php:842
+#: admin/views/WDPSViewSliders_wdps.php:1480
+#: admin/views/WDPSViewSliders_wdps.php:1876
+msgid "Transparency value must be between 0 to 100."
+msgstr "Öppenhet värdet måste vara mellan 0 och 100."
+
+#: admin/views/WDPSViewSliders_wdps.php:846
+#: admin/views/WDPSViewSliders_wdps.php:1452
+#: admin/views/WDPSViewSliders_wdps.php:2451
+#: admin/views/WDPSViewSliders_wdps.php:3219 post-slider-wd.php:383
+msgid "Border:"
+msgstr "Border:"
+
+#: admin/views/WDPSViewSliders_wdps.php:859
+msgid "Set the border width, type and the color."
+msgstr "Ställ gränsen bredd, typ och färg."
+
+#: admin/views/WDPSViewSliders_wdps.php:863
+#: admin/views/WDPSViewSliders_wdps.php:1469
+#: admin/views/WDPSViewSliders_wdps.php:1746
+msgid "Border radius:"
+msgstr "Gränsradie:"
+
+#: admin/views/WDPSViewSliders_wdps.php:866
+#: admin/views/WDPSViewSliders_wdps.php:1472
+#: admin/views/WDPSViewSliders_wdps.php:1749
+#: admin/views/WDPSViewSliders_wdps.php:2425
+#: admin/views/WDPSViewSliders_wdps.php:2469
+#: admin/views/WDPSViewSliders_wdps.php:3193
+#: admin/views/WDPSViewSliders_wdps.php:3237 post-slider-wd.php:357
+msgid "Use CSS type values."
+msgstr "Använd CSS anger du värden."
+
+#: admin/views/WDPSViewSliders_wdps.php:870
+#: admin/views/WDPSViewSliders_wdps.php:1753
+msgid "Margin:"
+msgstr "Marginal:"
+
+#: admin/views/WDPSViewSliders_wdps.php:873
+msgid "Set a margin for the slider."
+msgstr "Ställ en marginal för reglaget."
+
+#: admin/views/WDPSViewSliders_wdps.php:877
+#: admin/views/WDPSViewSliders_wdps.php:2478
+#: admin/views/WDPSViewSliders_wdps.php:3246 post-slider-wd.php:363
+msgid "Shadow:"
+msgstr "Shadow:"
+
+#: admin/views/WDPSViewSliders_wdps.php:880
+#: admin/views/WDPSViewSliders_wdps.php:2477
+#: admin/views/WDPSViewSliders_wdps.php:3245
+msgid "Use CSS type values (e.g. 10px 10px 5px #888888)."
+msgstr "Använd CSS anger du värden (t ex 10px 10px 5px # 888888)."
+
+#: admin/views/WDPSViewSliders_wdps.php:885
+msgid "Right click protection:"
+msgstr "Högerklicka Skydd:"
+
+#: admin/views/WDPSViewSliders_wdps.php:890
+msgid "Disable image right click possibility."
+msgstr "Inaktivera bild högerklicka möjlighet."
+
+#: admin/views/WDPSViewSliders_wdps.php:895
+msgid "Layer out on next:"
+msgstr "Layer ut på nästa:"
+
+#: admin/views/WDPSViewSliders_wdps.php:900
+msgid ""
+"Choose whether to have the layer effect out regardless of the timing between "
+"the hit to the next slider or skip the effect out and get to the next image."
+msgstr ""
+"Välj om du vill ha lagereffekten ut oberoende av tiden mellan träffen till "
+"nästa reglaget eller hoppa effekten ut och få till nästa bild."
+
+#: admin/views/WDPSViewSliders_wdps.php:904
+#: admin/views/WDPSViewSliders_wdps.php:2486
+#: admin/views/WDPSViewSliders_wdps.php:3254 post-slider-wd.php:364
+msgid "Text layer character limit:"
+msgstr "Textlager tecken:"
+
+#: admin/views/WDPSViewSliders_wdps.php:907
+#: admin/views/WDPSViewSliders_wdps.php:2485
+#: admin/views/WDPSViewSliders_wdps.php:3253 post-slider-wd.php:358
+msgid ""
+"This will limit the number of characters for post content displayed as a "
+"text layer."
+msgstr ""
+"Detta kommer att begränsa antalet tecken för publicera innehåll visas som "
+"ett textlager."
+
+#: admin/views/WDPSViewSliders_wdps.php:911
+#: admin/views/WDPSViewSliders_wdps.php:2115
+#: admin/views/WDPSViewSliders_wdps.php:2348
+#: admin/views/WDPSViewSliders_wdps.php:3115 post-slider-wd.php:268
+#: post-slider-wd.php:349
+msgid "Published:"
+msgstr "Publicerad:"
+
+#: admin/views/WDPSViewSliders_wdps.php:915
+msgid "Choose whether to publish the mentioned slider or not."
+msgstr "Välj om du vill publicera den nämnda reglaget eller inte."
+
+#: admin/views/WDPSViewSliders_wdps.php:926
+msgid "Carousel is disabled in free version."
+msgstr "Karusell är inaktiverad i gratisversionen ."
+
+#: admin/views/WDPSViewSliders_wdps.php:930
+msgid "Carousel:"
+msgstr "Karusell:"
+
+#: admin/views/WDPSViewSliders_wdps.php:934
+msgid ""
+"If you activate this feature the effects you had chosen in Global settings "
+"for your slider will not play."
+msgstr ""
+"Om du aktiverar den här funktionen de effekter du hade valt i Globala "
+"inställningar för din skjutreglaget inte kommer att spela."
+
+#: admin/views/WDPSViewSliders_wdps.php:939
+msgid "Number of images for carousel:"
+msgstr "Antal bilder för karusell:"
+
+#: admin/views/WDPSViewSliders_wdps.php:946
+msgid "Carousel image ratio:"
+msgstr "Karusell bilder förhållande:"
+
+#: admin/views/WDPSViewSliders_wdps.php:949
+msgid "The value must be between 0 and 1."
+msgstr "Värdet måste vara mellan 0 och 1."
+
+#: admin/views/WDPSViewSliders_wdps.php:953
+msgid "Container fit:"
+msgstr "Container fit:"
+
+#: admin/views/WDPSViewSliders_wdps.php:961
+msgid "Fixed width:"
+msgstr "Fast bredd:"
+
+#: admin/views/WDPSViewSliders_wdps.php:968
+msgid "Background image angle:"
+msgstr "Bakgrundsbild vinkel:"
+
+#: admin/views/WDPSViewSliders_wdps.php:975
+msgid "Background image grayscale:"
+msgstr "Bakgrundsbild gråskala:"
+
+#: admin/views/WDPSViewSliders_wdps.php:978
+msgid ""
+"You can change the color scheme for background images to grayscale. Values "
+"must be between 0 to 100."
+msgstr ""
+"Du kan ändra färgschemat för bakgrundsbilder till gråskala. Värden måste "
+"vara mellan 0 och 100."
+
+#: admin/views/WDPSViewSliders_wdps.php:982
+msgid "Background image transparency:"
+msgstr "Bakgrundsbild öppenhet:"
+
+#: admin/views/WDPSViewSliders_wdps.php:985
+msgid ""
+"You can set transparency level for background images. Values should be "
+"between 0 to 100."
+msgstr ""
+"Du kan ställa in transparens för bakgrundsbilder . Värden bör vara mellan 0 "
+"och 100."
+
+#: admin/views/WDPSViewSliders_wdps.php:996
+msgid "Next / Previous buttons:"
+msgstr "Nästa / Föregående knapparna:"
+
+#: admin/views/WDPSViewSliders_wdps.php:1001
+msgid "Choose whether to display Previous and Next buttons or not."
+msgstr "Välj om du vill visa knapparna Föregående och Nästa eller inte."
+
+#: admin/views/WDPSViewSliders_wdps.php:1006
+msgid "Mouse swipe navigation: "
+msgstr "Mus svepa navigering:"
+
+#: admin/views/WDPSViewSliders_wdps.php:1016
+msgid "Touch swipe navigation: "
+msgstr "Tryck svepa navigering:"
+
+#: admin/views/WDPSViewSliders_wdps.php:1026
+msgid "Mouse wheel navigation: "
+msgstr "Mushjulet navigering:"
+
+#: admin/views/WDPSViewSliders_wdps.php:1036
+msgid "Keyboard navigation: "
+msgstr "Tangentbordsnavigering :"
+
+#: admin/views/WDPSViewSliders_wdps.php:1046
+msgid "Show Navigation buttons:"
+msgstr "Visa Navigeringsknappar:"
+
+#: admin/views/WDPSViewSliders_wdps.php:1049
+#: admin/views/WDPSViewSliders_wdps.php:1502
+msgid "On hover"
+msgstr "På hovring"
+
+#: admin/views/WDPSViewSliders_wdps.php:1050
+#: admin/views/WDPSViewSliders_wdps.php:1503
+msgid "Always"
+msgstr "Alltid"
+
+#: admin/views/WDPSViewSliders_wdps.php:1051
+msgid ""
+"Select between the option of always displaying the navigation buttons or "
+"only when hovered."
+msgstr ""
+"Välj mellan möjligheten att alltid visa navigeringsknapparna eller bara när "
+"svävade."
+
+#: admin/views/WDPSViewSliders_wdps.php:1056
+msgid "Image for Next / Previous buttons:"
+msgstr "Bilden Nästa Föregående knappar /:"
+
+#: admin/views/WDPSViewSliders_wdps.php:1059
+#: admin/views/WDPSViewSliders_wdps.php:1265
+#: admin/views/WDPSViewSliders_wdps.php:1539
+#: admin/views/WDPSViewSliders_wdps.php:2299
+#: admin/views/WDPSViewSliders_wdps.php:3075 post-slider-wd.php:386
+msgid "Default"
+msgstr "Standard"
+
+#: admin/views/WDPSViewSliders_wdps.php:1060
+#: admin/views/WDPSViewSliders_wdps.php:1210
+#: admin/views/WDPSViewSliders_wdps.php:1266
+#: admin/views/WDPSViewSliders_wdps.php:1400
+#: admin/views/WDPSViewSliders_wdps.php:1540
+#: admin/views/WDPSViewSliders_wdps.php:1682
+msgid "Custom"
+msgstr "Anpassad"
+
+#: admin/views/WDPSViewSliders_wdps.php:1061
+#: admin/views/WDPSViewSliders_wdps.php:1267
+#: admin/views/WDPSViewSliders_wdps.php:1541
+msgid "Styled"
+msgstr "Formaterad"
+
+#: admin/views/WDPSViewSliders_wdps.php:1066
+msgid ""
+"Choose whether to use default navigation buttons or to upload custom ones."
+msgstr ""
+"Välj om du vill använda standardnavigeringsknapparna eller ladda upp egna "
+"sådana."
+
+#: admin/views/WDPSViewSliders_wdps.php:1073
+msgid "Next / Previous buttons style:"
+msgstr "Nästa / Föregående knappar stil:"
+
+#: admin/views/WDPSViewSliders_wdps.php:1092
+msgid ""
+"Choose the style of the button you prefer to have as navigation buttons."
+msgstr "Välj stil på knappen som du föredrar att ha som navigeringsknappar."
+
+#: admin/views/WDPSViewSliders_wdps.php:1097
+#: admin/views/WDPSViewSliders_wdps.php:1288
+#: admin/views/WDPSViewSliders_wdps.php:1632
+msgid "Upload buttons images:"
+msgstr "Ladda upp knappar bilder:"
+
+#: admin/views/WDPSViewSliders_wdps.php:1102
+#: admin/views/WDPSViewSliders_wdps.php:1103
+#: admin/views/WDPSViewSliders_wdps.php:1106
+#: admin/views/WDPSViewSliders_wdps.php:1107
+#: admin/views/WDPSViewSliders_wdps.php:1186
+#: admin/views/WDPSViewSliders_wdps.php:1219
+#: admin/views/WDPSViewSliders_wdps.php:1293
+#: admin/views/WDPSViewSliders_wdps.php:1294
+#: admin/views/WDPSViewSliders_wdps.php:1297
+#: admin/views/WDPSViewSliders_wdps.php:1298
+#: admin/views/WDPSViewSliders_wdps.php:1409
+#: admin/views/WDPSViewSliders_wdps.php:1637
+#: admin/views/WDPSViewSliders_wdps.php:1640
+#: admin/views/WDPSViewSliders_wdps.php:1691
+#: admin/views/WDPSViewSliders_wdps.php:2154
+#: admin/views/WDPSViewSliders_wdps.php:2157
+#: admin/views/WDPSViewSliders_wdps.php:2160
+#: admin/views/WDPSViewSliders_wdps.php:2163
+#: admin/views/WDPSViewSliders_wdps.php:2185
+#: admin/views/WDPSViewSliders_wdps.php:2186
+#: admin/views/WDPSViewSliders_wdps.php:2922
+#: admin/views/WDPSViewSliders_wdps.php:2925
+#: admin/views/WDPSViewSliders_wdps.php:2928
+#: admin/views/WDPSViewSliders_wdps.php:2931
+#: admin/views/WDPSViewSliders_wdps.php:2953
+#: admin/views/WDPSViewSliders_wdps.php:2954 post-slider-wd.php:390
+msgid "This functionality is disabled in free version."
+msgstr "Denna funktion är inaktiverad i gratisversionen ."
+
+#: admin/views/WDPSViewSliders_wdps.php:1116
+#: admin/views/WDPSViewSliders_wdps.php:1235
+#: admin/views/WDPSViewSliders_wdps.php:1307
+#: admin/views/WDPSViewSliders_wdps.php:1424
+#: admin/views/WDPSViewSliders_wdps.php:1647
+#: admin/views/WDPSViewSliders_wdps.php:1704
+msgid "Reverse"
+msgstr "Omvänd"
+
+#: admin/views/WDPSViewSliders_wdps.php:1171
+#: admin/views/WDPSViewSliders_wdps.php:1362
+#: admin/views/WDPSViewSliders_wdps.php:1624
+msgid " is not a directory."
+msgstr "är inte en katalog."
+
+#: admin/views/WDPSViewSliders_wdps.php:1180
+#: admin/views/WDPSViewSliders_wdps.php:1370
+msgid "Choose buttons:"
+msgstr "Välj knappar:"
+
+#: admin/views/WDPSViewSliders_wdps.php:1187
+#: admin/views/WDPSViewSliders_wdps.php:1377
+#: admin/views/WDPSViewSliders_wdps.php:1661
+msgid "Choose group"
+msgstr "Välj grupp"
+
+#: admin/views/WDPSViewSliders_wdps.php:1220
+#: admin/views/WDPSViewSliders_wdps.php:1410
+#: admin/views/WDPSViewSliders_wdps.php:1692
+msgid "Choose color"
+msgstr "Välj färg"
+
+#: admin/views/WDPSViewSliders_wdps.php:1238
+#: admin/views/WDPSViewSliders_wdps.php:1427
+msgid ""
+"Choose the type and color for navigation button images. The option is "
+"designed for limited preview (colors not included) purposes and can't be "
+"saved."
+msgstr ""
+"Välj typ och färg för navigering knapp bilder. Alternativet är avsedd för "
+"begränsad förhandsgranskning (färger som inte ingår) syften och kan inte "
+"sparas."
+
+#: admin/views/WDPSViewSliders_wdps.php:1242
+msgid "Next / Previous buttons size:"
+msgstr "Nästa / Föregående knappar storlek:"
+
+#: admin/views/WDPSViewSliders_wdps.php:1245
+msgid "Set the size for the next / previous buttons."
+msgstr "Ställ in storlek för nästa / föregående knappar."
+
+#: admin/views/WDPSViewSliders_wdps.php:1250
+msgid "Play / Pause button:"
+msgstr "Spela upp / Paus:"
+
+#: admin/views/WDPSViewSliders_wdps.php:1255
+msgid "Choose whether to display Play and Pause buttons or not."
+msgstr "Välj om du vill visa Play och Pause knappar eller inte."
+
+#: admin/views/WDPSViewSliders_wdps.php:1262
+msgid "Image for Play / Pause buttons:"
+msgstr "Bilden Play / Pause knappar:"
+
+#: admin/views/WDPSViewSliders_wdps.php:1272
+msgid ""
+"Choose whether to use default play/pause buttons or to upload custom ones."
+msgstr ""
+"Välj om du vill använda standard spela / pausa knapparna eller ladda upp "
+"egna sådana."
+
+#: admin/views/WDPSViewSliders_wdps.php:1278
+msgid "Play / Pause buttons style:"
+msgstr "Spela / Paus knappar stil:"
+
+#: admin/views/WDPSViewSliders_wdps.php:1431
+msgid "Play / Pause button size:"
+msgstr "Spela upp / Paus storlek:"
+
+#: admin/views/WDPSViewSliders_wdps.php:1434
+msgid "Set the size for the play / pause buttons."
+msgstr "Ställ in storlek för uppspelning / paus-knapparna."
+
+#: admin/views/WDPSViewSliders_wdps.php:1438
+msgid "Buttons color:"
+msgstr "Knappar färg:"
+
+#: admin/views/WDPSViewSliders_wdps.php:1441
+msgid "Select a color for the navigation buttons."
+msgstr "Välj en färg för navigeringsknapparna."
+
+#: admin/views/WDPSViewSliders_wdps.php:1445 post-slider-wd.php:385
+msgid "Hover color:"
+msgstr "Hover färg:"
+
+#: admin/views/WDPSViewSliders_wdps.php:1448
+msgid "Select a hover color for the navigation buttons."
+msgstr "Välj en hover färg för navigeringsknapparna."
+
+#: admin/views/WDPSViewSliders_wdps.php:1465
+msgid ""
+"Select the type, size and the color of border for the navigation buttons."
+msgstr "Välj typ, storlek och färg på gränsen för navigeringsknapparna."
+
+#: admin/views/WDPSViewSliders_wdps.php:1490
+msgid "Enable bullets:"
+msgstr "Aktivera kulor:"
+
+#: admin/views/WDPSViewSliders_wdps.php:1494
+msgid "Choose whether to have navigation bullets or not."
+msgstr "Välj om du vill ha navigerings kulor eller inte."
+
+#: admin/views/WDPSViewSliders_wdps.php:1499
+msgid "Show bullets:"
+msgstr "Show kulor:"
+
+#: admin/views/WDPSViewSliders_wdps.php:1504
+msgid ""
+"Select between the option of always displaying the bullets or only when "
+"hovered."
+msgstr ""
+"Välj mellan möjligheten att alltid visa kulorna eller bara när svävade."
+
+#: admin/views/WDPSViewSliders_wdps.php:1508
+msgid "Show thumbnail on bullet hover:"
+msgstr "Visa miniatyrbild på kula hover:"
+
+#: admin/views/WDPSViewSliders_wdps.php:1517
+msgid "Thumbnail Size:"
+msgstr "Miniatyrstorlek :"
+
+#: admin/views/WDPSViewSliders_wdps.php:1521
+msgid "Value must be between 0 to 1."
+msgstr "Värdet måste vara mellan 0-1."
+
+#: admin/views/WDPSViewSliders_wdps.php:1525
+#: admin/views/WDPSViewSliders_wdps.php:1779
+#: admin/views/WDPSViewSliders_wdps.php:2241
+#: admin/views/WDPSViewSliders_wdps.php:3017 post-slider-wd.php:347
+msgid "Position:"
+msgstr "Position:"
+
+#: admin/views/WDPSViewSliders_wdps.php:1531
+msgid "Select the position for the navigation bullets."
+msgstr "Välj läget för navigerings kulor."
+
+#: admin/views/WDPSViewSliders_wdps.php:1536
+msgid "Image for bullets:"
+msgstr "Bilden kulor:"
+
+#: admin/views/WDPSViewSliders_wdps.php:1542
+msgid "Text"
+msgstr "Text"
+
+#: admin/views/WDPSViewSliders_wdps.php:1545
+msgid "Choose whether to use default or styled bullets."
+msgstr "Välj om du vill använda standard eller stylade kulor."
+
+#: admin/views/WDPSViewSliders_wdps.php:1552
+msgid "Bullet style:"
+msgstr "Bullet stil:"
+
+#: admin/views/WDPSViewSliders_wdps.php:1571
+msgid "Choose the style for the bullets."
+msgstr "Välj stil för kulorna."
+
+#: admin/views/WDPSViewSliders_wdps.php:1654
+msgid "Chooes buttons:"
+msgstr "Chooes knappar:"
+
+#: admin/views/WDPSViewSliders_wdps.php:1707
+msgid ""
+"Choose the type and color for the bullets. The option is designed for "
+"limited preview (colors not included) purposes and can't be saved."
+msgstr ""
+"Välj typ och färg för kulorna. Alternativet är avsedd för begränsad "
+"förhandsgranskning (färger som inte ingår) syften och kan inte sparas."
+
+#: admin/views/WDPSViewSliders_wdps.php:1711
+#: admin/views/WDPSViewSliders_wdps.php:1865
+#: admin/views/WDPSViewSliders_wdps.php:2251
+#: admin/views/WDPSViewSliders_wdps.php:3027 post-slider-wd.php:353
+msgid "Size:"
+msgstr "Storlek:"
+
+#: admin/views/WDPSViewSliders_wdps.php:1714
+msgid "Define the size of the navigation bullets."
+msgstr "Definiera storleken av navigerings kulor."
+
+#: admin/views/WDPSViewSliders_wdps.php:1718
+#: admin/views/WDPSViewSliders_wdps.php:1872
+#: admin/views/WDPSViewSliders_wdps.php:2265
+#: admin/views/WDPSViewSliders_wdps.php:3041 post-slider-wd.php:352
+msgid "Color:"
+msgstr "Färg:"
+
+#: admin/views/WDPSViewSliders_wdps.php:1721
+msgid "Select the color for the navigation bullets."
+msgstr "Välj färg för navigerings kulor."
+
+#: admin/views/WDPSViewSliders_wdps.php:1725
+msgid "Active color:"
+msgstr "Aktiv färg:"
+
+#: admin/views/WDPSViewSliders_wdps.php:1728
+msgid ""
+"Select the color for the bullet, which is currently displaying a "
+"corresponding image."
+msgstr "Välj färg för kulan, som för närvarande visar en motsvarande bild."
+
+#: admin/views/WDPSViewSliders_wdps.php:1732
+msgid "Active Background color:"
+msgstr "Aktiv Bakgrundsfärg :"
+
+#: admin/views/WDPSViewSliders_wdps.php:1735
+msgid ""
+"Select the background color for the bullet, which is currently displaying a "
+"corresponding image."
+msgstr ""
+"Välj bakgrundsfärg för kulan, som för närvarande visar en motsvarande bild."
+
+#: admin/views/WDPSViewSliders_wdps.php:1742
+msgid "Select the background color for the bullet."
+msgstr "Välj bakgrundsfärg för kulan."
+
+#: admin/views/WDPSViewSliders_wdps.php:1756
+msgid "Set the margin for the navigation bullets in pixels."
+msgstr "Ställ in marginalen för navigerings kulor i pixlar."
+
+#: admin/views/WDPSViewSliders_wdps.php:1767
+msgid "Filmstrip is disabled in free version."
+msgstr "Filmremsa är inaktiverad i gratisversionen ."
+
+#: admin/views/WDPSViewSliders_wdps.php:1771
+msgid "Enable filmstrip:"
+msgstr "Aktivera filmremsa:"
+
+#: admin/views/WDPSViewSliders_wdps.php:1775
+msgid ""
+"Choose whether to have thumbnails of the slides displayed as a filmstrip or "
+"not."
+msgstr ""
+"Välj om du vill ha miniatyrer av bilderna visas som en filmremsa eller inte."
+
+#: admin/views/WDPSViewSliders_wdps.php:1787
+msgid "Set the position of the filmstrip."
+msgstr "Ställ in positionen för filmremsan."
+
+#: admin/views/WDPSViewSliders_wdps.php:1791
+msgid "Thumbnail dimensions:"
+msgstr "Miniatyr dimensioner:"
+
+#: admin/views/WDPSViewSliders_wdps.php:1795
+msgid "Define the maximum width and heigth of the filmstrip thumbnails."
+msgstr "Definiera den maximala bredden och heigth av bildbandet miniatyr."
+
+#: admin/views/WDPSViewSliders_wdps.php:1802
+msgid "Select the background color for the filmstrip."
+msgstr "Välj bakgrundsfärg för filmremsan."
+
+#: admin/views/WDPSViewSliders_wdps.php:1806
+msgid "Thumbnail separator:"
+msgstr "Thumbnail separator:"
+
+#: admin/views/WDPSViewSliders_wdps.php:1809
+msgid "Set the separator for the thumbnails."
+msgstr "Ställ separatorn för miniatyrbilderna ."
+
+#: admin/views/WDPSViewSliders_wdps.php:1813
+msgid "Active border:"
+msgstr "Aktiv kant:"
+
+#: admin/views/WDPSViewSliders_wdps.php:1826
+msgid ""
+"The thumbnail for the currently displayed image will have a border. You can "
+"set its size, type and color."
+msgstr ""
+"Miniatyren för den bild som visas kommer att ha en gräns. Du kan ställa in "
+"dess storlek, typ och färg."
+
+#: admin/views/WDPSViewSliders_wdps.php:1830
+msgid "Deactive transparency:"
+msgstr "Deaktiv öppenhet:"
+
+#: admin/views/WDPSViewSliders_wdps.php:1833
+msgid ""
+"You can set a transparency level for the inactive filmstrip items which must "
+"be between 0 to 100.."
+msgstr ""
+"Du kan ställa in en transparens för inaktiva filmstrip poster som måste vara "
+"mellan 0 till 100 .."
+
+#: admin/views/WDPSViewSliders_wdps.php:1843
+msgid "Enable timer bar:"
+msgstr "Aktivera timer bar:"
+
+#: admin/views/WDPSViewSliders_wdps.php:1847
+msgid ""
+"You can add a bar displaying the timing left to switching to the next slide "
+"on autoplay."
+msgstr ""
+"Du kan lägga till en bar som visar timingen kvar att byta till nästa bild på "
+"autoplay."
+
+#: admin/views/WDPSViewSliders_wdps.php:1851
+#: admin/views/WDPSViewWDPSPosts.php:95
+msgid "Type:"
+msgstr "Typ:"
+
+#: admin/views/WDPSViewSliders_wdps.php:1854
+msgid "Line top"
+msgstr "Linje topp"
+
+#: admin/views/WDPSViewSliders_wdps.php:1855
+msgid "Line Bottom"
+msgstr "Linje Botten"
+
+#: admin/views/WDPSViewSliders_wdps.php:1856
+msgid "Circle top left"
+msgstr "Circle uppe till vänster"
+
+#: admin/views/WDPSViewSliders_wdps.php:1857
+msgid "Circle top right"
+msgstr "Cirkel upp till höger"
+
+#: admin/views/WDPSViewSliders_wdps.php:1858
+msgid "Circle bottom left"
+msgstr "Cirkel nere till vänster"
+
+#: admin/views/WDPSViewSliders_wdps.php:1859
+msgid "Circle bottom right"
+msgstr "Cirkel nedre högra"
+
+#: admin/views/WDPSViewSliders_wdps.php:1861
+msgid "Choose the type of the timer bar to be used within the slider."
+msgstr "Välj typ av timerfältet för att användas inom skjutreglaget."
+
+#: admin/views/WDPSViewSliders_wdps.php:1868
+msgid "Define the height of the timer bar."
+msgstr "Definiera höjden på timerfältet."
+
+#: admin/views/WDPSViewSliders_wdps.php:1886
+msgid "Css:"
+msgstr "Css:"
+
+#: admin/views/WDPSViewSliders_wdps.php:1890
+msgid "Add custom CSS to apply custom changes to the slider."
+msgstr ""
+"Lägg till anpassade CSS att tillämpa beställnings- ändringar till reglaget."
+
+#: admin/views/WDPSViewSliders_wdps.php:1921
+msgid "Post slider type:"
+msgstr "Post reglaget typ:"
+
+#: admin/views/WDPSViewSliders_wdps.php:1922
+msgid "Static posts slides"
+msgstr "Statiska inlägg diabilder"
+
+#: admin/views/WDPSViewSliders_wdps.php:1923
+msgid "Dynamic posts slides"
+msgstr "Dynamiska inlägg diabilder"
+
+#: admin/views/WDPSViewSliders_wdps.php:1964
+#: admin/views/WDPSViewSliders_wdps.php:2181
+#: admin/views/WDPSViewSliders_wdps.php:2760
+#: admin/views/WDPSViewSliders_wdps.php:2949 post-slider-wd.php:332
+msgid "Drag to re-order"
+msgstr "Dra för att ändra ordningen"
+
+#: admin/views/WDPSViewSliders_wdps.php:1974
+msgid "Edit Slide"
+msgstr "Redigera Slide"
+
+#: admin/views/WDPSViewSliders_wdps.php:1974 post-slider-wd.php:341
+msgid "Edit Image"
+msgstr "Redigera Bild"
+
+#: admin/views/WDPSViewSliders_wdps.php:1976 post-slider-wd.php:270
+msgid "Edit Post"
+msgstr "Ändra meddelande"
+
+#: admin/views/WDPSViewSliders_wdps.php:1980 post-slider-wd.php:380
+msgid "Duplicate slide"
+msgstr "Dubblettbild"
+
+#: admin/views/WDPSViewSliders_wdps.php:1981
+msgid "Remove Slide"
+msgstr "Ta Slide"
+
+#: admin/views/WDPSViewSliders_wdps.php:1981 post-slider-wd.php:381
+msgid "Delete slide"
+msgstr "Radera sliden"
+
+#: admin/views/WDPSViewSliders_wdps.php:1995
+#: admin/views/WDPSViewSliders_wdps.php:1996
+msgid "Add Posts"
+msgstr "Lägg inlägg"
+
+#: admin/views/WDPSViewSliders_wdps.php:2028
+msgid "Edit Slides"
+msgstr "Redigera Slides"
+
+#: admin/views/WDPSViewSliders_wdps.php:2037
+msgid "Add/Edit Post"
+msgstr "Lägg till / redigera inlägg"
+
+#: admin/views/WDPSViewSliders_wdps.php:2039
+#: admin/views/WDPSViewWDPSPosts.php:84 post-slider-wd.php:269
+msgid "Add Post"
+msgstr "Lägg till Post"
+
+#: admin/views/WDPSViewSliders_wdps.php:2125 post-slider-wd.php:266
+msgid ""
+"You can set a redirection link, so that the user will get to the mentioned "
+"location upon hitting the slide. Use http:// and https:// for external links."
+msgstr ""
+"Du kan ställa in en omdirigering länk, så att användaren kommer att få "
+"nämnda plats vid slå bilden.Använd http: // och https: // för externa länkar."
+
+#: admin/views/WDPSViewSliders_wdps.php:2126 post-slider-wd.php:267
+msgid "Link the slide to:"
+msgstr "Länka bilden till:"
+
+#: admin/views/WDPSViewSliders_wdps.php:2130
+#: admin/views/WDPSViewSliders_wdps.php:2326
+#: admin/views/WDPSViewSliders_wdps.php:2900 post-slider-wd.php:345
+msgid "Open in a new window"
+msgstr "Öppna i nytt fönster"
+
+#: admin/views/WDPSViewSliders_wdps.php:2151
+#: admin/views/WDPSViewSliders_wdps.php:2919
+msgid "Layers"
+msgstr "skikt"
+
+#: admin/views/WDPSViewSliders_wdps.php:2154
+#: admin/views/WDPSViewSliders_wdps.php:2922 post-slider-wd.php:265
+msgid "Add Text Layer"
+msgstr "Lägg till text Layer"
+
+#: admin/views/WDPSViewSliders_wdps.php:2157
+#: admin/views/WDPSViewSliders_wdps.php:2925 post-slider-wd.php:379
+msgid "Add Image Layer"
+msgstr "Lägg till bildlagret"
+
+#: admin/views/WDPSViewSliders_wdps.php:2160
+#: admin/views/WDPSViewSliders_wdps.php:2928 post-slider-wd.php:577
+msgid "Social Button Layer"
+msgstr "Social Button Layer"
+
+#: admin/views/WDPSViewSliders_wdps.php:2163
+#: admin/views/WDPSViewSliders_wdps.php:2931 post-slider-wd.php:271
+msgid "Add Hotspot Layer"
+msgstr "Lägg Hotspot Skikt"
+
+#: admin/views/WDPSViewSliders_wdps.php:2182
+#: admin/views/WDPSViewSliders_wdps.php:2950 post-slider-wd.php:333
+msgid "Layer title"
+msgstr "Skikt titel"
+
+#: admin/views/WDPSViewSliders_wdps.php:2185
+#: admin/views/WDPSViewSliders_wdps.php:2953
+msgid "Delete layer"
+msgstr "Ta bort lager"
+
+#: admin/views/WDPSViewSliders_wdps.php:2186
+#: admin/views/WDPSViewSliders_wdps.php:2954 post-slider-wd.php:335
+msgid "Duplicate layer"
+msgstr "Duplicerade lagret"
+
+#: admin/views/WDPSViewSliders_wdps.php:2203
+#: admin/views/WDPSViewSliders_wdps.php:2971 post-slider-wd.php:337
+msgid "Text:"
+msgstr "Text:"
+
+#: admin/views/WDPSViewSliders_wdps.php:2230
+#: admin/views/WDPSViewSliders_wdps.php:3006 post-slider-wd.php:340
+msgid "Leave blank to keep the initial width and height."
+msgstr "Lämna tomt för att hålla den ursprungliga bredd och höjd."
+
+#: admin/views/WDPSViewSliders_wdps.php:2236
+#: admin/views/WDPSViewSliders_wdps.php:3012
+msgid "Break-word"
+msgstr "Break-ord"
+
+#: admin/views/WDPSViewSliders_wdps.php:2240
+#: admin/views/WDPSViewSliders_wdps.php:3016 post-slider-wd.php:348
+msgid "In addition you can drag and drop the layer to a desired position."
+msgstr "Dessutom kan du dra och släppa lagret till ett önskat läge."
+
+#: admin/views/WDPSViewSliders_wdps.php:2246
+#: admin/views/WDPSViewSliders_wdps.php:3022 post-slider-wd.php:396
+msgid "Fixed step (left, center, right)"
+msgstr "Fast steg (vänster, mitten, höger)"
+
+#: admin/views/WDPSViewSliders_wdps.php:2259
+#: admin/views/WDPSViewSliders_wdps.php:3035 post-slider-wd.php:437
+msgid "Minimal size must be less than the actual size."
+msgstr "Minimal storlek måste vara mindre än den verkliga storleken."
+
+#: admin/views/WDPSViewSliders_wdps.php:2274
+#: admin/views/WDPSViewSliders_wdps.php:3050
+msgid "Hover Color:"
+msgstr "Hover Färg:"
+
+#: admin/views/WDPSViewSliders_wdps.php:2283
+#: admin/views/WDPSViewSliders_wdps.php:3059 post-slider-wd.php:354
+msgid "Font family:"
+msgstr "Typsnittsfamilj:"
+
+#: admin/views/WDPSViewSliders_wdps.php:2297
+#: admin/views/WDPSViewSliders_wdps.php:3073 post-slider-wd.php:387
+msgid "Google fonts"
+msgstr "Google typsnitt"
+
+#: admin/views/WDPSViewSliders_wdps.php:2305
+#: admin/views/WDPSViewSliders_wdps.php:3081 post-slider-wd.php:355
+msgid "Font weight:"
+msgstr "Textvikt:"
+
+#: admin/views/WDPSViewSliders_wdps.php:2321 post-slider-wd.php:346
+msgid "Use http:// and https:// for external links."
+msgstr "Använd http: // och https: // för externa länkar."
+
+#: admin/views/WDPSViewSliders_wdps.php:2322 post-slider-wd.php:344
+msgid "Link:"
+msgstr "Länk:"
+
+#: admin/views/WDPSViewSliders_wdps.php:2331
+#: admin/views/WDPSViewSliders_wdps.php:3098 post-slider-wd.php:397
+msgid "Text alignment:"
+msgstr "Textjustering :"
+
+#: admin/views/WDPSViewSliders_wdps.php:2362
+#: admin/views/WDPSViewSliders_wdps.php:3129
+msgid "Effect In:"
+msgstr "Effekt I:"
+
+#: admin/views/WDPSViewSliders_wdps.php:2367
+#: admin/views/WDPSViewSliders_wdps.php:2399
+#: admin/views/WDPSViewSliders_wdps.php:3134
+#: admin/views/WDPSViewSliders_wdps.php:3166 post-slider-wd.php:369
+msgid "Start"
+msgstr "Start"
+
+#: admin/views/WDPSViewSliders_wdps.php:2379
+#: admin/views/WDPSViewSliders_wdps.php:2411
+#: admin/views/WDPSViewSliders_wdps.php:3146
+#: admin/views/WDPSViewSliders_wdps.php:3179 post-slider-wd.php:370
+msgid "Effect"
+msgstr "Effekt"
+
+#: admin/views/WDPSViewSliders_wdps.php:2383
+#: admin/views/WDPSViewSliders_wdps.php:2415
+#: admin/views/WDPSViewSliders_wdps.php:3150
+#: admin/views/WDPSViewSliders_wdps.php:3183 post-slider-wd.php:371
+msgid "Duration"
+msgstr "Varaktighet"
+
+#: admin/views/WDPSViewSliders_wdps.php:2386
+#: admin/views/WDPSViewSliders_wdps.php:2418
+#: admin/views/WDPSViewSliders_wdps.php:3153
+#: admin/views/WDPSViewSliders_wdps.php:3186 post-slider-wd.php:405
+msgid "0 for play infinte times"
+msgstr "0 för att spela oändliga gånger"
+
+#: admin/views/WDPSViewSliders_wdps.php:2387
+#: admin/views/WDPSViewSliders_wdps.php:2419
+#: admin/views/WDPSViewSliders_wdps.php:3154
+#: admin/views/WDPSViewSliders_wdps.php:3187 post-slider-wd.php:404
+msgid "Iteration"
+msgstr "Iteration"
+
+#: admin/views/WDPSViewSliders_wdps.php:2394
+#: admin/views/WDPSViewSliders_wdps.php:3161
+msgid "Effect Out:"
+msgstr "Effekt ut:"
+
+#: admin/views/WDPSViewSliders_wdps.php:2426
+#: admin/views/WDPSViewSliders_wdps.php:3194 post-slider-wd.php:356
+msgid "Padding:"
+msgstr "Padding:"
+
+#: admin/views/WDPSViewSliders_wdps.php:2434
+#: admin/views/WDPSViewSliders_wdps.php:3202 post-slider-wd.php:359
+msgid "Background Color:"
+msgstr "Bakgrundsfärg:"
+
+#: admin/views/WDPSViewSliders_wdps.php:2442
+#: admin/views/WDPSViewSliders_wdps.php:3210 post-slider-wd.php:361
+msgid "Value must be between 0 to 100."
+msgstr "Värdet måste vara mellan 0 och 100."
+
+#: admin/views/WDPSViewSliders_wdps.php:2443
+#: admin/views/WDPSViewSliders_wdps.php:3211 post-slider-wd.php:360
+msgid "Transparent:"
+msgstr "Transparent:"
+
+#: admin/views/WDPSViewSliders_wdps.php:2470
+#: admin/views/WDPSViewSliders_wdps.php:3238 post-slider-wd.php:362
+msgid "Radius:"
+msgstr "Radie:"
+
+#: admin/views/WDPSViewSliders_wdps.php:2494
+#: admin/views/WDPSViewSliders_wdps.php:3262
+msgid "Remove shortcode: "
+msgstr "Ta kortkod:"
+
+#: admin/views/WDPSViewSliders_wdps.php:2589
+msgid "Period of posts to display:"
+msgstr "Period av tjänster till display:"
+
+#: admin/views/WDPSViewSliders_wdps.php:2603
+msgid ""
+"Set the time for the posts, e.g. if set it to 24 hours it will display the "
+"posts added within the last 24 hours."
+msgstr ""
+"Ställ in tiden för inlägg, t.ex. om den är inställd till 24 timmar kommer "
+"det att visa tjänster tillsatta under de senaste 24 timmarna."
+
+#: admin/views/WDPSViewSliders_wdps.php:2607
+msgid "Number of posts:"
+msgstr "Antal inlägg:"
+
+#: admin/views/WDPSViewSliders_wdps.php:2610
+msgid ""
+"Set the number of posts which will be displayed as slides. If set to 0 or "
+"left empty it will display all posts."
+msgstr ""
+"Ställ in antal tjänster som kommer att visas som diabilder. Om satt till 0 "
+"eller lämnas tomt kommer det att visa alla inlägg."
+
+#: admin/views/WDPSViewSliders_wdps.php:2615
+msgid "Choose post type:"
+msgstr "Välj efter typ:"
+
+#: admin/views/WDPSViewSliders_wdps.php:2631
+msgid ""
+"Select the type for the dynamic posts, e.g. standard or custom post types."
+msgstr ""
+"Välj typ för den dynamiska tjänster, t.ex. standard eller anpassade "
+"posttyper."
+
+#: admin/views/WDPSViewSliders_wdps.php:2641
+msgid "Author:"
+msgstr "Författare:"
+
+#: admin/views/WDPSViewSliders_wdps.php:2660
+msgid "Select the author whose posts will be displayed within the slider."
+msgstr "Välj författaren vars tjänster kommer att visas inom skjutreglaget."
+
+#: admin/views/WDPSViewSliders_wdps.php:2665
+msgid "Sort posts by:"
+msgstr "Sortera inlägg av:"
+
+#: admin/views/WDPSViewSliders_wdps.php:2679
+msgid ""
+"Select the option which will be used as a sorting basis while displaying "
+"posts."
+msgstr ""
+"Välj det alternativ som kommer att användas som ett sorterings grund medan "
+"du visar inlägg."
+
+#: admin/views/WDPSViewSliders_wdps.php:2683
+msgid "Order posts by:"
+msgstr "Beställ inlägg av:"
+
+#: admin/views/WDPSViewSliders_wdps.php:2687
+msgid "Set the ordering sequence for the posts- ascending or descending."
+msgstr "Ställ in beställningssekvensen för posts- stigande eller fallande."
+
+#: admin/views/WDPSViewSliders_wdps.php:2699
+msgid "Post taxonomies:"
+msgstr "Inlägg taxonomier:"
+
+#: admin/views/WDPSViewSliders_wdps.php:2750
+msgid "Slide"
+msgstr "Glida"
+
+#: admin/views/WDPSViewSliders_wdps.php:2829
+msgid ""
+"The post content will not be displayed on back end. You will see a sample "
+"background, where you can add standard and dynamic-post layers, which will "
+"be displayed over the posts on front end."
+msgstr ""
+"Innehållet inlägg kommer inte att visas på bakdelen. Du kommer att se ett "
+"urval bakgrund, där du kan lägga till standard och dynamisk-post skikt, som "
+"kommer att visas under stolparna på fronten."
+
+#: admin/views/WDPSViewSliders_wdps.php:2894
+msgid "Link the slide to post:"
+msgstr "Länka bilden till inlägg:"
+
+#: admin/views/WDPSViewSliders_wdps.php:3395
+msgid "Enter absolute url of the image."
+msgstr "Ange absolut url av bilden."
+
+#: admin/views/WDPSViewUninstall_wdps.php:33
+#: admin/views/WDPSViewUninstall_wdps.php:106
+msgid "Uninstall Post Slider by 10Web"
+msgstr "Avinstallera Post Slider by 10Web"
+
+#: admin/views/WDPSViewUninstall_wdps.php:36
+msgid "support team"
+msgstr "supportteam"
+
+#: admin/views/WDPSViewUninstall_wdps.php:37
+#: wd/templates/display_overview_support.php:41
+msgid "Contact us"
+msgstr "Kontakta oss"
+
+#: admin/views/WDPSViewUninstall_wdps.php:38
+#, php-format
+msgid ""
+"Before uninstalling the plugin, please Contact our %s. We'll do our best to "
+"help you out with your issue. We value each and every user and value what's "
+"right for our users in everything we do.<br />\n"
+"          However, if anyway you have made a decision to uninstall the "
+"plugin, please take a minute to %s and tell what you didn't like for our "
+"plugins further improvement and development. Thank you !!!"
+msgstr ""
+"Innan du avinstallerar pluginet, vänligen kontakta vår %s.Vi gör vårt bästa "
+"för att hjälpa dig med ditt problem. Vi värdesätter varje användare och "
+"värderar vad som är rätt för våra användare i allt vi gör.<br />Om du ändå "
+"har fattat ett beslut om att avinstallera pluginet, vänligen ta en minut "
+"till %s Och berätta vad du inte tyckte om våra plugins ytterligare "
+"förbättring och utveckling. Tack !!!"
+
+#: admin/views/WDPSViewUninstall_wdps.php:42
+msgid ""
+"Deactivating Post Slider by 10Web plugin does not remove any data that may have "
+"been created. To completely remove this plugin, you can uninstall it here."
+msgstr ""
+"Avaktivera Post Slider by 10Web plugin tar inte bort några data som kan ha "
+"skapats. För att helt ta bort denna plugin, kan du avinstallera det här."
+
+#: admin/views/WDPSViewUninstall_wdps.php:45
+msgid "WARNING:"
+msgstr "VARNING:"
+
+#: admin/views/WDPSViewUninstall_wdps.php:46
+msgid ""
+"Once uninstalled, this can't be undone. You should use a Database Backup "
+"plugin of WordPress to back up all the data first."
+msgstr ""
+"När avinstalle detta kan inte ångras. Du bör använda en databas Backup "
+"plugin för Wordpress att säkerhetskopiera alla data först."
+
+#: admin/views/WDPSViewUninstall_wdps.php:49
+msgid "The following Database Tables will be deleted:"
+msgstr "Följande databastabeller kommer att tas bort:"
+
+#: admin/views/WDPSViewUninstall_wdps.php:54
+msgid "Database Tables"
+msgstr "Databastabeller"
+
+#: admin/views/WDPSViewUninstall_wdps.php:68
+msgid "Do you really want to uninstall Post Slider by 10Web plugin?"
+msgstr "Vill du verkligen vill avinstallera Post Slider by 10Web plugin?"
+
+#: admin/views/WDPSViewUninstall_wdps.php:74
+msgid "UNINSTALL"
+msgstr "AVINSTALLERA"
+
+#: admin/views/WDPSViewUninstall_wdps.php:75
+msgid ""
+"You are About to Uninstall Post Slider by 10Web plugin from WordPress.This Action "
+"Is Not Reversible."
+msgstr ""
+"Du är på väg att avinstallera Post Slider by 10Web plugin från WordPress.This "
+"Action är inte Vändbar."
+
+#: admin/views/WDPSViewUninstall_wdps.php:100
+msgid "The following Database Tables successfully deleted:"
+msgstr "Följande databastabeller raderats:"
+
+#: admin/views/WDPSViewUninstall_wdps.php:107
+msgid "Click Here"
+msgstr "Klicka här"
+
+#: admin/views/WDPSViewUninstall_wdps.php:107
+msgid ""
+"To Finish the Uninstallation and Post Slider by 10Web will be Deactivated "
+"Automatically."
+msgstr ""
+"Avsluta avinstallationen och Post Slider by 10Web kommer att avaktiveras "
+"automatiskt."
+
+#: admin/views/WDPSViewWDPSPosts.php:58
+msgid "Posts"
+msgstr "Inlägg"
+
+#: admin/views/WDPSViewWDPSPosts.php:85
+msgid "Add to slider"
+msgstr "Lägg till skjutreglaget"
+
+#: admin/views/WDPSViewWDPSPosts.php:89
+msgid ""
+"You can include only published posts with featured image. If you want to "
+"include posts without featured image into the list, disable Featured image "
+"option in Settings->Global Options."
+msgstr ""
+"Du kan inkludera bara publicerade inlägg med skissbild. Om du vill inkludera "
+"inlägg utan skissbild i listan, avaktivera anläggningen alternativ i "
+"Inställningar> Globala alternativ."
+
+#: admin/views/WDPSViewWDPSPosts.php:124
+msgid "Taxonomies"
+msgstr "taxonomier"
+
+#: admin/views/WDPSViewWDPSPosts.php:128
+msgid "-all-"
+msgstr "-Alla-"
+
+#: admin/views/WDPSViewWDPSPosts.php:154 admin/views/WDPSViewWDPSPosts.php:166
+msgid "Title"
+msgstr "Titel"
+
+#: admin/views/WDPSViewWDPSPosts.php:161
+msgid "Image"
+msgstr "Bild"
+
+#: admin/views/WDPSViewWDPSPosts.php:176
+msgid "Type"
+msgstr "Typ"
+
+#: admin/views/WDPSViewWDPSPosts.php:181
+msgid "Date created"
+msgstr "Datum skapad"
+
+#: admin/views/WDPSViewWDPSPosts.php:188
+msgid "Date modified"
+msgstr "Datum ändrat"
+
+#: admin/views/WDPSViewWDPSShortcode.php:34
+msgid "Post Slider by 10Web"
+msgstr "Post Slider by 10Web"
+
+#: admin/views/WDPSViewWDPSShortcode.php:43
+msgid "Select a Slider"
+msgstr "Välj en Slider"
+
+#: admin/views/WDPSViewWDPSShortcode.php:46
+msgid "- Select a Slider -"
+msgstr "- Välj en Slider -"
+
+#: admin/views/WDPSViewWidgetSlideshow.php:60
+msgid "Title:"
+msgstr "Titel:"
+
+#: admin/views/WDPSViewWidgetSlideshow.php:65
+msgid "Select Slider"
+msgstr "Välj Slider"
+
+#: framework/WDW_PS_Library.php:45
+msgid "Item Succesfully Saved."
+msgstr "Punkt Att lyckas sparade."
+
+#: framework/WDW_PS_Library.php:63
+msgid "You can't delete default theme"
+msgstr "Du kan inte ta bort standardtema"
+
+#: framework/WDW_PS_Library.php:81
+msgid "The item is successfully set as default."
+msgstr "Objektet framgångsrikt inställd som standard."
+
+#: framework/WDW_PS_Library.php:87
+msgid "Options Succesfully Saved."
+msgstr "Alternativ Att lyckas sparade."
+
+#: framework/WDW_PS_Library.php:117
+msgid "Ordering Succesfully Saved."
+msgstr "Beställnings Att lyckas sparade."
+
+#: framework/WDW_PS_Library.php:123
+msgid "A term with the name provided already exists."
+msgstr "En term med namnet redan existerar."
+
+#: framework/WDW_PS_Library.php:129
+msgid "Name field is required."
+msgstr "Namn fältet är obligatoriskt."
+
+#: framework/WDW_PS_Library.php:135
+msgid "The slug must be unique."
+msgstr "Pluggen måste vara unikt."
+
+#: framework/WDW_PS_Library.php:147
+msgid "You must set watermark type."
+msgstr "Du måste ställa in vattenstämpel typ."
+
+#: framework/WDW_PS_Library.php:154
+msgid "Settings Succesfully Reset."
+msgstr "Inställningar Att lyckas Återställ."
+
+#: framework/WDW_PS_Library.php:210
+msgid "Search"
+msgstr "Sök"
+
+#: framework/WDW_PS_Library.php:211
+msgid "Reset"
+msgstr "Återställ"
+
+#: framework/WDW_PS_Library.php:444
+msgid "item"
+msgstr "objekt"
+
+#: framework/WDW_PS_Library.php:543
+#, php-format
+msgid "No %s found."
+msgstr "Nej %s hittades."
+
+#: frontend/views/WDPSViewSlider.php:42
+msgid "There is no slider selected or the slider was deleted."
+msgstr "Det finns ingen skjut valt eller reglaget raderades."
+
+#: frontend/views/WDPSViewSlider.php:62
+msgid "There are no posts in this slider."
+msgstr "Det finns inga inlägg i det här skjutreglaget."
+
+#: frontend/views/WDPSViewSlider.php:2001
+#: frontend/views/WDPSViewSlider.php:2039
+msgid "Pause"
+msgstr "Paus"
+
+#: frontend/views/WDPSViewSlider.php:2069
+msgid "Play"
+msgstr "Spela"
+
+#: post-slider-wd.php:29
+msgid "Sliders"
+msgstr "Reglagen"
+
+#: post-slider-wd.php:35
+msgid "Get Pro"
+msgstr "få Pro"
+
+#: post-slider-wd.php:36
+msgid "Uninstall"
+msgstr "Avinstallera"
+
+#: post-slider-wd.php:260
+msgid "Items Succesfully Saved."
+msgstr "Poster Att lyckas Sparad."
+
+#: post-slider-wd.php:261
+msgid "Changes made in this table should be saved."
+msgstr "Ändringar i denna tabell ska sparas."
+
+#: post-slider-wd.php:262
+msgid "Show order column"
+msgstr "Visa beställning kolonn"
+
+#: post-slider-wd.php:263
+msgid "You must select an image file."
+msgstr "Du måste välja en bildfil."
+
+#: post-slider-wd.php:264
+msgid "You must select an audio file."
+msgstr "Du måste välja en ljudfil."
+
+#: post-slider-wd.php:272
+msgid "Add Social Button Layer"
+msgstr "Lägg sociala knapp Skikt"
+
+#: post-slider-wd.php:334
+msgid "Are you sure you want to delete this layer ?"
+msgstr "Är du säker på att du vill radera detta skikt?"
+
+#: post-slider-wd.php:336
+msgid "z-index"
+msgstr "z-index"
+
+#: post-slider-wd.php:338
+msgid "Sample text"
+msgstr "Exempeltext"
+
+#: post-slider-wd.php:342
+msgid "Alt:"
+msgstr "Alt:"
+
+#: post-slider-wd.php:343
+msgid "Set the HTML attribute specified in the IMG tag."
+msgstr "Ställ in HTML-attribut som anges i IMG-taggen."
+
+#: post-slider-wd.php:365
+msgid "Scale:"
+msgstr "Skala:"
+
+#: post-slider-wd.php:366
+msgid "Set width and height of the image."
+msgstr "Ställ in bredden och höjden på bilden."
+
+#: post-slider-wd.php:367
+msgid "Social button:"
+msgstr "Social knapp:"
+
+#: post-slider-wd.php:368
+msgid "Effect in:"
+msgstr "Effekt på:"
+
+#: post-slider-wd.php:373
+msgid "Effect out:"
+msgstr "Effekt ut:"
+
+#: post-slider-wd.php:374
+msgid "Hotspot text position:"
+msgstr "Hotspot ståndpunkten:"
+
+#: post-slider-wd.php:375
+msgid "Hotspot Width:"
+msgstr "Hotspot Bredd:"
+
+#: post-slider-wd.php:376
+msgid "Hotspot Background Color:"
+msgstr "Hotspot Bakgrundsfärg:"
+
+#: post-slider-wd.php:377
+msgid "Hotspot Border:"
+msgstr "Hotspot Border:"
+
+#: post-slider-wd.php:378
+msgid "Hotspot Radius:"
+msgstr "Hotspot Radie:"
+
+#: post-slider-wd.php:384
+msgid "Break-word:"
+msgstr "Break-ord:"
+
+#: post-slider-wd.php:388
+msgid "Do you want to duplicate selected items?"
+msgstr "Vill du kopiera markerade objekt?"
+
+#: post-slider-wd.php:391
+msgid "Choose file."
+msgstr "Välj FIL."
+
+#: post-slider-wd.php:392
+msgid "Sorry, you are not allowed to upload this type of file."
+msgstr "Tyvärr är det inte tillåtet att ladda upp denna typ av fil."
+
+#: post-slider-wd.php:393
+msgid "The thumbnail size must be between 0 to 1."
+msgstr "Miniatyrstorlek måste vara mellan 0-1."
+
+#: post-slider-wd.php:395
+msgid "Do you want to delete slide?"
+msgstr "Vill du ta bort slide?"
+
+#: post-slider-wd.php:401
+msgid "Remove shortcode:"
+msgstr "Ta kortkod:"
+
+#: post-slider-wd.php:402
+msgid "Are you sure you want to reset the slider?"
+msgstr "Är du säker på att du vill återställa reglaget?"
+
+#: post-slider-wd.php:519
+msgid ""
+"Post Slider by 10Web is designed to show off your selected posts of your website "
+"using in a slider."
+msgstr ""
+
+#: post-slider-wd.php:523
+msgid "Responsive"
+msgstr ""
+
+#: post-slider-wd.php:524
+msgid ""
+"Post Slider by 10Web is a stunning responsive plugin, bringing the best experience "
+"on all mobile devices. Post slides look crisp and sharp on any screen "
+"variations."
+msgstr ""
+
+#: post-slider-wd.php:527
+msgid "Touch Swipe Navigation"
+msgstr "Tryck på Svep Navigation"
+
+#: post-slider-wd.php:528
+msgid ""
+"Stay cool with your finger as you swipe your slides across any device and "
+"view the stunning color pallet of your slides."
+msgstr ""
+
+#: post-slider-wd.php:531
+msgid "Layers with Animations and Transition Effects"
+msgstr ""
+
+#: post-slider-wd.php:532
+msgid ""
+"The plugin includes more than 30 animations and transition effects for post-"
+"slides, bringing energetic mood to your posts."
+msgstr ""
+
+#: post-slider-wd.php:535
+msgid "Fully Customizable Slider"
+msgstr ""
+
+#: post-slider-wd.php:536
+msgid ""
+"Set slider settings, choose colors and fonts, add custom CSS, choose "
+"navigation buttons, transaction effects and much more."
+msgstr ""
+
+#: post-slider-wd.php:539
+msgid "Navigation Button and Bullets Variety"
+msgstr ""
+
+#: post-slider-wd.php:540
+msgid ""
+"Chose navigation button, bullets and color. If looking for something "
+"different upload your own option."
+msgstr ""
+
+#: post-slider-wd.php:546
+msgid "Installing the Post Slider by 10Web"
+msgstr "Installera Post Slider by 10Web"
+
+#: post-slider-wd.php:551
+msgid "Creating Posts Sliders"
+msgstr "Skapa inlägg Sliders"
+
+#: post-slider-wd.php:555
+msgid "Creating Static Posts Slider"
+msgstr "Skapa Statisk inlägg Slider"
+
+#: post-slider-wd.php:559
+msgid "Creating Dynamic Posts Slider"
+msgstr "Skapa Dynamic inlägg Slider"
+
+#: post-slider-wd.php:565
+msgid "Adding Layers to Sliders"
+msgstr "Tillsats Skikt till Sliders"
+
+#: post-slider-wd.php:569
+msgid "Text Layer"
+msgstr "textlager"
+
+#: post-slider-wd.php:573
+msgid "Image Layer"
+msgstr "bild Layer"
+
+#: post-slider-wd.php:581
+msgid "HotSpot Layer"
+msgstr "HotSpot Layer"
+
+#: post-slider-wd.php:587
+msgid "Post Slider Settings"
+msgstr "Inlägg Slider Settings"
+
+#: post-slider-wd.php:591
+msgid "Global Settings"
+msgstr "Globala inställningar"
+
+#: post-slider-wd.php:611
+msgid "Timer Bar"
+msgstr "timer Bar"
+
+#: post-slider-wd.php:621
+msgid "Inserting Post Slider"
+msgstr "Sätta Post Slider"
+
+#: post-slider-wd.php:743
+#, php-format
+msgid "This section allows you to %s."
+msgstr "I det här avsnittet kan du %s."
+
+#: post-slider-wd.php:745
+msgid "Read More in User Manual"
+msgstr "Läs mer i bruksanvisningen"
+
+#: post-slider-wd.php:751
+msgid "Upgrade to paid version"
+msgstr "Uppgradera till betald version"
+
+#: post-slider-wd.php:766 wd/templates/display_overview_user_guide.php:33
+msgid "Support Forum"
+msgstr "Supportforum"
+
+#: wd/includes/deactivate.php:35
+msgid "Technical problems / hard to use"
+msgstr ""
+
+#: wd/includes/deactivate.php:39
+msgid "Free version is limited"
+msgstr ""
+
+#: wd/includes/deactivate.php:43
+msgid "Premium is expensive"
+msgstr ""
+
+#: wd/includes/deactivate.php:47
+msgid "Upgrading to paid version"
+msgstr ""
+
+#: wd/includes/deactivate.php:51
+msgid "Temporary deactivation"
+msgstr ""
+
+#: wd/includes/notices.php:211
+msgid "Leave A Review?"
+msgstr "Lämna en översyn?"
+
+#: wd/includes/notices.php:212
+#, php-format
+msgid ""
+"We hope you've enjoyed using WordPress %s! Would you consider leaving us a "
+"review on WordPress.org?"
+msgstr ""
+"Vi hoppas att du har haft hjälp Wordpress% s! Kan du tänka dig att lämna oss "
+"en recension om WordPress.org?"
+
+#: wd/includes/notices.php:213
+msgid "Sure! I'd love to!"
+msgstr "Säker! Jag vill gärna!"
+
+#: wd/includes/notices.php:214
+msgid "I've already left a review"
+msgstr "Jag har redan lämnat en översyn"
+
+#: wd/includes/notices.php:215
+msgid "Maybe Later"
+msgstr "Kanske senare"
+
+#: wd/includes/notices.php:216
+msgid "Never show again"
+msgstr "Visa aldrig igen"
+
+#: wd/includes/overview.php:27
+msgid "Welcome"
+msgstr ""
+
+#: wd/includes/overview.php:31
+#, fuzzy
+#| msgid "Check out User Guide"
+msgid "User Guide"
+msgstr "Kolla in användarhandbok"
+
+#: wd/includes/overview.php:35
+msgid "Deals"
+msgstr ""
+
+#: wd/includes/overview.php:39
+msgid "Support"
+msgstr ""
+
+#: wd/includes/overview.php:43
+msgid "Submit Your  Idea"
+msgstr ""
+
+#: wd/includes/overview.php:47
+msgid "Forum"
+msgstr ""
+
+#: wd/includes/overview.php:79
+msgid "Wordpress form builder plugin"
+msgstr ""
+
+#: wd/includes/overview.php:80
+msgid ""
+"Form Maker is a modern and advanced tool for creating WordPress forms easily "
+"and fast."
+msgstr ""
+
+#: wd/includes/overview.php:85
+msgid "WordPress Photo Gallery plugin"
+msgstr ""
+
+#: wd/includes/overview.php:86
+msgid ""
+"Photo Gallery is a fully responsive WordPress Gallery plugin with advanced "
+"functionality."
+msgstr ""
+
+#: wd/includes/overview.php:91
+msgid "WordPress calendar plugin"
+msgstr ""
+
+#: wd/includes/overview.php:92
+msgid ""
+"Organize and publish your events in an easy and elegant way using Event "
+"Calendar WD."
+msgstr ""
+
+#: wd/includes/overview.php:97
+msgid "WD Google Maps plugin"
+msgstr ""
+
+#: wd/includes/overview.php:98
+msgid ""
+"Google Maps WD is an intuitive tool for creating Google maps with advanced "
+"markers, custom layers and overlays for   your website."
+msgstr ""
+
+#: wd/includes/overview.php:103
+msgid "WordPress slider plugin"
+msgstr ""
+
+#: wd/includes/overview.php:104
+msgid ""
+"Create responsive, highly configurable sliders with various effects for your "
+"WordPress site."
+msgstr ""
+
+#: wd/includes/overview.php:109
+msgid "WordPress event calendar plugin"
+msgstr ""
+
+#: wd/includes/overview.php:110
+msgid ""
+"Spider Event Calendar is a highly configurable product which allows you to "
+"have multiple organized events."
+msgstr ""
+
+#: wd/includes/overview.php:115
+msgid "WordPress Instagram Feed plugin"
+msgstr ""
+
+#: wd/includes/overview.php:116
+msgid ""
+"WD Instagram Feed is a user-friendly tool for displaying user or hashtag-"
+"based feeds on your website."
+msgstr ""
+
+#: wd/includes/overview.php:168
+msgid "Not set"
+msgstr ""
+
+#: wd/includes/overview.php:173 wd/includes/overview.php:180
+msgid "On"
+msgstr ""
+
+#: wd/includes/overview.php:175 wd/includes/overview.php:182
+msgid "Off"
+msgstr ""
+
+#: wd/includes/overview.php:191 wd/includes/overview.php:199
+#: wd/includes/overview.php:206 wd/includes/overview.php:213
+#: wd/includes/overview.php:221 wd/includes/overview.php:228
+msgid "N/A"
+msgstr ""
+
+#: wd/includes/overview.php:226
+msgid " MByte"
+msgstr ""
+
+#: wd/includes/subscribe.php:43
+msgid "Your name &"
+msgstr ""
+
+#: wd/includes/subscribe.php:44
+msgid "Email address"
+msgstr ""
+
+#: wd/includes/subscribe.php:48
+msgid "Site URL"
+msgstr ""
+
+#: wd/includes/subscribe.php:49
+#, fuzzy
+#| msgid "Current version %s"
+msgid "Wordpress version"
+msgstr "Nuvarande version% s"
+
+#: wd/includes/subscribe.php:53
+msgid "List of plugins"
+msgstr ""
+
+#: wd/templates/display_deactivation_popup.php:8
+msgid ""
+"Please let us know why you are deactivating. Your answer will help us to "
+"serve you better"
+msgstr ""
+
+#: wd/templates/display_deactivation_popup.php:21
+#, fuzzy
+#| msgid "Deactive Button"
+msgid "Deactivate"
+msgstr "Deaktiv Knapp"
+
+#: wd/templates/display_deactivation_popup.php:22
+msgid "Submit and deactivate"
+msgstr ""
+
+#: wd/templates/display_overview.php:6
+#, php-format
+msgid "Welcome to %s"
+msgstr ""
+
+#: wd/templates/display_overview.php:8
+#, php-format
+msgid "CONGRATS! You've successfully installed %s WordPress plugin."
+msgstr ""
+
+#: wd/templates/display_overview_deals.php:12
+#, fuzzy, php-format
+#| msgid "Get Pro"
+msgid "Get %s"
+msgstr "få Pro"
+
+#: wd/templates/display_overview_deals.php:13
+msgid "plugins"
+msgstr ""
+
+#: wd/templates/display_overview_deals.php:14
+#: wd/templates/display_overview_deals.php:65
+msgid "for"
+msgstr ""
+
+#: wd/templates/display_overview_deals.php:14
+#: wd/templates/display_overview_deals.php:65
+msgid "only"
+msgstr ""
+
+#: wd/templates/display_overview_deals.php:16
+#, fuzzy
+#| msgid "Save"
+msgid "Save 80%"
+msgstr "Spara"
+
+#: wd/templates/display_overview_deals.php:37
+msgid "Downloads"
+msgstr ""
+
+#: wd/templates/display_overview_deals.php:42
+msgid "Download"
+msgstr ""
+
+#: wd/templates/display_overview_deals.php:52
+msgid "Get all plugins"
+msgstr ""
+
+#: wd/templates/display_overview_deals.php:64
+msgid "Get all 11 themes"
+msgstr ""
+
+#: wd/templates/display_overview_deals.php:67
+#, fuzzy
+#| msgid "Save"
+msgid "Save 70%"
+msgstr "Spara"
+
+#: wd/templates/display_overview_deals.php:84
+msgid "Find out more"
+msgstr ""
+
+#: wd/templates/display_overview_support.php:3
+#, php-format
+msgid ""
+"You may contact us by filling in this form or by email %s any time you need "
+"professional support or have any questions. You can also fill in the form to "
+"leave your comments or feedback."
+msgstr ""
+
+#: wd/templates/display_overview_support.php:6
+msgid "Site Deatils"
+msgstr ""
+
+#: wd/templates/display_overview_support.php:8
+msgid ""
+"When contacting support, consider copying and pasting this information in "
+"your support request."
+msgstr ""
+
+#: wd/templates/display_overview_support.php:10
+msgid "It helps us troubleshoot more quickly."
+msgstr ""
+
+#: wd/templates/display_overview_support.php:17
+msgid "Copy to Clipboard"
+msgstr ""
+
+#: wd/templates/display_overview_support.php:20
+#, fuzzy
+#| msgid "Reset Settings"
+msgid "Server Settings"
+msgstr "Återställ inställningar"
+
+#: wd/templates/display_overview_support.php:26
+msgid "Graphic Library"
+msgstr ""
+
+#: wd/templates/display_overview_user_guide.php:26
+msgid "Demo"
+msgstr ""
+
+#: wd/templates/display_overview_user_guide.php:36
+msgid "FAQ"
+msgstr ""
+
+#: wd/templates/display_overview_user_guide.php:40
+msgid "Addons"
+msgstr ""
+
+#: wd/templates/display_overview_welcome.php:18
+msgid "Run Install Wizard "
+msgstr ""
+
+#: wd/templates/display_overview_welcome.php:26
+msgid "More features"
+msgstr ""
+
+#: wd/templates/display_subscribe.php:9
+msgid "Hi there"
+msgstr ""
+
+#: wd/templates/display_subscribe.php:11
+#, php-format
+msgid ""
+"Allow %s to collect some usage data. This will allow  you to get more out of "
+"your plugin experience – get awesome customer support, receive exclusive "
+"deals and discounts on  premium products and more. You can choose to skip "
+"this step, %s will still work just fine."
+msgstr ""
+
+#: wd/templates/display_subscribe.php:19
+msgid "What data is being collected?"
+msgstr ""
+
+#: wd/templates/display_subscribe.php:36
+msgid "Privacy Policy"
+msgstr ""
+
+#: wd/templates/display_subscribe.php:42
+msgid "Terms of Use"
+msgstr ""
+
+#: wd/wd.php:72
+msgid "Overview"
+msgstr ""
+
+#~ msgid "Minimum size"
+#~ msgstr "Minsta storlek"
+
+#~ msgid "Hey! How's It Going?"
+#~ msgstr "Hallå! Hur går det?"
+
+#~ msgid ""
+#~ "Thank you for using WordPress %s! We hope that you've found everything "
+#~ "you need, but if you have any questions:"
+#~ msgstr ""
+#~ "Tack för att du använder Wordpress %s! Vi hoppas att du har hittat allt "
+#~ "du behöver, men om du har några frågor:"
+
+#~ msgid "Check out User Guide"
+#~ msgstr "Kolla in användarhandbok"
+
+#~ msgid "Get Some Help"
+#~ msgstr "Få lite hjälp"
+
+#~ msgid "This section allows you to edit global options for post sliders."
+#~ msgstr ""
+#~ "I det här avsnittet kan du redigera globala alternativ för post reglagen."
+
+#~ msgid "This section allows you to create, edit and delete post sliders."
+#~ msgstr ""
+#~ "I det här avsnittet kan du skapa, redigera och radera inlägg reglagen."
+
+#~ msgid "This section allows you to add/edit post slider."
+#~ msgstr "I det här avsnittet kan du lägga till / redigera post reglaget."
+
+#~ msgid "Featured Plugins"
+#~ msgstr "Deltagande Insticks"
+
+#~ msgid "Featured Themes"
+#~ msgstr "Utvalda teman"
+
+#~ msgid ""
+#~ "You can set a redirection link, so that the user will get to the "
+#~ "mentioned location upon hitting the slide.<br />Use http:// and https:// "
+#~ "for external links."
+#~ msgstr ""
+#~ "Du kan ställa in en omdirigering länk, så att användaren kommer att få "
+#~ "nämnda plats vid slå bilden <br /> Använd http:. // Och https: // för "
+#~ "externa länkar."
+
+#~ msgid "Item Succesfully Duplicated."
+#~ msgstr "Punkt Att lyckas duplicerade."
+
+#~ msgid "Infinite."
+#~ msgstr "Oändlig."
+
+#~ msgid "Fixed step"
+#~ msgstr "fasta steg"
+
+#~ msgid "The folder was successfully deleted."
+#~ msgstr "Mappen har tagits bort."
+
+#~ msgid "An error occurred when deleting the folder."
+#~ msgstr "Ett fel uppstod när du tar bort mappen."
+
+#~ msgid "There are no posts  in this slider."
+#~ msgstr "Det finns inga inlägg i det här skjutreglaget ."
+
+#~ msgid "Slider successfully imported."
+#~ msgstr "Slider har importerats."
+
+#~ msgid "Unexpected error occurred."
+#~ msgstr "Oväntat fel inträffade."
+
+#~ msgid ""
+#~ "Select the effect which will be applied when shifting from one slider to "
+#~ "another."
+#~ msgstr ""
+#~ "Välj den effekt som kommer att tillämpas vid växling från ett reglage "
+#~ "till en annan."
+
+#~ msgid "Previous Button"
+#~ msgstr "Föregående Button"
+
+#~ msgid "Previous Button Hover"
+#~ msgstr "Föregående Button Hover"
+
+#~ msgid "Next Button"
+#~ msgstr "Nästa Button"
+
+#~ msgid "Next Button Hover"
+#~ msgstr "Next Button Hover"
+
+#~ msgid "Choose the type and color for navigation button images."
+#~ msgstr "Välj typ och färg för navigering knapp bilder."
+
+#~ msgid "Play Button"
+#~ msgstr "Play-knappen"
+
+#~ msgid "Play Button Hover"
+#~ msgstr "Spela knapp hovring"
+
+#~ msgid "Pause Button"
+#~ msgstr "Pausknappen"
+
+#~ msgid "Pause Button Hover"
+#~ msgstr "Pausknappen Hover"
+
+#~ msgid "Active Button"
+#~ msgstr "Active Button"
+
+#~ msgid "Choose the type and color for the bullets."
+#~ msgstr "Välj typ och färg för kulorna."
+
+#~ msgid "Select the background color for the bullet..."
+#~ msgstr "Välj bakgrundsfärg för kulan ..."
+
+#~ msgid "Thumbnail margin:"
+#~ msgstr "Miniatyr marginal:"
+
+#~ msgid "Set the margin for the thumbnails."
+#~ msgstr "Ställ in marginalen för miniatyrbilderna."
+
+#~ msgid "Scale"
+#~ msgstr "Skala"
+
+#~ msgid "Post type:"
+#~ msgstr "Post typ:"
+
+#~ msgid "All public posts are included in the list."
+#~ msgstr "Alla offentliga tjänster ingår i listan."
+
+#~ msgid "Share on Facebook"
+#~ msgstr "Dela på Facebook"
+
+#~ msgid "Share on Twitter"
+#~ msgstr "Dela på Twitter"
+
+#~ msgid "Share on Google+"
+#~ msgstr "Dela på Google+"
+
+#~ msgid "Share on Pinterest"
+#~ msgstr "Dela på Pinterest"
+
+#~ msgid "Share on Tumblr"
+#~ msgstr "Dela på Tumblr"
+
+#~ msgid ""
+#~ "Post Slider by 10Web is a responsive plugin, which allows adding sliders to "
+#~ "your posts/pages and to custom location."
+#~ msgstr ""
+#~ "Post Slider by 10Web är en lyhörd plugin, som gör det möjligt att lägga till "
+#~ "bilder till dina inlägg / sidor och anpassad plats."
+
+#~ msgid "Updates"
+#~ msgstr "uppdateringar"
+
+#~ msgid ""
+#~ "You can download the latest version of your plugins from your %s "
+#~ "account.\n"
+#~ "            After deactivate and delete the current version.\n"
+#~ "            Install the downloaded latest version of the plugin."
+#~ msgstr ""
+#~ "Du kan ladda ner den senaste versionen av dina plugins från ditt% s "
+#~ "konto.\n"
+#~ "             Efter avaktivera och ta bort den aktuella versionen.\n"
+#~ "             Installera den hämtade senaste versionen av "
+#~ "insticksprogrammet."
+
+#~ msgid "There is a new %s version"
+#~ msgstr "Current version %s"
+
+#~ msgid "%s is up to date."
+#~ msgstr "% s är aktuell."
+
+#~ msgid "Dynamic post"
+#~ msgstr "Dynamisk inlägget"
+
+#~ msgid "Smart Crop"
+#~ msgstr "Smart Crop"
+
+#~ msgid "Crop Image Position"
+#~ msgstr "Beskär bildläge"
+
+#~ msgid "You can include only published posts with featured image."
+#~ msgstr "Du kan inkludera bara publicerade inlägg med skissbild."
+
+#~ msgid "There are no postes in this slider."
+#~ msgstr "Det finns inga postes i reglaget."
+
+#~ msgid "There are no slides in this slider."
+#~ msgstr "Det finns inga bilder i det här skjutreglaget."
+
+#~ msgid "Slider post type:"
+#~ msgstr "Slider post typ:"
+
+#~ msgid "Dynamic post slides"
+#~ msgstr "Dynamiska placera objektglasen"
+
+#~ msgid "Static post slides"
+#~ msgstr "Statiska placera objektglasen"
+
+#~ msgid "Uninstall Post Slider WordPress"
+#~ msgstr "Avinstallera Post Slider Wordpress"
+
+#~ msgid ""
+#~ "Deactivating Post Slider WordPress plugin does not remove any data that "
+#~ "may have been created. To completely remove this plugin, you can "
+#~ "uninstall it here."
+#~ msgstr ""
+#~ "Avaktivera Post Slider Wordpress plugin tar inte bort några data som kan "
+#~ "ha skapats. För att helt ta bort denna plugin, kan du avinstallera det "
+#~ "här."
+
+#~ msgid "Do you really want to uninstall Post Slider WordPress plugin?"
+#~ msgstr "Vill du verkligen vill avinstallera Post Slider Wordpress plugin?"
+
+#~ msgid ""
+#~ "You are About to Uninstall Post Slider WordPress plugin from WordPress."
+#~ "This Action Is Not Reversible."
+#~ msgstr ""
+#~ "Du är på väg att avinstallera Post Slider Wordpress plugin från WordPress."
+#~ "This Action är inte Vändbar."
+
+#~ msgid ""
+#~ "To Finish the Uninstallation and Post Slider WordPress will be "
+#~ "Deactivated Automatically."
+#~ msgstr ""
+#~ "Avsluta avinstallationen och Post Slider Wordpress kommer att avaktiveras "
+#~ "automatiskt."
+
+#~ msgid "Post Slider WordPress"
+#~ msgstr "Post Slider WordPress"
+
+#~ msgid "Enable Dynamic Posts:"
+#~ msgstr "Aktivera Dynamiska Inlägg:"
+
+#~ msgid ""
+#~ "Enable this option if you want to display standard posts as slides with "
+#~ "their featured images."
+#~ msgstr ""
+#~ "Aktivera det här alternativet om du vill visa standard inlägg som glider "
+#~ "med sina presenterade bilder."
+
+#~ msgid "Added Post Autoupdate Interval:"
+#~ msgstr "Lade Post Autouppdatering Intervall:"
+
+#~ msgid "Set the number of posts which will be displayed as slides."
+#~ msgstr "Ställ in antal tjänster som kommer att visas som diabilder."
+
+#~ msgid "Layer Word Count:"
+#~ msgstr "Layer Räkna ord:"
+
+#~ msgid ""
+#~ "This will limit the number of words for post content displayed as a layer."
+#~ msgstr ""
+#~ "Detta kommer att begränsa antalet ord för publicera innehåll visas som "
+#~ "ett lager."
+
+#~ msgid ""
+#~ "You are About to Uninstall Post Slider WordPress plugin from WordPress."
+#~ "\\nThis Action Is Not Reversible."
+#~ msgstr ""
+#~ "Du är på väg att avinstallera Post Slider Wordpress plugin från "
+#~ "Wordpress. \\\\\\\\ NDetta Action är inte Vändbar."
+
+#~ msgid "You can include only posts with featured image."
+#~ msgstr "Du kan inkludera endast inlägg med skissbild."
+
+#~ msgid "Remove"
+#~ msgstr "Avlägsna"
+
+#~ msgid "Choose file (use .zip format)."
+#~ msgstr "Välj fil (använd .zip-format)."
+
+#~ msgid "Еffect duration:"
+#~ msgstr "Еffect varaktighet:"
+
+#~ msgid "Select the author who’s posts will be displayed within the slider."
+#~ msgstr "Välj författare som inlägg kommer att visas inom skjutreglaget."
+
+#~ msgid "Slider name:"
+#~ msgstr "Slider namn:"
+
+#~ msgid "Add slide"
+#~ msgstr "Lägg sliden"
+
+#~ msgid ""
+#~ "You can set a redirection link, so that the user will get to the "
+#~ "mentioned location upon hitting the slide."
+#~ msgstr ""
+#~ "Du kan ställa in en omdirigering länk, så att användaren kommer att få "
+#~ "nämnda plats vid slå bilden."
+
+#~ msgid "Rob"
+#~ msgstr "Rob"
